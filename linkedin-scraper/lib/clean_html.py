@@ -2,7 +2,7 @@ from time import sleep
 
 from parsel import Selector
 
-from lib.prompts import position
+from prompts import position
 
 
 def get_helper(html, clas, clas_nester):

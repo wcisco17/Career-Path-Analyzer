@@ -1,10 +1,6 @@
-import csv
-
-from lib.clean_html import (get_education_list, get_experience, get_headline,
+from clean_html import (get_education_list, get_experience, get_headline,
                         get_industry, get_skills)
-from lib.helper import check_null, extract_values
-
-# from html_test import profile1, profile2, profile3
+from helper import check_null, extract_values
 
 
 def education_list_structure(profile):
@@ -121,15 +117,14 @@ def merge_structures(profile):
     @TEST DATA EXCEL
 """
 
-
-# def merge_structures(all):
+# def merge_structures_test_file(test_profiles):
 #     col = generate_col(7)
-#     all_profile = None
-#     with open('machine-learning.csv', 'w', newline='') as file:
+#     all_profile = {}
+#     with open('../../excel-data/test-profile-1.csv', 'w', newline='') as file:
 #         writer = csv.DictWriter(file, fieldnames=col)
 #         writer.writeheader()
-#         for profile in all:
-#             industry = get_industry()
+#         for profile in test_profiles:
+#             industry = {"Industry": "Software Engineer"}
 #             edu = education_list_structure(profile)
 #             headline = get_headline(profile)
 #             experience = experience_structure(profile)

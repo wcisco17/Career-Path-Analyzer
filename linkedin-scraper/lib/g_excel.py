@@ -4,13 +4,12 @@ import json
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
-from lib.clean_html import position
-from lib.keys import SERVICE_ACCOUNT_FILE, SPREADSHEET_ID
-from lib.structure import generate_col, merge_structures
+from prompts import position
+from keys import SERVICE_ACCOUNT_FILE, SPREADSHEET_ID
+from structure import generate_col, merge_structures
 
 SCOPES = ['https://www.googleapis.com/auth/spreadsheets']
 
-creds = None
 creds = service_account.Credentials.from_service_account_info(
     SERVICE_ACCOUNT_FILE, scopes=SCOPES)
 
@@ -40,7 +39,7 @@ def save_excel_db():
 
     col = generate_col(7)
 
-    with open('../../excel-data/linkedin.csv', 'w', newline='') as file:
+    with open('../../excel-data/all-data-linkedin.csv', 'w', newline='') as file:
         writer = csv.DictWriter(file, fieldnames=col)
         writer.writeheader()
         for value in (result['values']):
