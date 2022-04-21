@@ -1,16 +1,17 @@
 from time import sleep
 
 from linkedin_scraper import actions
-from selenium import webdriver
+from selenium.webdriver import Chrome
+from selenium.webdriver.common.by import By
 
-from lib.clean_html import get_headline
-from lib.g_excel import create_sheet
-from lib.prompts import location, password, position, username
+from clean_html import get_headline
+from g_excel import create_sheet
+from prompts import location, password, position, username
 
 # The ID Spreadsheet
 # Initialize chrome driver
 PATH = './chromedriver'
-driver = webdriver.Chrome(PATH)
+driver = Chrome(PATH)
 
 # General Website to scrape
 WEBSITE = "https://www.linkedin.com/"
@@ -18,13 +19,14 @@ WEBSITE = "https://www.linkedin.com/"
 actions.login(driver, username, password)
 
 
+# scaffold-layout__main
+
 def pull_linkedin():
     main_url = f"https://duckduckgo.com/?q=site%3Alinkedin.com%2Fin%2F+AND+%22{position}%22+AND+%22{location}%22&atb=v295-2__&ia=web"
     driver.get(
         main_url
     )
-
-    linkedin_urls = driver.find_elements_by_class_name('result__url')
+    linkedin_urls = driver.find_elements(by=By.CLASS_NAME, value='result__url')
     linkedin_urls = [url.text for url in linkedin_urls]
 
     sleep(4)
