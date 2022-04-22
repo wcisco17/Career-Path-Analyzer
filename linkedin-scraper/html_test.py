@@ -1,3 +1,969 @@
+profile_7 = """
+<main id="main" class="scaffold-layout__main
+            
+            ">
+            
+    <section id="ember38" class="artdeco-card ember-view pv-top-card" data-member-id="36498849"><!---->
+
+  <div class="live-video-hero-image
+    " style="min-height: 99px; max-height: 99px;">
+  <div class="live-video-hero-image__bg-image">
+    
+        <div tabindex="-1" class="profile-background-image profile-background-image--default">
+<!----></div>
+    
+  </div>
+  <div class="live-video-hero-image__live-video">
+<!---->  </div>
+</div>
+  <div class="ph5 pb5">
+    <div class="display-flex">
+      <div class="pv-top-card--photo text-align-left
+          pv-top-card--photo-resize">
+            <div class="pv-top-card__non-self-photo-wrapper ml0">
+  
+  <button class="pv-top-card-profile-picture pv-top-card-profile-picture__container
+      pv-top-card__photo presence-entity__image EntityPhoto-circle-9
+      " type="button">
+    
+    <img width="200" title="Aileen Gribbin" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" height="200" alt="Aileen Gribbin" id="ember40" class="pv-top-card-profile-picture__image pv-top-card-profile-picture__image--show ghost-person ember-view">
+
+<!---->
+<!---->
+  </button>
+
+  
+<div class="presence-entity__indicator presence-entity__indicator--size-9 presence-indicator
+    hidden
+    presence-indicator--size-9">
+  <span class="visually-hidden">
+      Status is offline
+      </span>
+</div>
+</div>
+      </div>
+      <div class="flex-1 flex-column">
+        <div class="pv-top-card__badge-wrap">
+<!----><!----><!---->        </div>
+      </div>
+    </div>
+<!---->    <div class="mt2 relative">
+  <div class="pv-text-details__left-panel
+      ">
+    <div>
+      <h1 class="text-heading-xlarge inline t-24 v-align-middle break-words">Aileen Gribbin</h1>
+<!----><!----><!---->        <span class="distance-badge t-black--light t-14
+    
+    t-black--light
+    
+     pv-text-details__separator text-body-small v-align-middle">
+  <span class="visually-hidden" aria-label="3rd degree connection">
+      3rd degree connection
+  </span>
+  <span class="dist-value " aria-hidden="true">
+    3rd
+  </span>
+</span>
+    </div>
+        <!---->
+    <div class="text-body-medium break-words">
+      Partner at Forsyth Street Advisors
+    </div>
+<!---->  </div>
+    <ul class="pv-text-details__right-panel">
+        <li class="pv-text-details__right-panel-item">
+          <a href="#experience" class="pv-text-details__right-panel-item-link link-without-hover-visited t-black">
+            <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQG8VC4qIl6F7A/company-logo_100_100/0/1623698065975?e=2147483647&amp;v=beta&amp;t=v-r8f09czpceivvl__CNq8LbC4P3ItfhGNuO-eknwTE" alt="" id="ember117" class="ember-view pv-text-details__right-panel-item-text-image EntityPhoto-square-1">
+            <h2 class="pv-text-details__right-panel-item-text hoverable-link-text break-words text-body-small inline">
+              <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+     inline" style="line-height:2rem;max-height:4rem;-webkit-line-clamp:2;" aria-label="Current company">
+
+    Forsyth Street Advisors
+  
+<!----></div>
+            </h2>
+          </a>
+        </li>
+        <li class="pv-text-details__right-panel-item">
+          <a href="#education" class="pv-text-details__right-panel-item-link link-without-hover-visited t-black">
+            <img src="https://media-exp1.licdn.com/dms/image/C560BAQE8SOXGRyv7LA/company-logo_100_100/0/1519856401039?e=2147483647&amp;v=beta&amp;t=ku-uWxfUjoUtqvcrk5YtWSOsoMELKRJWd7DKPf9svsY" alt="" id="ember118" class="ember-view pv-text-details__right-panel-item-text-image EntityPhoto-square-1">
+            <h2 class="pv-text-details__right-panel-item-text hoverable-link-text break-words text-body-small inline">
+              <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+     inline" style="line-height:2rem;max-height:4rem;-webkit-line-clamp:2;" aria-label="Education">
+
+    Cornell University
+  
+<!----></div>
+            </h2>
+          </a>
+        </li>
+    </ul>
+  <div class="pb2 pv-text-details__left-panel">
+    <span class="text-body-small inline t-black--light break-words">
+      New York, New York, United States
+    </span>
+      <span class="pv-text-details__separator t-black--light">
+        <a href="/in/aileen-gribbin-02928210/overlay/contact-info/" id="top-card-text-details-contact-info" class="ember-view link-without-visited-state cursor-pointer text-heading-small inline-block break-words">
+          Contact info
+        </a>
+      </span>
+  </div>
+</div>
+<!---->    <ul class="pv-top-card--list pv-top-card--list-bullet display-flex pb1">
+
+<!---->
+    <li class="text-body-small">
+        <span class="t-black--light">
+          <span class="t-bold">500+</span> connections
+        </span>
+    </li>
+</ul>
+<!---->    <!---->
+    <div class="pv-top-card-v2-ctas pt2 display-flex">
+<!---->
+<!---->
+      <div class="pvs-profile-actions ">
+              
+<div class="entry-point">
+  <div></div>
+
+          
+<div id="ember178" class="ember-view"><!----></div>
+
+  <button id="ember179" class="pvs-profile-actions__action artdeco-button  artdeco-button artdeco-button--2 artdeco-button--secondary ember-view">  <li-icon aria-hidden="true" type="lock-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M12 6V5a4 4 0 00-8 0v1a2 2 0 00-2 2v5a2 2 0 002 2h8a2 2 0 002-2V8a2 2 0 00-2-2zm-3 6H7V9h2zM6 6V5a2 2 0 014 0v1z"></path>
+</svg></li-icon>
+
+<span class="artdeco-button__text">
+    Message
+</span></button>
+
+
+</div>
+
+<!---->          <div id="ember119" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
+    <button aria-expanded="false" aria-label="More actions" id="ember120" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view pvs-profile-actions__action artdeco-button artdeco-button--secondary artdeco-button--muted
+        artdeco-button--1
+        artdeco-button--circle
+        " type="button" tabindex="0">
+        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M3 9.5A1.5 1.5 0 114.5 8 1.5 1.5 0 013 9.5zM11.5 8A1.5 1.5 0 1013 6.5 1.5 1.5 0 0011.5 8zm-5 0A1.5 1.5 0 108 6.5 1.5 1.5 0 006.5 8z"></path>
+</svg></li-icon>
+    
+<!----></button>
+    <div tabindex="-1" aria-hidden="true" id="ember121" class="pvs-overflow-actions-dropdown__content artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><div class="artdeco-dropdown__content-inner">
+  
+      <ul>
+          <li>
+              
+  <div data-control-name="share_profile" role="button" id="ember122" class="display-flex align-items-center  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
+      <li-icon aria-hidden="true" type="share-linkedin-icon" class="mr3 flex-grow-0" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+  <path d="M23 12l-4.61 7H16l4-6H8a3.92 3.92 0 00-4 3.84V17a4 4 0 00.19 1.24L5.12 21H3l-.73-2.22A6.4 6.4 0 012 16.94 6 6 0 018 11h12l-4-6h2.39z"></path>
+</svg></li-icon>
+    <span class="display-flex t-normal flex-1" aria-hidden="true">Share profile in a message</span>
+    <span class="a11y-text" aria-live="off">Share Aileen Gribbin’s profile via message</span>
+  </div>
+
+          </li>
+          <li>
+              <!---->
+          </li>
+          <li>
+              
+  <div data-control-name="save_to_pdf" role="button" id="ember123" class="display-flex align-items-center  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
+      <li-icon aria-hidden="true" type="download-icon" class="mr3 flex-grow-0" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+  <path d="M21 14v5a3 3 0 01-3 3H6a3 3 0 01-3-3v-5h2v5a1 1 0 001 1h12a1 1 0 001-1v-5zm-4-.57V11l-4 2.85V3h-2v10.85L7 11v2.43L12 17z"></path>
+</svg></li-icon>
+    <span class="display-flex t-normal flex-1" aria-hidden="true">Save to PDF</span>
+    <span class="a11y-text" aria-live="off">Save Aileen Gribbin’s profile to PDF</span>
+  </div>
+
+          </li>
+          <li>
+                
+  <div data-control-name="topcard_overflow_follow" role="button" id="ember124" class="display-flex align-items-center  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" aria-live="polite" tabindex="0"><!---->
+      <li-icon aria-hidden="true" type="plus-icon" class="mr3 flex-grow-0" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+  <path d="M21 13h-8v8h-2v-8H3v-2h8V3h2v8h8z"></path>
+</svg></li-icon>
+    <span class="display-flex t-normal flex-1" aria-hidden="true">Follow</span>
+    <span class="a11y-text" aria-live="polite">Follow Aileen Gribbin</span>
+  </div>
+
+
+<div id="ember125" class="ember-view"><!----></div>
+          </li>
+          <li>
+                          
+  
+    
+      
+  <div role="button" id="ember126" class="display-flex align-items-center  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
+      <li-icon aria-hidden="true" type="connect-icon" class="mr3 flex-grow-0" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+  <path d="M14 7a5 5 0 11-5-5 5 5 0 015 5zm-3 7H7a3 3 0 00-3 3v5h10v-5a3 3 0 00-3-3zm9-2V9h-2v3h-3v2h3v3h2v-3h3v-2z"></path>
+</svg></li-icon>
+    <span class="display-flex t-normal flex-1" aria-hidden="true">Connect</span>
+    <span class="a11y-text" aria-live="off">Invite Aileen Gribbin to connect</span>
+  </div>
+
+    
+  
+
+<!---->
+
+<!---->
+<!---->
+
+
+          </li>
+          <li>
+              
+  <div data-control-name="report" role="button" id="ember127" class="display-flex align-items-center  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
+      <li-icon aria-hidden="true" type="flag-icon" class="mr3 flex-grow-0" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+  <path d="M17.9 4.38a5.82 5.82 0 01-1.9.31 6.1 6.1 0 01-1.9-.31l-3.2-1.07A6.41 6.41 0 009 3a5.57 5.57 0 00-1.9.31L6 3.67V2H4v20h2v-8l1.1-.37a6.41 6.41 0 011.9-.32 5.82 5.82 0 011.9.31l3.2 1.07a6 6 0 003.8 0L20 14V3.68z"></path>
+</svg></li-icon>
+    <span class="display-flex t-normal flex-1" aria-hidden="true">Report / Block</span>
+    <span class="a11y-text" aria-live="off">Report or block Aileen Gribbin’s profile</span>
+  </div>
+
+
+<!---->
+          </li>
+      </ul>
+    
+</div>
+</div>
+  </div>
+
+  </div>
+
+</div>
+  </div>
+    <div></div>
+<!----></section>
+<!---->
+<!---->
+    <!---->
+
+<!---->        <!---->
+<!---->
+        <!---->
+<!---->
+        <!---->
+<!---->
+        <!---->
+<!---->
+          <section id="ember90" class="artdeco-card ember-view break-words pb3
+      
+      mt2"><!---->
+
+    <div id="recent_activity" class="pv-profile-card-anchor"></div>
+            <!---->
+<div class="pvs-header__container">
+  <div class="pvs-header__top-container--no-stack">
+    <div class="pvs-header__left-container--stack">
+      <div class="pvs-header__title-container">
+          <h2 class="pvs-header__title text-heading-large">
+            <span aria-hidden="true"><!---->Activity<!----></span><span class="visually-hidden"><!---->Activity<!----></span>
+          </h2>
+          <p class="pvs-header__subtitle text-body-small">
+            <span aria-hidden="true"><!---->834 followers<!----></span><span class="visually-hidden"><!---->834 followers<!----></span>
+          </p>
+<!---->      </div>
+
+<!---->    </div>
+
+<!---->  </div>
+</div>
+
+            <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        ph5 display-flex flex-row flex-wrap
+        ">
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+      <div class="
+        display-flex" tabindex="-1" aria-hidden="true">
+    
+<!---->    
+  </div>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+        <div class="
+          display-flex flex-column full-width">
+    
+        <div class="display-flex align-items-center">
+            <span class="mr1 t-bold">
+              <span aria-hidden="true"><!---->Aileen<!----><span class="white-space-pre"> </span>hasn't posted lately<!----></span><span class="visually-hidden"><!---->Aileen<!----><span class="white-space-pre"> </span>hasn't posted lately<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->Aileen’s recent posts and comments will be displayed here.<!----></span><span class="visually-hidden"><!---->Aileen’s recent posts and comments will be displayed here.<!----></span>
+          </span>
+<!----><!---->      
+  </div>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+<!---->  </div>
+</div>
+
+        </li>
+    </ul>
+    <div class="pvs-list__footer-wrapper">
+          <div class="">
+            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--3 artdeco-button--muted 
+      inline-flex justify-center full-width align-items-center artdeco-button--fluid
+      
+      " target="_self" href="https://www.linkedin.com/in/aileen-gribbin-02928210/recent-activity/">
+<!---->      <span class="pvs-navigation__text">
+        Show all activity
+      </span>
+      <div class="pvs-navigation__icon">
+        <li-icon aria-hidden="true" type="arrow-right-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="mercado-match" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
+  <path d="M11.45 3L15 8l-3.55 5H9l2.84-4H2V7h9.84L9 3z"></path>
+</svg></li-icon>
+      </div>
+  </a>
+
+
+    </div>
+
+    </div>
+</div>
+
+<!---->  </section>
+
+<!---->
+          <section id="ember72" class="artdeco-card ember-view break-words pb3
+      
+      mt2"><!---->
+
+    <div id="experience" class="pv-profile-card-anchor"></div>
+            <!---->
+<div class="pvs-header__container">
+  <div class="pvs-header__top-container--no-stack">
+    <div class="pvs-header__left-container--stack">
+      <div class="pvs-header__title-container">
+          <h2 class="pvs-header__title text-heading-large">
+            <span aria-hidden="true"><!---->Experience<!----></span><span class="visually-hidden"><!---->Experience<!----></span>
+          </h2>
+<!----><!---->      </div>
+
+<!---->    </div>
+
+<!---->  </div>
+</div>
+
+            <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        ph5 display-flex flex-row flex-wrap
+        ">
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/company/11255245/">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C4D0BAQG8VC4qIl6F7A/company-logo_100_100/0/1623698065975?e=2147483647&amp;v=beta&amp;t=v-r8f09czpceivvl__CNq8LbC4P3ItfhGNuO-eknwTE" loading="lazy" height="48" alt="Forsyth Street Advisors logo" id="ember73" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+        <div class="
+          display-flex flex-column full-width">
+    
+        <div class="display-flex align-items-center">
+            <span class="mr1 t-bold">
+              <span aria-hidden="true"><!---->Partner<!----></span><span class="visually-hidden"><!---->Partner<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->Forsyth Street Advisors<!----></span><span class="visually-hidden"><!---->Forsyth Street Advisors<!----></span>
+          </span>
+<!----><!---->      
+  </div>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+<!---->  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+        display-flex" target="_self" tabindex="-1" aria-hidden="true" href="https://www.linkedin.com/search/results/all/?keywords=NYC+HPD">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+    <div class="EntityPhoto-square-3-ghost-company ivm-view-attr__ghost-entity ">
+<!---->    </div>
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+        <div class="
+          display-flex flex-column full-width">
+    
+        <div class="display-flex align-items-center">
+            <span class="mr1 t-bold">
+              <span aria-hidden="true"><!---->Associate/Assistant Commissioner<!----></span><span class="visually-hidden"><!---->Associate/Assistant Commissioner<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->NYC HPD<!----></span><span class="visually-hidden"><!---->NYC HPD<!----></span>
+          </span>
+          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->2002 - 2005 · 3 yrs<!----></span><span class="visually-hidden"><!---->2002 - 2005 · 3 yrs<!----></span>
+          </span>
+<!---->      
+  </div>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+<!---->  </div>
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+<!---->  </section>
+
+<!---->
+          <section id="ember74" class="artdeco-card ember-view break-words pb3
+      
+      mt2"><!---->
+
+    <div id="education" class="pv-profile-card-anchor"></div>
+            <!---->
+<div class="pvs-header__container">
+  <div class="pvs-header__top-container--no-stack">
+    <div class="pvs-header__left-container--stack">
+      <div class="pvs-header__title-container">
+          <h2 class="pvs-header__title text-heading-large">
+            <span aria-hidden="true"><!---->Education<!----></span><span class="visually-hidden"><!---->Education<!----></span>
+          </h2>
+<!----><!---->      </div>
+
+<!---->    </div>
+
+<!---->  </div>
+</div>
+
+            <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        ph5 display-flex flex-row flex-wrap
+        ">
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/company/3523/">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C560BAQE8SOXGRyv7LA/company-logo_100_100/0/1519856401039?e=2147483647&amp;v=beta&amp;t=ku-uWxfUjoUtqvcrk5YtWSOsoMELKRJWd7DKPf9svsY" loading="lazy" height="48" alt="Cornell University logo" id="ember75" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/3523/">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Cornell University<!----></span><span class="visually-hidden"><!---->Cornell University<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->Bachelor of Science (BS), Resource Economics<!----></span><span class="visually-hidden"><!---->Bachelor of Science (BS), Resource Economics<!----></span>
+          </span>
+          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->1978 - 1982<!----></span><span class="visually-hidden"><!---->1978 - 1982<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+<!---->  </div>
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+<!---->  </section>
+
+<!---->
+        <!---->
+<!---->
+        <!---->
+<!---->
+        <!---->
+<!---->
+        <!---->
+<!---->
+        <!---->
+<!---->
+        <!---->
+<!---->
+        <!---->
+<!---->
+        <!---->
+<!---->
+        <!---->
+<!---->
+        <!---->
+<!---->
+        <!---->
+<!---->
+        <!---->
+<!---->
+          <section id="ember91" class="artdeco-card ember-view break-words pb3
+      
+      mt2"><!---->
+
+    <div id="interests" class="pv-profile-card-anchor"></div>
+            <!---->
+<div class="pvs-header__container">
+  <div class="pvs-header__top-container--no-stack">
+    <div class="pvs-header__left-container--stack">
+      <div class="pvs-header__title-container">
+          <h2 class="pvs-header__title text-heading-large">
+            <span aria-hidden="true"><!---->Interests<!----></span><span class="visually-hidden"><!---->Interests<!----></span>
+          </h2>
+<!----><!---->      </div>
+
+<!---->    </div>
+
+<!---->  </div>
+</div>
+
+              <div id="ember92" class="artdeco-tabs artdeco-tabs--size-t-48 ember-view">
+      <div aria-multiselectable="false" id="ember93" class="artdeco-tablist artdeco-tablist--no-wrap ember-view" role="tablist">
+          <button tabindex="0" aria-selected="true" id="ember94" class="artdeco-tab active artdeco-tab--selected ember-view" role="tab" aria-controls="ember97">
+            <span aria-hidden="true"><!---->Companies<!----></span><span class="visually-hidden"><!---->Companies<!----></span>
+          </button>
+
+          <button tabindex="-1" aria-selected="false" id="ember95" class="artdeco-tab ember-view" role="tab" aria-controls="ember102">
+            <span aria-hidden="true"><!---->Groups<!----></span><span class="visually-hidden"><!---->Groups<!----></span>
+          </button>
+
+          <button tabindex="-1" aria-selected="false" id="ember96" class="artdeco-tab ember-view" role="tab" aria-controls="ember105">
+            <span aria-hidden="true"><!---->Schools<!----></span><span class="visually-hidden"><!---->Schools<!----></span>
+          </button>
+
+      
+</div>
+      <div tabindex="0" id="ember97" class="artdeco-tabpanel active ember-view" role="tabpanel" aria-labelledby="ember94">
+              <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        ph5 display-flex flex-row flex-wrap
+        ">
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--two-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="active_tab_companies_interests" class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/company/1352905/">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEBzmiFDMcXkw/company-logo_100_100/0/1519910277327?e=2147483647&amp;v=beta&amp;t=kmP0CMY6EVjlSt8QZOr8HzIjxO84KdipGEBsbaX9mns" loading="lazy" height="48" alt="Hudson Valley Property Group logo" id="ember98" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a data-field="active_tab_companies_interests" class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/1352905/">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Hudson Valley Property Group<!----></span><span class="visually-hidden"><!---->Hudson Valley Property Group<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+<!---->          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->866 followers<!----></span><span class="visually-hidden"><!---->866 followers<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                    <div class="pv2">
+      <button id="ember99" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">  <li-icon aria-hidden="true" type="plus-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M14 9H9v5H7V9H2V7h5V2h2v5h5z"></path>
+</svg></li-icon>
+
+<span class="artdeco-button__text">
+    Follow
+</span></button>
+    </div>
+
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--two-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="active_tab_companies_interests" class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/company/3523/">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C560BAQE8SOXGRyv7LA/company-logo_100_100/0/1519856401039?e=2147483647&amp;v=beta&amp;t=ku-uWxfUjoUtqvcrk5YtWSOsoMELKRJWd7DKPf9svsY" loading="lazy" height="48" alt="Cornell University logo" id="ember100" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a data-field="active_tab_companies_interests" class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/3523/">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Cornell University<!----></span><span class="visually-hidden"><!---->Cornell University<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+<!---->          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->526,663 followers<!----></span><span class="visually-hidden"><!---->526,663 followers<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                    <div class="pv2">
+      <button id="ember101" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">  <li-icon aria-hidden="true" type="plus-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M14 9H9v5H7V9H2V7h5V2h2v5h5z"></path>
+</svg></li-icon>
+
+<span class="artdeco-button__text">
+    Follow
+</span></button>
+    </div>
+
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+    </ul>
+    <div class="pvs-list__footer-wrapper">
+          <div class="">
+            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--3 artdeco-button--muted 
+      inline-flex justify-center full-width align-items-center artdeco-button--fluid
+      
+      " target="_self" href="https://www.linkedin.com/in/aileen-gribbin-02928210/details/interests?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAIs7aEBmz0fJG_vwLN_DQ-4Mo8pgnAMnN4&amp;tabIndex=0&amp;detailScreenTabIndex=0">
+<!---->      <span class="pvs-navigation__text">
+        Show all 8 companies
+      </span>
+      <div class="pvs-navigation__icon">
+        <li-icon aria-hidden="true" type="arrow-right-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="mercado-match" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
+  <path d="M11.45 3L15 8l-3.55 5H9l2.84-4H2V7h9.84L9 3z"></path>
+</svg></li-icon>
+      </div>
+  </a>
+
+
+    </div>
+
+    </div>
+</div>
+
+      </div>
+      <div tabindex="0" hidden="" id="ember102" class="artdeco-tabpanel artdeco-tabpanel--hidden ember-view" role="tabpanel" aria-labelledby="ember95">
+              <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        ph5 display-flex flex-row flex-wrap
+        ">
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--two-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="active_tab_groups_interests" class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/groups/4221659">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C5607AQGoZ_wDWBsOsg/group-logo_image-shrink_92x92/0/1521158771606?e=2147483647&amp;v=beta&amp;t=hATwiyErdZ0dsxAAPZXMS7BKe7aKQeZerC27NhU0uqc" loading="lazy" height="48" alt="Women in Housing and Finance (NYC) logo" id="ember103" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a data-field="active_tab_groups_interests" class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/groups/4221659">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Women in Housing and Finance (NYC)<!----></span><span class="visually-hidden"><!---->Women in Housing and Finance (NYC)<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+<!---->          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->255 members<!----></span><span class="visually-hidden"><!---->255 members<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+<!---->  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--two-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="active_tab_groups_interests" class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/groups/2708">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C5607AQGSzpL9X4WkBA/group-logo_image-shrink_48x48/0/1631434417479?e=2147483647&amp;v=beta&amp;t=4VGT8CggfEKtpbWLS1lEJLIo607aGXXW_1hpCSd_NGg" loading="lazy" height="48" alt="Commongood Careers logo" id="ember104" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a data-field="active_tab_groups_interests" class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/groups/2708">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Commongood Careers<!----></span><span class="visually-hidden"><!---->Commongood Careers<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+<!---->          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->2,797 members<!----></span><span class="visually-hidden"><!---->2,797 members<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+<!---->  </div>
+</div>
+
+        </li>
+    </ul>
+    <div class="pvs-list__footer-wrapper">
+          <div class="">
+            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--3 artdeco-button--muted 
+      inline-flex justify-center full-width align-items-center artdeco-button--fluid
+      
+      " target="_self" href="https://www.linkedin.com/in/aileen-gribbin-02928210/details/interests?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAIs7aEBmz0fJG_vwLN_DQ-4Mo8pgnAMnN4&amp;tabIndex=1&amp;detailScreenTabIndex=1">
+<!---->      <span class="pvs-navigation__text">
+        Show all 6 groups
+      </span>
+      <div class="pvs-navigation__icon">
+        <li-icon aria-hidden="true" type="arrow-right-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="mercado-match" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
+  <path d="M11.45 3L15 8l-3.55 5H9l2.84-4H2V7h9.84L9 3z"></path>
+</svg></li-icon>
+      </div>
+  </a>
+
+
+    </div>
+
+    </div>
+</div>
+
+      </div>
+      <div tabindex="0" hidden="" id="ember105" class="artdeco-tabpanel artdeco-tabpanel--hidden ember-view" role="tabpanel" aria-labelledby="ember96">
+              <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        ph5 display-flex flex-row flex-wrap
+        ">
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--two-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="active_tab_schools_interests" class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/school/18946/?legacySchoolId=18946">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C560BAQE8SOXGRyv7LA/company-logo_100_100/0/1519856401039?e=2147483647&amp;v=beta&amp;t=ku-uWxfUjoUtqvcrk5YtWSOsoMELKRJWd7DKPf9svsY" loading="lazy" height="48" alt="Cornell University logo" id="ember106" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a data-field="active_tab_schools_interests" class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/school/3523/">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Cornell University<!----></span><span class="visually-hidden"><!---->Cornell University<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+<!---->          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->526,663 followers<!----></span><span class="visually-hidden"><!---->526,663 followers<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                    <div class="pv2">
+      <button id="ember107" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">  <li-icon aria-hidden="true" type="plus-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M14 9H9v5H7V9H2V7h5V2h2v5h5z"></path>
+</svg></li-icon>
+
+<span class="artdeco-button__text">
+    Follow
+</span></button>
+    </div>
+
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+      </div>
+  </div>
+
+
+<!---->  </section>
+
+<!---->
+        <!---->
+<!---->
+  
+        </main>
+"""
+
 profile_6 = """
 <main id="main" class="scaffold-layout__main
             

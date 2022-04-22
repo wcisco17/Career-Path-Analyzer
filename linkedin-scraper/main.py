@@ -29,23 +29,23 @@ def pull_linkedin():
     linkedin_urls = driver.find_elements(by=By.CLASS_NAME, value='result__url')
     linkedin_urls = [url.text for url in linkedin_urls]
 
-    sleep(4)
+    sleep(6)
     for i, value in enumerate(linkedin_urls):
         url = value.replace('› in ›', '/in/').replace(' ', '')
         driver.get(url)
         j = i
-        sleep(6)
+        sleep(7)
         check_profile_null = get_headline(driver.page_source)
 
         if check_profile_null is not None:
             append_sheet2 = create_sheet(j, driver.page_source)
             print("Success Person----", append_sheet2)
 
-        if check_profile_null is None:
+        else:
             driver.get("https://www.google.com")
             driver.get(url)
             i += 1
-            sleep(2)
+            sleep(4)
             create_sheet(j, driver.page_source)
             print("Success Back Person [Saved]----", append_sheet2)
 

@@ -4,7 +4,6 @@ import json
 from google.oauth2 import service_account
 from googleapiclient.discovery import build
 
-from prompts import position
 from keys import SERVICE_ACCOUNT_FILE, SPREADSHEET_ID
 from structure import generate_col, merge_structures
 
@@ -25,7 +24,7 @@ def create_sheet(j, source):
     item = json.dumps(merge_structures(source))
     append_sheet2 = sheet.values().update(
         spreadsheetId=SPREADSHEET_ID,
-        valueInputOption="USER_ENTERED", body={"values": [[item]]}, range=f"{position.lower()}!A{j + 1}").execute()
+        valueInputOption="USER_ENTERED", body={"values": [[item]]}, range=f"{'product'}!A{j + 1}").execute()
     return append_sheet2
 
 

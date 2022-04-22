@@ -3,7 +3,7 @@ import csv
 from clean_html import (get_education_list, get_experience, get_headline,
                         get_industry, get_skills)
 from helper import check_null, extract_values
-from html_test import profile_u_1, profile_u_8, profile_1, profile_2, profile_3, profile_6
+from html_test import profile_7
 
 employment_type = ["Please select", "Full-time", "Part-time", "Self-employed", "Freelance", "Contract", "Internship",
                    "Apprenticeship", "Seasonal"]
@@ -14,19 +14,27 @@ def education_list_structure(profile):
     constant_values = {}
 
     for i, all_edu in enumerate(education_list):
+        i = i + 1
         for edu in all_edu:
-            i = i + 1
-            constant_values[f'College-Name-{i}'] = all_edu[0][0]
-            constant_values[f'Degree-Name-{i}'] = all_edu[0][1]
+            if len(all_edu[0]) > 1:
+                constant_values[f'College-Name-{i}'] = all_edu[0][0]
+                constant_values[f'Degree-Name-{i}'] = all_edu[0][1]
 
-            constant_values[f'Field-Of-Study-{i}'] = all_edu[0][1]
-            constant_values[f'Activities-and-Societies-{i}'] = ''
-            constant_values[f'Activities-and-Societies--{i}'] = ''
-            for e in edu:
-                if e.__contains__('societies:') or e.__contains__('Societies:'):
-                    is_exist = e.find(':')
-                    if is_exist:
-                        constant_values[f"{'Activities-and-Societies-'}-{i}"] = e[is_exist + 1:]
+                constant_values[f'Field-Of-Study-{i}'] = all_edu[0][1]
+                constant_values[f'Activities-and-Societies-{i}'] = ''
+                constant_values[f'Activities-and-Societies--{i}'] = ''
+                for e in edu:
+                    if e.__contains__('societies:') or e.__contains__('Societies:'):
+                        is_exist = e.find(':')
+                        if is_exist:
+                            constant_values[f"{'Activities-and-Societies-'}-{i}"] = e[is_exist + 1:]
+            else:
+                constant_values[f'College-Name-{i}'] = ''
+                constant_values[f'Degree-Name-{i}'] = ''
+
+                constant_values[f'Field-Of-Study-{i}'] = ''
+                constant_values[f'Activities-and-Societies-{i}'] = ''
+                constant_values[f'Activities-and-Societies--{i}'] = ''
 
     return constant_values
 
@@ -49,7 +57,7 @@ def experience_structure(profile: str) -> dict:
         value = i + 1
 
         if all_experience.__contains__('experience'):
-            if len(all_experience) >= 3:
+            if len(all_experience) > 3:
                 date_idx = all_experience[3].find('-')
                 point_idx = all_experience[3].find('·')
 
@@ -78,7 +86,7 @@ def experience_structure(profile: str) -> dict:
                 constant_values[f'Location-{value}'] = all_experience[4]
 
         if all_experience.__contains__('more-experience'):
-            if len(all_experience) >= 6:
+            if len(all_experience) > 6:
                 exp: str = all_experience[5]
                 constant_values[f'Company-Name-{value}'] = all_experience[1]
                 constant_values[f'Job-Title-{value}'] = all_experience[4]
@@ -170,14 +178,5 @@ def merge_structures_test_file(test_profiles):
             all_profile = merge(industry, headline, edu, experience, skills)
             writer.writerow(all_profile)
 
+    print(all_profile)
 
-profi = [
-    profile_6,
-    profile_3,
-    profile_1,
-    profile_2,
-    profile_u_8,
-    profile_u_1
-]
-
-merge_structures_test_file(profi)

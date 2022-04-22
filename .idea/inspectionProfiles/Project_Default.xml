@@ -10,6 +10,8 @@
       <option name="ignoredIdentifiers">
         <list>
           <option value="structure.*" />
+          <option value="tensorflow_hub" />
+          <option value="tensorflow_text" />
         </list>
       </option>
     </inspection_tool>
