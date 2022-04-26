@@ -3,7 +3,7 @@ import csv
 from clean_html import (get_education_list, get_experience, get_headline,
                         get_industry, get_skills)
 from helper import check_null, extract_values
-from html_test import profile_7
+from html_test import profile_7, profile_6, profile_2, profile_3, profile_u_8, profile_1
 
 employment_type = ["Please select", "Full-time", "Part-time", "Self-employed", "Freelance", "Contract", "Internship",
                    "Apprenticeship", "Seasonal"]
@@ -170,7 +170,7 @@ def merge_structures_test_file(test_profiles):
         writer = csv.DictWriter(file, fieldnames=col)
         writer.writeheader()
         for profile in test_profiles:
-            industry = {"Industry": "Software Engineer"}
+            industry = {"Industry": "Machine Learning"}
             headline = get_headline(profile)
             edu = education_list_structure(profile)
             experience = experience_structure(profile)
@@ -178,5 +178,9 @@ def merge_structures_test_file(test_profiles):
             all_profile = merge(industry, headline, edu, experience, skills)
             writer.writerow(all_profile)
 
-    print(all_profile)
 
+merge_structures_test_file([
+    profile_7, profile_6, profile_3, profile_u_8,
+    profile_1,
+    profile_2
+])

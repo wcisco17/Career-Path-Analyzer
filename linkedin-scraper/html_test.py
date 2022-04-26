@@ -3,14 +3,18 @@ profile_7 = """
             
             ">
             
-    <section id="ember38" class="artdeco-card ember-view pv-top-card" data-member-id="36498849"><!---->
+    <section id="ember361" class="artdeco-card ember-view pv-top-card" data-member-id="6612683"><!---->
 
   <div class="live-video-hero-image
-    " style="min-height: 99px; max-height: 99px;">
+    " style="min-height: 195.5px; max-height: 195.5px;">
   <div class="live-video-hero-image__bg-image">
     
-        <div tabindex="-1" class="profile-background-image profile-background-image--default">
-<!----></div>
+        <div tabindex="-1" class="profile-background-image">
+    <div class="profile-background-image__image-container">
+        <img class="profile-background-image__image relative
+            full-width full-height" id="profile-background-image-target-image" alt="Background Image" src="https://media-exp1.licdn.com/dms/image/C5616AQFCJiIVBxP2Fg/profile-displaybackgroundimage-shrink_350_1400/0/1632075712611?e=2147483647&amp;v=beta&amp;t=Wwx4rO6mGmPksm346l3x3q2oUS_mnCOR4yBj2QfJqZU" style="">
+    </div>
+  </div>
     
   </div>
   <div class="live-video-hero-image__live-video">
@@ -24,9 +28,9 @@ profile_7 = """
   
   <button class="pv-top-card-profile-picture pv-top-card-profile-picture__container
       pv-top-card__photo presence-entity__image EntityPhoto-circle-9
-      " type="button">
+      " type="button" data-dashlane-rid="e041ae4d76f950a9">
     
-    <img width="200" title="Aileen Gribbin" src="data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///yH5BAEAAAAALAAAAAABAAEAAAIBRAA7" height="200" alt="Aileen Gribbin" id="ember40" class="pv-top-card-profile-picture__image pv-top-card-profile-picture__image--show ghost-person ember-view">
+    <img width="200" title="Swami Sivasubramanian" src="https://media-exp1.licdn.com/dms/image/C5603AQFZVc0nePAOVw/profile-displayphoto-shrink_400_400/0/1516255276900?e=1655942400&amp;v=beta&amp;t=Ur4LGlRh7qk1wNAh9-OH91hu27BLFv7GCuMK6D04mbo" height="200" alt="Swami Sivasubramanian" id="ember363" class="pv-top-card-profile-picture__image pv-top-card-profile-picture__image--show ember-view">
 
 <!---->
 <!---->
@@ -44,36 +48,57 @@ profile_7 = """
       </div>
       <div class="flex-1 flex-column">
         <div class="pv-top-card__badge-wrap">
-<!----><!----><!---->        </div>
+            <span class="pv-member-badge pv-member-badge--for-top-card inline-flex p3" title="Swami is a Premium member">
+    <li-icon aria-hidden="true" type="linkedin-bug" size="21dp" color="premium"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 21 21" data-supported-dps="21x21" fill="currentColor" class="mercado-match" width="21" height="21" focusable="false">
+  <g>
+    <path class="background-mercado" d="M19.5 0h-18A1.5 1.5 0 000 1.5v18A1.5 1.5 0 001.5 21h18a1.5 1.5 0 001.5-1.5v-18A1.5 1.5 0 0019.5 0zM6 18H3V8h3zM4.5 6.25a1.75 1.75 0 110-3.5 1.75 1.75 0 110 3.5zM18 18h-3v-5.09c0-1.62-.74-2.44-1.84-2.44A2.31 2.31 0 0011 13v5H8V8h3v1.39a4.06 4.06 0 013.3-1.63c1.77 0 3.66.93 3.66 4z"></path>
+  </g>
+</svg></li-icon>
+
+<!---->
+  <span class="visually-hidden">
+    Swami has a premium account
+  </span>
+
+    <a tabindex="0" href="https://www.linkedin.com/premium/products?upsellOrderOrigin=premium_badge_profile_upsell" id="ember364" class="pv-member-badge__premium-upsell ember-view">
+      <span class="visually-hidden">
+        Click to upgrade to Premium
+      </span>
+    </a>
+</span>
+<!----><!---->        </div>
       </div>
     </div>
 <!---->    <div class="mt2 relative">
   <div class="pv-text-details__left-panel
       ">
     <div>
-      <h1 class="text-heading-xlarge inline t-24 v-align-middle break-words">Aileen Gribbin</h1>
+      <h1 class="text-heading-xlarge inline t-24 v-align-middle break-words">Swami Sivasubramanian</h1>
 <!----><!----><!---->        <span class="distance-badge t-black--light t-14
     
     t-black--light
     
      pv-text-details__separator text-body-small v-align-middle">
-  <span class="visually-hidden" aria-label="3rd degree connection">
-      3rd degree connection
+  <span class="visually-hidden" aria-label="2nd degree connection">
+      2nd degree connection
   </span>
   <span class="dist-value " aria-hidden="true">
-    3rd
+    2nd
   </span>
 </span>
     </div>
         <!---->
     <div class="text-body-medium break-words">
-      Partner at Forsyth Street Advisors
+      VP, Database, Analytics and ML at AWS
     </div>
-<!---->  </div>
+      <div class="text-body-small t-black--light break-words pt1">
+        <span aria-hidden="true"><!---->Talks about #aws, #sagemaker, and #machinelearning<!----></span><span class="visually-hidden"><!---->Talks about hashtag aws, hashtag sagemaker, and hashtag machinelearning<!----></span>
+      </div>
+  </div>
     <ul class="pv-text-details__right-panel">
         <li class="pv-text-details__right-panel-item">
           <a href="#experience" class="pv-text-details__right-panel-item-link link-without-hover-visited t-black">
-            <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQG8VC4qIl6F7A/company-logo_100_100/0/1623698065975?e=2147483647&amp;v=beta&amp;t=v-r8f09czpceivvl__CNq8LbC4P3ItfhGNuO-eknwTE" alt="" id="ember117" class="ember-view pv-text-details__right-panel-item-text-image EntityPhoto-square-1">
+            <img src="https://media-exp1.licdn.com/dms/image/C560BAQE_4UwvNNtNTQ/company-logo_100_100/0/1640205885683?e=2147483647&amp;v=beta&amp;t=Aqmvxbh9I3Uv6XnBvlWCAPw4AU3meh8EPznk1Nfv8NU" alt="" id="ember365" class="ember-view pv-text-details__right-panel-item-text-image EntityPhoto-square-1">
             <h2 class="pv-text-details__right-panel-item-text hoverable-link-text break-words text-body-small inline">
               <div class="inline-show-more-text
     inline-show-more-text--is-collapsed
@@ -82,7 +107,7 @@ profile_7 = """
     
      inline" style="line-height:2rem;max-height:4rem;-webkit-line-clamp:2;" aria-label="Current company">
 
-    Forsyth Street Advisors
+    Amazon Web Services (AWS)
   
 <!----></div>
             </h2>
@@ -90,7 +115,7 @@ profile_7 = """
         </li>
         <li class="pv-text-details__right-panel-item">
           <a href="#education" class="pv-text-details__right-panel-item-link link-without-hover-visited t-black">
-            <img src="https://media-exp1.licdn.com/dms/image/C560BAQE8SOXGRyv7LA/company-logo_100_100/0/1519856401039?e=2147483647&amp;v=beta&amp;t=ku-uWxfUjoUtqvcrk5YtWSOsoMELKRJWd7DKPf9svsY" alt="" id="ember118" class="ember-view pv-text-details__right-panel-item-text-image EntityPhoto-square-1">
+            <img src="https://media-exp1.licdn.com/dms/image/C4D0BAQGFPhqXMAKaTQ/company-logo_100_100/0/1639385003948?e=2147483647&amp;v=beta&amp;t=trxZmTbiRvn_eHS0NQMp25KdfV1XO30xCz44xBlbYxM" alt="" id="ember366" class="ember-view pv-text-details__right-panel-item-text-image EntityPhoto-square-1">
             <h2 class="pv-text-details__right-panel-item-text hoverable-link-text break-words text-body-small inline">
               <div class="inline-show-more-text
     inline-show-more-text--is-collapsed
@@ -99,7 +124,7 @@ profile_7 = """
     
      inline" style="line-height:2rem;max-height:4rem;-webkit-line-clamp:2;" aria-label="Education">
 
-    Cornell University
+    Vrije Universiteit Amsterdam (VU Amsterdam)
   
 <!----></div>
             </h2>
@@ -108,10 +133,10 @@ profile_7 = """
     </ul>
   <div class="pb2 pv-text-details__left-panel">
     <span class="text-body-small inline t-black--light break-words">
-      New York, New York, United States
+      Greater Seattle Area
     </span>
       <span class="pv-text-details__separator t-black--light">
-        <a href="/in/aileen-gribbin-02928210/overlay/contact-info/" id="top-card-text-details-contact-info" class="ember-view link-without-visited-state cursor-pointer text-heading-small inline-block break-words">
+        <a href="/in/swaminathansivasubramanian/overlay/contact-info/" id="top-card-text-details-contact-info" class="ember-view link-without-visited-state cursor-pointer text-heading-small inline-block break-words">
           Contact info
         </a>
       </span>
@@ -119,26 +144,52 @@ profile_7 = """
 </div>
 <!---->    <ul class="pv-top-card--list pv-top-card--list-bullet display-flex pb1">
 
-<!---->
+    <li class="text-body-small t-black--light inline-block">
+        <span class="t-bold">36,257</span> followers
+    </li>
+
     <li class="text-body-small">
         <span class="t-black--light">
           <span class="t-bold">500+</span> connections
         </span>
     </li>
 </ul>
-<!---->    <!---->
+        <a class="app-aware-link display-flex pv1 align-items-center link-without-hover-visited" href="https://www.linkedin.com/in/swaminathansivasubramanian/follower/insights">
+  <div class="ivm-image-view-model    mr2">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="32" src="https://media-exp1.licdn.com/dms/image/C4E03AQHc8ft1_OwMcw/profile-displayphoto-shrink_100_100/0/1572536564974?e=1655942400&amp;v=beta&amp;t=2df8xDB54u9jyJbS-M0akM2_RPCKk7V6NQRIMyq-k-g" loading="lazy" height="32" alt="" id="ember368" class="ivm-view-attr__img--centered EntityPhoto-circle-1  lazy-image ember-view">
+</div>
+  </div>
+  <span class="t-normal t-black--light t-14 hoverable-link-text">
+    <span aria-hidden="true"><strong><!---->Followed by 1 connection:<!----></strong><span class="white-space-pre"> </span><!----><!---->Lesly Goh<!----></span><span class="visually-hidden"><strong><!---->Followed by 1 connection:<!----></strong><span class="white-space-pre"> </span><!----><!---->Lesly Goh<!----></span>
+  </span>
+</a>
+    <!---->
     <div class="pv-top-card-v2-ctas pt2 display-flex">
 <!---->
 <!---->
       <div class="pvs-profile-actions ">
+            
+  <button data-control-name="topcard_primary_follow" aria-label="Follow Swami Sivasubramanian" id="ember369" class="pvs-profile-actions__action artdeco-button artdeco-button--2 artdeco-button--primary ember-view" aria-live="polite" type="button" data-dashlane-rid="0d7318e3dbb9ee14">  <li-icon aria-hidden="true" type="plus-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M14 9H9v5H7V9H2V7h5V2h2v5h5z"></path>
+</svg></li-icon>
+
+<span class="artdeco-button__text">
+    Follow
+</span></button>
+
+
+<div id="ember370" class="ember-view"><!----></div>
               
 <div class="entry-point">
   <div></div>
 
           
-<div id="ember178" class="ember-view"><!----></div>
+<div id="ember559" class="ember-view"><!----></div>
 
-  <button id="ember179" class="pvs-profile-actions__action artdeco-button  artdeco-button artdeco-button--2 artdeco-button--secondary ember-view">  <li-icon aria-hidden="true" type="lock-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+  <button id="ember560" class="pvs-profile-actions__action artdeco-button artdeco-button--secondary artdeco-button--muted  artdeco-button artdeco-button--2 artdeco-button--secondary ember-view">  <li-icon aria-hidden="true" type="lock-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
   <path d="M12 6V5a4 4 0 00-8 0v1a2 2 0 00-2 2v5a2 2 0 002 2h8a2 2 0 002-2V8a2 2 0 00-2-2zm-3 6H7V9h2zM6 6V5a2 2 0 014 0v1z"></path>
 </svg></li-icon>
 
@@ -149,27 +200,25 @@ profile_7 = """
 
 </div>
 
-<!---->          <div id="ember119" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-right ember-view">
-    <button aria-expanded="false" aria-label="More actions" id="ember120" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view pvs-profile-actions__action artdeco-button artdeco-button--secondary artdeco-button--muted
-        artdeco-button--1
-        artdeco-button--circle
-        " type="button" tabindex="0">
-        <li-icon aria-hidden="true" type="ellipsis-horizontal-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
-  <path d="M3 9.5A1.5 1.5 0 114.5 8 1.5 1.5 0 013 9.5zM11.5 8A1.5 1.5 0 1013 6.5 1.5 1.5 0 0011.5 8zm-5 0A1.5 1.5 0 108 6.5 1.5 1.5 0 006.5 8z"></path>
-</svg></li-icon>
+          <div id="ember371" class="artdeco-dropdown artdeco-dropdown--placement-bottom artdeco-dropdown--justification-left ember-view">
+    <button aria-expanded="false" aria-label="More actions" id="ember372" class="artdeco-dropdown__trigger artdeco-dropdown__trigger--placement-bottom ember-view pvs-profile-actions__action artdeco-button artdeco-button--secondary artdeco-button--muted
+        artdeco-button--2
+        
+        " type="button" data-dashlane-rid="785da5a10d4fb03f" tabindex="0">
+        <span>More</span>
     
 <!----></button>
-    <div tabindex="-1" aria-hidden="true" id="ember121" class="pvs-overflow-actions-dropdown__content artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-right artdeco-dropdown__content--placement-bottom ember-view"><div class="artdeco-dropdown__content-inner">
+    <div tabindex="-1" aria-hidden="true" id="ember373" class="pvs-overflow-actions-dropdown__content artdeco-dropdown__content artdeco-dropdown--is-dropdown-element artdeco-dropdown__content--justification-left artdeco-dropdown__content--placement-bottom ember-view"><div class="artdeco-dropdown__content-inner">
   
       <ul>
           <li>
               
-  <div data-control-name="share_profile" role="button" id="ember122" class="display-flex align-items-center  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
+  <div data-control-name="share_profile" role="button" id="ember374" class="display-flex align-items-center  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
       <li-icon aria-hidden="true" type="share-linkedin-icon" class="mr3 flex-grow-0" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
   <path d="M23 12l-4.61 7H16l4-6H8a3.92 3.92 0 00-4 3.84V17a4 4 0 00.19 1.24L5.12 21H3l-.73-2.22A6.4 6.4 0 012 16.94 6 6 0 018 11h12l-4-6h2.39z"></path>
 </svg></li-icon>
     <span class="display-flex t-normal flex-1" aria-hidden="true">Share profile in a message</span>
-    <span class="a11y-text" aria-live="off">Share Aileen Gribbin’s profile via message</span>
+    <span class="a11y-text" aria-live="off">Share Swami Sivasubramanian’s profile via message</span>
   </div>
 
           </li>
@@ -178,39 +227,26 @@ profile_7 = """
           </li>
           <li>
               
-  <div data-control-name="save_to_pdf" role="button" id="ember123" class="display-flex align-items-center  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
+  <div data-control-name="save_to_pdf" role="button" id="ember375" class="display-flex align-items-center  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
       <li-icon aria-hidden="true" type="download-icon" class="mr3 flex-grow-0" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
   <path d="M21 14v5a3 3 0 01-3 3H6a3 3 0 01-3-3v-5h2v5a1 1 0 001 1h12a1 1 0 001-1v-5zm-4-.57V11l-4 2.85V3h-2v10.85L7 11v2.43L12 17z"></path>
 </svg></li-icon>
     <span class="display-flex t-normal flex-1" aria-hidden="true">Save to PDF</span>
-    <span class="a11y-text" aria-live="off">Save Aileen Gribbin’s profile to PDF</span>
+    <span class="a11y-text" aria-live="off">Save Swami Sivasubramanian’s profile to PDF</span>
   </div>
 
-          </li>
-          <li>
-                
-  <div data-control-name="topcard_overflow_follow" role="button" id="ember124" class="display-flex align-items-center  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" aria-live="polite" tabindex="0"><!---->
-      <li-icon aria-hidden="true" type="plus-icon" class="mr3 flex-grow-0" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
-  <path d="M21 13h-8v8h-2v-8H3v-2h8V3h2v8h8z"></path>
-</svg></li-icon>
-    <span class="display-flex t-normal flex-1" aria-hidden="true">Follow</span>
-    <span class="a11y-text" aria-live="polite">Follow Aileen Gribbin</span>
-  </div>
-
-
-<div id="ember125" class="ember-view"><!----></div>
           </li>
           <li>
                           
   
     
       
-  <div role="button" id="ember126" class="display-flex align-items-center  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
+  <div role="button" id="ember376" class="display-flex align-items-center  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
       <li-icon aria-hidden="true" type="connect-icon" class="mr3 flex-grow-0" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
   <path d="M14 7a5 5 0 11-5-5 5 5 0 015 5zm-3 7H7a3 3 0 00-3 3v5h10v-5a3 3 0 00-3-3zm9-2V9h-2v3h-3v2h3v3h2v-3h3v-2z"></path>
 </svg></li-icon>
     <span class="display-flex t-normal flex-1" aria-hidden="true">Connect</span>
-    <span class="a11y-text" aria-live="off">Invite Aileen Gribbin to connect</span>
+    <span class="a11y-text" aria-live="off">Invite Swami Sivasubramanian to connect</span>
   </div>
 
     
@@ -225,12 +261,12 @@ profile_7 = """
           </li>
           <li>
               
-  <div data-control-name="report" role="button" id="ember127" class="display-flex align-items-center  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
+  <div data-control-name="report" role="button" id="ember377" class="display-flex align-items-center  artdeco-dropdown__item artdeco-dropdown__item--is-dropdown ember-view" tabindex="0"><!---->
       <li-icon aria-hidden="true" type="flag-icon" class="mr3 flex-grow-0" size="large"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
   <path d="M17.9 4.38a5.82 5.82 0 01-1.9.31 6.1 6.1 0 01-1.9-.31l-3.2-1.07A6.41 6.41 0 009 3a5.57 5.57 0 00-1.9.31L6 3.67V2H4v20h2v-8l1.1-.37a6.41 6.41 0 011.9-.32 5.82 5.82 0 011.9.31l3.2 1.07a6 6 0 003.8 0L20 14V3.68z"></path>
 </svg></li-icon>
     <span class="display-flex t-normal flex-1" aria-hidden="true">Report / Block</span>
-    <span class="a11y-text" aria-live="off">Report or block Aileen Gribbin’s profile</span>
+    <span class="a11y-text" aria-live="off">Report or block Swami Sivasubramanian’s profile</span>
   </div>
 
 
@@ -256,11 +292,481 @@ profile_7 = """
 <!---->
         <!---->
 <!---->
-        <!---->
+          <section id="ember380" class="artdeco-card ember-view break-words pb3
+      
+      mt2"><!---->
+
+    <div id="featured" class="pv-profile-card-anchor"></div>
+            <!---->
+<div class="pvs-header__container">
+  <div class="pvs-header__top-container--no-stack">
+    <div class="pvs-header__left-container--stack">
+      <div class="pvs-header__title-container">
+          <h2 class="pvs-header__title text-heading-large">
+            <span aria-hidden="true"><!---->Featured<!----></span><span class="visually-hidden"><!---->Featured<!----></span>
+          </h2>
+<!----><!---->      </div>
+
+<!---->    </div>
+
+<!---->  </div>
+</div>
+
+              <section id="ember381" class="pvs-carousel artdeco-carousel ember-view"><div class="artdeco-carousel__heading artdeco-carousel__heading--custom">
+    
+
+    <div class="overflow-hidden ph4 pv3">
+      <!---->
+    </div>
+    <button disabled="" aria-label="Navigate to the previous item" id="ember382" class="artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--1 artdeco-button--primary artdeco-button--disabled ember-view pvs-carousel__navigation-button artdeco-pagination__button--previous previous-btn" type="button">  <li-icon aria-hidden="true" type="chevron-left-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="mercado-match" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
+  <path d="M11 1L6.39 8 11 15H8.61L4 8l4.61-7z"></path>
+</svg></li-icon>
+
+<span class="artdeco-button__text">
+    
+</span></button>
+
+    <button aria-label="Navigate to the next item" id="ember383" class="artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--1 artdeco-button--primary ember-view pvs-carousel__navigation-button artdeco-pagination__button--next next-btn" type="button">  <li-icon aria-hidden="true" type="chevron-right-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="mercado-match" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
+  <path d="M5 15l4.61-7L5 1h2.39L12 8l-4.61 7z"></path>
+</svg></li-icon>
+
+<span class="artdeco-button__text">
+    
+</span></button>
+  
+<!----></div>
+
+<div class="artdeco-carousel__content">
+    
+
+    <div class="overflow-hidden ph4 pv3">
+      <ul id="ember384" class="artdeco-carousel__slider ember-view" style="transform: translateX(0px);">
+          <li style="width: 247.5px; max-width: none; min-width: auto;" data-item-index="0" id="ember385" class="artdeco-carousel__item active ember-view"><div data-test-display="display" class="artdeco-carousel__item-container">
+    
+                  <div class="artdeco-card full-width overflow-hidden display-flex flex-column">
+        <div class="display-flex flex-column full-width
+    full-height
+    
+    ">
+      <a class="optional-action-target-wrapper" target="_self" tabindex="-1" aria-hidden="true" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/1635477087530/single-media-viewer?type=LINK&amp;profileId=ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0">
+    <div class="pvs-content__top-bar">
+        <div class="mt3 mb2 mh3 display-flex t-12 t-black--light display-flex t-normal">
+          <span aria-hidden="true"><!---->Link<!----></span><span class="visually-hidden"><!---->Link<!----></span>
+        </div>
+    </div>
+<!---->  </a>
+
+          <a class="optional-action-target-wrapper flex-1 display-flex full-width relative
+      " target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/1635477087530/single-media-viewer?type=LINK&amp;profileId=ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0">
+        <div class="display-flex flex-column full-width">
+      <div class="pvs-media-content__image-wrapper">
+        <div class="pvs-media-content__image-aspect-ratio">
+          <div class="ivm-image-view-model   " id="content-image-ember386">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="400" src="https://media-exp1.licdn.com/dms/image/sync/C5627AQF7ZjyR1uVdRg/articleshare-shrink_800/0/1650033773182?e=2147483647&amp;v=beta&amp;t=rZuHza8UcaC9c258kAmfhOhqyHTHzgWFQsq02YdwZoo" loading="lazy" height="400" alt="" id="ember387" class="ivm-view-attr__img--centered pvs-media-content__image lazy-image ember-view">
+</div>
+  </div>
+        </div>
+      </div>
+      <div class="pvs-media-content__preview">
+          <div class="mb1">
+              <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-black t-bold break-words display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;-webkit-line-clamp:2;">
+
+    <span aria-hidden="true"><!---->AWS re:Invent 2021 - Database, Analytics, and Machine Learning Keynote with Swami Sivasubramanian<!----></span><span class="visually-hidden"><!---->AWS re:Invent 2021 - Database, Analytics, and Machine Learning Keynote with Swami Sivasubramanian<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+              <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+     t-12 t-black--light t-normal break-words" style="line-height:1.5rem;max-height:1.5rem;-webkit-line-clamp:1;">
+
+    <span aria-hidden="true"><!---->YouTube<!----></span><span class="visually-hidden"><!---->YouTube<!----></span>
+
+<!----></div>
+          </div>
+          <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more text-body-small break-words display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+    " style="line-height:1.9rem;max-height:11.399999999999999rem;-webkit-line-clamp:6;">
+
+    <span aria-hidden="true"><!---->Swami Sivasubramanian, VP Machine Learning, Amazon Web Services delivers the database, analytics, and machine learning keynote at re:Invent. Hear an exploration of what it takes to put data in action with an end to end data strategy.<span class="white-space-pre"> </span></span><span class="visually-hidden"><!---->Swami Sivasubramanian, VP Machine Learning, Amazon Web Services delivers the database, analytics, and machine learning keynote at re:Invent. Hear an exploration of what it takes to put data in action with an end to end data strategy.<span class="white-space-pre"> </span></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+      </div>
+  </div>
+
+  </a>
+
+
+<!----></div>
 <!---->
-        <!---->
+      </div>
+
+          
+</div></li>
+
+          <li style="width: 247.5px; max-width: none; min-width: auto;" data-item-index="1" id="ember388" class="artdeco-carousel__item ember-view"><div data-test-display="display" class="artdeco-carousel__item-container">
+    
+                  <div class="artdeco-card full-width overflow-hidden display-flex flex-column">
+        <div class="display-flex flex-column full-width
+    full-height
+    
+    ">
+      <a class="optional-action-target-wrapper" target="_self" tabindex="-1" aria-hidden="true" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/1612373018440/single-media-viewer?type=LINK&amp;profileId=ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0">
+    <div class="pvs-content__top-bar">
+        <div class="mt3 mb2 mh3 display-flex t-12 t-black--light display-flex t-normal">
+          <span aria-hidden="true"><!---->Link<!----></span><span class="visually-hidden"><!---->Link<!----></span>
+        </div>
+    </div>
+<!---->  </a>
+
+          <a class="optional-action-target-wrapper flex-1 display-flex full-width relative
+      " target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/1612373018440/single-media-viewer?type=LINK&amp;profileId=ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0">
+        <div class="display-flex flex-column full-width">
+      <div class="pvs-media-content__image-wrapper">
+        <div class="pvs-media-content__image-aspect-ratio">
+          <div class="ivm-image-view-model   " id="content-image-ember389">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="400" src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQFWbpooqMuHrQ/articleshare-shrink_800/0/1649867701318?e=2147483647&amp;v=beta&amp;t=nX8pOnuAGxwhlYgYZtPB-PimvbmtSiRJ8r8FOTlzUR0" loading="lazy" height="400" alt="" id="ember390" class="ivm-view-attr__img--centered pvs-media-content__image lazy-image ember-view">
+</div>
+  </div>
+        </div>
+      </div>
+      <div class="pvs-media-content__preview">
+          <div class="mb1">
+              <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-black t-bold break-words display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;-webkit-line-clamp:2;">
+
+    <span aria-hidden="true"><!---->AWS re:Invent 2020 - Machine Learning Keynote with Swami Sivasubramanian<!----></span><span class="visually-hidden"><!---->AWS re:Invent 2020 - Machine Learning Keynote with Swami Sivasubramanian<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+              <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+     t-12 t-black--light t-normal break-words" style="line-height:1.5rem;max-height:1.5rem;-webkit-line-clamp:1;">
+
+    <span aria-hidden="true"><!---->YouTube<!----></span><span class="visually-hidden"><!---->YouTube<!----></span>
+
+<!----></div>
+          </div>
+          <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more text-body-small break-words display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+    " style="line-height:1.9rem;max-height:11.399999999999999rem;-webkit-line-clamp:6;">
+
+    <span aria-hidden="true"><!---->Swami Sivasubramanian, VP Machine Learning, Amazon Web Services delivers the first-ever Machine Learning Keynote at re:Invent. Hear how AWS is freeing builders to innovate on machine learning with the latest developments in AWS machine learning, demos...<!----></span><span class="visually-hidden"><!---->Swami Sivasubramanian, VP Machine Learning, Amazon Web Services delivers the first-ever Machine Learning Keynote at re:Invent. Hear how AWS is freeing builders to innovate on machine learning with the latest developments in AWS machine learning, demos...<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+      </div>
+  </div>
+
+  </a>
+
+
+<!----></div>
 <!---->
-          <section id="ember90" class="artdeco-card ember-view break-words pb3
+      </div>
+
+          
+</div></li>
+
+          <li style="width: 247.5px; max-width: none; min-width: auto;" data-item-index="2" id="ember391" class="artdeco-carousel__item ember-view"><div data-test-display="display" class="artdeco-carousel__item-container">
+    
+                  <div class="artdeco-card full-width overflow-hidden display-flex flex-column">
+        <div class="display-flex flex-column full-width
+    full-height
+    
+    ">
+      <a class="optional-action-target-wrapper" target="_self" tabindex="-1" aria-hidden="true" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/1545454150710/single-media-viewer?type=LINK&amp;profileId=ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0">
+    <div class="pvs-content__top-bar">
+        <div class="mt3 mb2 mh3 display-flex t-12 t-black--light display-flex t-normal">
+          <span aria-hidden="true"><!---->Link<!----></span><span class="visually-hidden"><!---->Link<!----></span>
+        </div>
+    </div>
+<!---->  </a>
+
+          <a class="optional-action-target-wrapper flex-1 display-flex full-width relative
+      " target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/1545454150710/single-media-viewer?type=LINK&amp;profileId=ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0">
+        <div class="display-flex flex-column full-width">
+      <div class="pvs-media-content__image-wrapper">
+        <div class="pvs-media-content__image-aspect-ratio">
+          <div class="ivm-image-view-model   " id="content-image-ember392">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    ivm-view-attr__img-wrapper--expanded
+    ">
+<!---->      <img width="400" src="https://i.ytimg.com/vi/GW0Bktm55nI/hqdefault.jpg" loading="lazy" height="400" alt="" id="ember393" class="ivm-view-attr__img--centered ivm-view-attr__img pvs-media-content__image lazy-image ember-view">
+</div>
+  </div>
+        </div>
+      </div>
+      <div class="pvs-media-content__preview">
+          <div class="mb1">
+              <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-black t-bold break-words display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;-webkit-line-clamp:2;">
+
+    <span aria-hidden="true"><!---->AWS re:Invent 2018: Leadership Session: Machine Learning (AIM202-L)<!----></span><span class="visually-hidden"><!---->AWS re:Invent 2018: Leadership Session: Machine Learning (AIM202-L)<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+              <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+     t-12 t-black--light t-normal break-words" style="line-height:1.5rem;max-height:1.5rem;-webkit-line-clamp:1;">
+
+    <span aria-hidden="true"><!---->YouTube<!----></span><span class="visually-hidden"><!---->YouTube<!----></span>
+
+<!----></div>
+          </div>
+          <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more text-body-small break-words display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+    " style="line-height:1.9rem;max-height:11.399999999999999rem;-webkit-line-clamp:6;">
+
+    <span aria-hidden="true"><!---->Amazon has a long history in AI, from personalization and recommendation engines to robotics in fulfillment centers. Amazon Go, Amazon Alexa, and Amazon Prim...<!----></span><span class="visually-hidden"><!---->Amazon has a long history in AI, from personalization and recommendation engines to robotics in fulfillment centers. Amazon Go, Amazon Alexa, and Amazon Prim...<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+      </div>
+  </div>
+
+  </a>
+
+
+<!----></div>
+<!---->
+      </div>
+
+          
+</div></li>
+
+          <li style="width: 247.5px; max-width: none; min-width: auto;" data-item-index="3" id="ember394" class="artdeco-carousel__item ember-view"><div data-test-display="display" class="artdeco-carousel__item-container">
+    
+                  <div class="artdeco-card full-width overflow-hidden display-flex flex-column">
+        <div class="display-flex flex-column full-width
+    full-height
+    
+    ">
+      <a class="optional-action-target-wrapper" target="_self" tabindex="-1" aria-hidden="true" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/1545454150158/single-media-viewer?type=LINK&amp;profileId=ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0">
+    <div class="pvs-content__top-bar">
+        <div class="mt3 mb2 mh3 display-flex t-12 t-black--light display-flex t-normal">
+          <span aria-hidden="true"><!---->Link<!----></span><span class="visually-hidden"><!---->Link<!----></span>
+        </div>
+    </div>
+<!---->  </a>
+
+          <a class="optional-action-target-wrapper flex-1 display-flex full-width relative
+      " target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/1545454150158/single-media-viewer?type=LINK&amp;profileId=ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0">
+        <div class="display-flex flex-column full-width">
+      <div class="pvs-media-content__image-wrapper">
+        <div class="pvs-media-content__image-aspect-ratio">
+          <div class="ivm-image-view-model   " id="content-image-ember395">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    ivm-view-attr__img-wrapper--expanded
+    ">
+<!---->      <img width="400" src="https://i.ytimg.com/vi/gudMvYI-f10/hqdefault.jpg" loading="lazy" height="400" alt="" id="ember396" class="ivm-view-attr__img--centered ivm-view-attr__img pvs-media-content__image lazy-image ember-view">
+</div>
+  </div>
+        </div>
+      </div>
+      <div class="pvs-media-content__preview">
+          <div class="mb1">
+              <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-black t-bold break-words display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;-webkit-line-clamp:2;">
+
+    <span aria-hidden="true"><!---->Swami Sivasubramanian, AWS | AWS re:Invent 2017<!----></span><span class="visually-hidden"><!---->Swami Sivasubramanian, AWS | AWS re:Invent 2017<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+              <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+     t-12 t-black--light t-normal break-words" style="line-height:1.5rem;max-height:1.5rem;-webkit-line-clamp:1;">
+
+    <span aria-hidden="true"><!---->YouTube<!----></span><span class="visually-hidden"><!---->YouTube<!----></span>
+
+<!----></div>
+          </div>
+          <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more text-body-small break-words display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+    " style="line-height:1.9rem;max-height:11.399999999999999rem;-webkit-line-clamp:6;">
+
+    <span aria-hidden="true"><!---->Swami Sivasubramanian, VP of Machine Learning, AWS | AWS re:Invent 2017<!----></span><span class="visually-hidden"><!---->Swami Sivasubramanian, VP of Machine Learning, AWS | AWS re:Invent 2017<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+      </div>
+  </div>
+
+  </a>
+
+
+<!----></div>
+<!---->
+      </div>
+
+          
+</div></li>
+
+          <li style="width: 247.5px; max-width: none; min-width: auto;" data-item-index="4" id="ember397" class="artdeco-carousel__item ember-view"><div data-test-display="hidden" class="artdeco-carousel__item-container">
+<!----></div></li>
+      
+</ul>
+    </div>
+    <button disabled="" aria-label="Navigate to the previous item" id="ember398" class="artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--1 artdeco-button--primary artdeco-button--disabled ember-view pvs-carousel__navigation-button artdeco-pagination__button--previous previous-btn" type="button">  <li-icon aria-hidden="true" type="chevron-left-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="mercado-match" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
+  <path d="M11 1L6.39 8 11 15H8.61L4 8l4.61-7z"></path>
+</svg></li-icon>
+
+<span class="artdeco-button__text">
+    
+</span></button>
+
+    <button aria-label="Navigate to the next item" id="ember399" class="artdeco-button artdeco-button--circle artdeco-button--muted artdeco-button--1 artdeco-button--primary ember-view pvs-carousel__navigation-button artdeco-pagination__button--next next-btn" type="button" data-dashlane-rid="99b0b9a343fd108d">  <li-icon aria-hidden="true" type="chevron-right-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="mercado-match" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
+  <path d="M5 15l4.61-7L5 1h2.39L12 8l-4.61 7z"></path>
+</svg></li-icon>
+
+<span class="artdeco-button__text">
+    
+</span></button>
+  
+</div>
+
+<!----></section>
+
+
+<!---->  </section>
+
+<!---->
+          <section id="ember474" class="artdeco-card ember-view break-words pb3
       
       mt2"><!---->
 
@@ -274,9 +780,2442 @@ profile_7 = """
             <span aria-hidden="true"><!---->Activity<!----></span><span class="visually-hidden"><!---->Activity<!----></span>
           </h2>
           <p class="pvs-header__subtitle text-body-small">
-            <span aria-hidden="true"><!---->834 followers<!----></span><span class="visually-hidden"><!---->834 followers<!----></span>
+            <span aria-hidden="true"><!---->36,257 followers<!----></span><span class="visually-hidden"><!---->36,257 followers<!----></span>
           </p>
 <!---->      </div>
+
+        <div class="pvs-header__primary-cta--with-button-spacing">
+              <div class="p2">
+      <button id="ember475" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">  <li-icon aria-hidden="true" type="plus-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M14 9H9v5H7V9H2V7h5V2h2v5h5z"></path>
+</svg></li-icon>
+
+<span class="artdeco-button__text">
+    Follow
+</span></button>
+    </div>
+
+        </div>
+    </div>
+
+<!---->  </div>
+</div>
+
+            <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        ph5 display-flex flex-row flex-wrap
+        ">
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                  <div class="pvs-mini-update pvs-list__item--no-padding-when-nested display-flex flex-column
+      ">
+<!---->        <a class="app-aware-link feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. Swami Sivasubramanian posted this • 4h" href="https://www.linkedin.com/feed/update/urn:li:activity:6923310944798330880?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6923310944798330880%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">
+    
+  <div class="pt1 ph4 t-12 t-black--light">
+    <span class="feed-mini-update-contextual-description__text">
+      <span aria-hidden="true"><strong><!---->Swami Sivasubramanian<!----></strong><span class="white-space-pre"> </span>posted this • 4h<!----></span><span class="visually-hidden"><!---->4h<!----></span>
+    </span>
+  </div>
+
+  </a>
+
+    
+        <div class="display-flex flex-row">
+<!---->    <a class="app-aware-link pr4 pb2 flex-1
+      pl4
+      pt2 feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. It was great to be with you all at this week’s #AWSSummit San Francisco. Big thank you to those who tuned in to my keynote, whether in-person or virtually! 
+
+We hope you found the content interesting and that you learned a lot. I know I enjoyed being able to share the hard work and innovation from our teams #HereAtAWS. 
+
+#ICYMI, here’s a recap of many of the latest Amazon Web Services (AWS) service innovations announced in my keynote: https://lnkd.in/gfMMF53b 
+
+More to come…
+
+#AWS #serverless #IoT #AWSGlue #leadership #keynote #thankyou #cloudcomputing #innovation" href="https://www.linkedin.com/feed/update/urn:li:activity:6923310944798330880?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6923310944798330880%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">
+    
+<!---->    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+     m0 break-words t-14 t-black" style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span dir="ltr"><!---->It was great to be with you all at this week’s<span class="white-space-pre"> </span><a href="/feed/hashtag/awssummit/" id="ember477" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>AWSSummit</span>
+</a><span class="white-space-pre"> </span>San Francisco. Big thank you to those who tuned in to my keynote, whether in-person or virtually!<span class="white-space-pre"> </span><br><br><!---->We hope you found the content interesting and that you learned a lot. I know I enjoyed being able to share the hard work and innovation from our teams<span class="white-space-pre"> </span><a href="/feed/hashtag/hereataws/" id="ember478" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>HereAtAWS</span>
+</a><!---->.<span class="white-space-pre"> </span><br><br><a href="/feed/hashtag/icymi/" id="ember479" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>ICYMI</span>
+</a><!---->, here’s a recap of many of the latest<span class="white-space-pre"> </span><a class="app-aware-link" target="_self" href="https://www.linkedin.com/company/amazon-web-services/"><span data-entity-hovercard-id="urn:li:fsd_company:2382910">
+      <!---->Amazon Web Services (AWS)<!---->
+    </span></a><span class="white-space-pre"> </span>service innovations announced in my keynote:<span class="white-space-pre"> </span><a class="app-aware-link" target="_self" href="https://lnkd.in/gfMMF53b"><!---->https://lnkd.in/gfMMF53b<!----></a><span class="white-space-pre"> </span><!----><br><br><!---->More to come…<!----><br><br><a href="/feed/hashtag/aws/" id="ember480" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>AWS</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/serverless/" id="ember481" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>serverless</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/iot/" id="ember482" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>IoT</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/awsglue/" id="ember483" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>AWSGlue</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/leadership/" id="ember484" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>leadership</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/keynote/" id="ember485" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>keynote</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/thankyou/" id="ember486" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>thankyou</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/cloudcomputing/" id="ember487" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>cloudcomputing</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/innovation/" id="ember488" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>innovation</span>
+</a></span>
+
+      <span class="inline-show-more-text__link-container-collapsed">
+<!---->        <button class="inline-show-more-text__button
+            inline-show-more-text__button--light
+            link" aria-expanded="false" type="button">
+          …show more
+        </button>
+      </span>
+
+<!----></div>
+  
+  </a>
+
+</div>
+        <div class="feed-mini-update-content__card-wrapper">
+      <a class="app-aware-link pr3 feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. Image" href="https://www.linkedin.com/feed/update/urn:li:activity:6923310944798330880?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6923310944798330880%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">
+    
+      <div class="relative">
+<!---->        <div class="ivm-image-view-model   ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="64" src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQFWluVYYx4yCw/articleshare-shrink_160/0/1650650325363?e=2147483647&amp;v=beta&amp;t=wU7tsrQcmbB4hai0-jEFT1GgGHW_ucJZuGj4VwGr2mw" loading="lazy" height="64" alt="" id="ember489" class="ivm-view-attr__img--centered feed-mini-update-content__image lazy-image ember-view">
+</div>
+  </div>
+      </div>
+    
+  </a>
+
+    <a class="app-aware-link display-flex flex-1 flex-column overflow-hidden feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. AWS Summit: 5 New Aurora, IoT TwinMaker And Glue Offerings" href="https://www.linkedin.com/feed/update/urn:li:activity:6923310944798330880?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6923310944798330880%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">
+    
+<!---->    <div class="display-flex t-14 t-black t-bold pb1">
+      <span class="feed-mini-update-content__single-line-text">
+        <span dir="ltr"><strong><!---->AWS Summit: 5 New Aurora, IoT TwinMaker And Glue Offerings<!----></strong></span>
+      </span>
+    </div>
+      <div class="display-flex t-12 t-black--light">
+        <span class="feed-mini-update-content__single-line-text">
+          <!---->crn.com • 2 min read<!---->
+        </span>
+      </div>
+<!---->  
+  </a>
+
+</div>
+    
+        <ul class="social-details-social-counts
+    
+    
+    
+    
+     b0 m0 ph4 pv3">
+    <li class="social-details-social-counts__item social-details-social-counts__reactions
+        social-details-social-counts__reactions--with-social-proof
+        ">
+      <button aria-label="500 reactions" class="t-black--light
+          t-12
+          hoverable-link-text
+          display-flex
+          " type="button">
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--0 reactions-icon__consumption--small data-test-reactions-icon-type-LIKE data-test-reactions-icon-theme-dark" src="https://static-exp1.licdn.com/sc/h/emei2gdl9ikg7penkh9ij9llx" alt="like" data-test-reactions-icon-type="LIKE" data-test-reactions-icon-theme="dark">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--1 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-PRAISE data-test-reactions-icon-theme-dark" src="https://static-exp1.licdn.com/sc/h/9wt27hvi2lgll1v30u00n0p5p" alt="celebrate" data-test-reactions-icon-type="PRAISE" data-test-reactions-icon-theme="dark">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--2 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-EMPATHY data-test-reactions-icon-theme-dark" src="https://static-exp1.licdn.com/sc/h/esahr356vrv0vklww6hcjar1j" alt="love" data-test-reactions-icon-type="EMPATHY" data-test-reactions-icon-theme="dark">
+            <span aria-hidden="true" class="social-details-social-counts__reactions-count">500</span>
+      </button>
+    </li>
+
+    <li class="social-details-social-counts__item social-details-social-counts__comments
+        social-details-social-counts__item--with-social-proof
+        ">
+      <button aria-label="4 comments" class="t-black--light
+          t-12
+          hoverable-link-text
+          " role="link" type="button">
+        <span aria-hidden="true">
+          4 comments
+        </span>
+      </button>
+    </li>
+
+<!---->
+<!----></ul>
+  <div>
+  <div id="ember490" class="ember-view"><!----></div>
+</div>
+
+  </div>
+
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                  <div class="pvs-mini-update pvs-list__item--no-padding-when-nested display-flex flex-column
+      ">
+<!---->        <a class="app-aware-link feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. Swami Sivasubramanian posted this • 3d" href="https://www.linkedin.com/feed/update/urn:li:activity:6922212286342332416?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6922212286342332416%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">
+    
+  <div class="pt1 ph4 t-12 t-black--light">
+    <span class="feed-mini-update-contextual-description__text">
+      <span aria-hidden="true"><strong><!---->Swami Sivasubramanian<!----></strong><span class="white-space-pre"> </span>posted this • 3d<!----></span><span class="visually-hidden"><!---->3d<!----></span>
+    </span>
+  </div>
+
+  </a>
+
+    
+        <div class="display-flex flex-row">
+      <a class="app-aware-link pl4 pv2 pr1 feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. Image" href="https://www.linkedin.com/feed/update/urn:li:activity:6922212286342332416?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6922212286342332416%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">
+    
+      <div class="relative">
+<!---->        <div class="ivm-image-view-model   ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="64" src="https://media-exp1.licdn.com/dms/image/C5622AQHbDYc7zSWRfA/feedshare-shrink_160/0/1650384016396?e=2147483647&amp;v=beta&amp;t=b3XoHiJH1pbdEIhwH8-1wZs0XXV1de6goJQnP1dngRw" loading="lazy" height="64" alt="No alternative text description for this image" id="ember492" class="ivm-view-attr__img--centered feed-mini-update-commentary__image lazy-image ember-view">
+</div>
+  </div>
+      </div>
+    
+  </a>
+
+    <a class="app-aware-link pr4 pb2 flex-1
+      pl2
+      pt2 feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. I&nbsp;cannot wait to join you all in person this week at&nbsp;#AWS SF Summit where I’ll lead a keynote focused on harnessing the power of #data! Mark your calendars: it’s happening this Thursday, April 21 from 9:00 – 10:30AM (PST). 
+
+Whether you plan to be in-person or virtual there’s still time to register, visit: https://lnkd.in/gfyWanHw
+
+Amazon Web Services (AWS) #Amazon #AWSSummit #keynote #developercommunity" href="https://www.linkedin.com/feed/update/urn:li:activity:6922212286342332416?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6922212286342332416%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">
+    
+<!---->    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+     m0 break-words t-14 t-black" style="line-height:1.9rem;max-height:5.699999999999999rem;">
+
+    <span dir="ltr"><!---->I&nbsp;cannot wait to join you all in person this week at<span class="white-space-pre"> </span><a href="/feed/hashtag/aws/" id="ember493" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>AWS</span>
+</a><span class="white-space-pre"> </span>SF Summit where I’ll lead a keynote focused on harnessing the power of<span class="white-space-pre"> </span><a href="/feed/hashtag/data/" id="ember494" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>data</span>
+</a><!---->! Mark your calendars: it’s happening this Thursday, April 21 from 9:00 – 10:30AM (PST).<span class="white-space-pre"> </span><br><br><!---->Whether you plan to be in-person or virtual there’s still time to register, visit:<span class="white-space-pre"> </span><a class="app-aware-link" target="_self" href="https://lnkd.in/gfyWanHw"><!---->https://lnkd.in/gfyWanHw<!----></a><br><br><a class="app-aware-link" target="_self" href="https://www.linkedin.com/company/amazon-web-services/"><span data-entity-hovercard-id="urn:li:fsd_company:2382910">
+      <!---->Amazon Web Services (AWS)<!---->
+    </span></a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/amazon/" id="ember495" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>Amazon</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/awssummit/" id="ember496" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>AWSSummit</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/keynote/" id="ember497" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>keynote</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/developercommunity/" id="ember498" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>developercommunity</span>
+</a></span>
+
+      <span class="inline-show-more-text__link-container-collapsed">
+<!---->        <button class="inline-show-more-text__button
+            inline-show-more-text__button--light
+            link" aria-expanded="false" type="button">
+          …show more
+        </button>
+      </span>
+
+<!----></div>
+  
+  </a>
+
+</div>
+<!---->    
+        <ul class="social-details-social-counts
+    
+    
+    
+    
+     b0 m0 ph4 pv3">
+    <li class="social-details-social-counts__item social-details-social-counts__reactions
+        social-details-social-counts__reactions--with-social-proof
+        ">
+      <button aria-label="1,547 reactions" class="t-black--light
+          t-12
+          hoverable-link-text
+          display-flex
+          " type="button">
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--0 reactions-icon__consumption--small data-test-reactions-icon-type-LIKE data-test-reactions-icon-theme-dark" src="https://static-exp1.licdn.com/sc/h/emei2gdl9ikg7penkh9ij9llx" alt="like" data-test-reactions-icon-type="LIKE" data-test-reactions-icon-theme="dark">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--1 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-PRAISE data-test-reactions-icon-theme-dark" src="https://static-exp1.licdn.com/sc/h/9wt27hvi2lgll1v30u00n0p5p" alt="celebrate" data-test-reactions-icon-type="PRAISE" data-test-reactions-icon-theme="dark">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--2 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-EMPATHY data-test-reactions-icon-theme-dark" src="https://static-exp1.licdn.com/sc/h/esahr356vrv0vklww6hcjar1j" alt="love" data-test-reactions-icon-type="EMPATHY" data-test-reactions-icon-theme="dark">
+            <span aria-hidden="true" class="social-details-social-counts__reactions-count">1,547</span>
+      </button>
+    </li>
+
+    <li class="social-details-social-counts__item social-details-social-counts__comments
+        social-details-social-counts__item--with-social-proof
+        ">
+      <button aria-label="21 comments" class="t-black--light
+          t-12
+          hoverable-link-text
+          " role="link" type="button">
+        <span aria-hidden="true">
+          21 comments
+        </span>
+      </button>
+    </li>
+
+<!---->
+<!----></ul>
+  <div>
+  <div id="ember499" class="ember-view"><!----></div>
+</div>
+
+  </div>
+
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                  <div class="pvs-mini-update pvs-list__item--no-padding-when-nested display-flex flex-column
+      ">
+<!---->        <a class="app-aware-link feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. Swami Sivasubramanian posted this • 6d" href="https://www.linkedin.com/feed/update/urn:li:activity:6920841422543736832?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6920841422543736832%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">
+    
+  <div class="pt1 ph4 t-12 t-black--light">
+    <span class="feed-mini-update-contextual-description__text">
+      <span aria-hidden="true"><strong><!---->Swami Sivasubramanian<!----></strong><span class="white-space-pre"> </span>posted this • 6d<!----></span><span class="visually-hidden"><!---->6d<!----></span>
+    </span>
+  </div>
+
+  </a>
+
+    
+        <div class="display-flex flex-row">
+<!---->    <a class="app-aware-link pr4 pb2 flex-1
+      pl4
+      pt2 feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. Nice story featuring Rahul Pathak at SiliconANGLE &amp; theCUBE’s recent AWS Startup Showcase: “Data as Code — The Future of Enterprise Data and Analytics”&nbsp;event. 
+
+Rahul discusses how Amazon Web Services (AWS) is working to bring machine learning and data closer together while removing barriers to running code by using serverless services.
+
+Worth a read: 
+https://lnkd.in/g_6jZDdM
+
+#AWS #data #machinelearning #serverless #analytics" href="https://www.linkedin.com/feed/update/urn:li:activity:6920841422543736832?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6920841422543736832%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">
+    
+<!---->    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+     m0 break-words t-14 t-black" style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span dir="ltr"><!---->Nice story featuring<span class="white-space-pre"> </span><a class="app-aware-link" target="_self" href="https://www.linkedin.com/in/ACoAAAAOIjwBVyApuESxhnlXzYv669H0oAluJwQ"><span data-entity-hovercard-id="urn:li:fsd_profile:ACoAAAAOIjwBVyApuESxhnlXzYv669H0oAluJwQ"><!---->Rahul Pathak<!----></span></a><span class="white-space-pre"> </span>at<span class="white-space-pre"> </span><a class="app-aware-link" target="_self" href="https://www.linkedin.com/company/siliconangle/"><span data-entity-hovercard-id="urn:li:fsd_company:9997222">
+      <!---->SiliconANGLE &amp; theCUBE<!---->
+    </span></a><!---->’s recent AWS Startup Showcase: “Data as Code — The Future of Enterprise Data and Analytics”&nbsp;event.<span class="white-space-pre"> </span><br><br><!---->Rahul discusses how<span class="white-space-pre"> </span><a class="app-aware-link" target="_self" href="https://www.linkedin.com/company/amazon-web-services/"><span data-entity-hovercard-id="urn:li:fsd_company:2382910">
+      <!---->Amazon Web Services (AWS)<!---->
+    </span></a><span class="white-space-pre"> </span>is working to bring machine learning and data closer together while removing barriers to running code by using serverless services.<!----><br><br><!---->Worth a read:<span class="white-space-pre"> </span><br><a class="app-aware-link" target="_self" href="https://lnkd.in/g_6jZDdM"><!---->https://lnkd.in/g_6jZDdM<!----></a><br><br><a href="/feed/hashtag/aws/" id="ember501" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>AWS</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/data/" id="ember502" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>data</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/machinelearning/" id="ember503" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>machinelearning</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/serverless/" id="ember504" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>serverless</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/analytics/" id="ember505" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>analytics</span>
+</a></span>
+
+      <span class="inline-show-more-text__link-container-collapsed">
+<!---->        <button class="inline-show-more-text__button
+            inline-show-more-text__button--light
+            link" aria-expanded="false" type="button">
+          …show more
+        </button>
+      </span>
+
+<!----></div>
+  
+  </a>
+
+</div>
+        <div class="feed-mini-update-content__card-wrapper">
+      <a class="app-aware-link pr3 feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. Image" href="https://www.linkedin.com/feed/update/urn:li:activity:6920841422543736832?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6920841422543736832%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">
+    
+      <div class="relative">
+<!---->        <div class="ivm-image-view-model   ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="64" src="https://media-exp1.licdn.com/dms/image/sync/C4D27AQFKumrqRAY_ww/articleshare-shrink_160/0/1650398323444?e=2147483647&amp;v=beta&amp;t=0bKdS4BcLsszlytisIwBBt8e2sf9QbaQuIvz9bMmmUU" loading="lazy" height="64" alt="" id="ember506" class="ivm-view-attr__img--centered feed-mini-update-content__image lazy-image ember-view">
+</div>
+  </div>
+      </div>
+    
+  </a>
+
+    <a class="app-aware-link display-flex flex-1 flex-column overflow-hidden feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. As data drives reinvention, AWS leverages machine learning and serverless to meet enterprise needs - SiliconANGLE" href="https://www.linkedin.com/feed/update/urn:li:activity:6920841422543736832?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6920841422543736832%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">
+    
+<!---->    <div class="display-flex t-14 t-black t-bold pb1">
+      <span class="feed-mini-update-content__single-line-text">
+        <span dir="ltr"><strong><!---->As data drives reinvention, AWS leverages machine learning and serverless to meet enterprise needs - SiliconANGLE<!----></strong></span>
+      </span>
+    </div>
+      <div class="display-flex t-12 t-black--light">
+        <span class="feed-mini-update-content__single-line-text">
+          <!---->siliconangle.com • 4 min read<!---->
+        </span>
+      </div>
+<!---->  
+  </a>
+
+</div>
+    
+        <ul class="social-details-social-counts
+    
+    
+    
+    
+     b0 m0 ph4 pv3">
+    <li class="social-details-social-counts__item social-details-social-counts__reactions
+        social-details-social-counts__reactions--with-social-proof
+        ">
+      <button aria-label="576 reactions" class="t-black--light
+          t-12
+          hoverable-link-text
+          display-flex
+          " type="button">
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--0 reactions-icon__consumption--small data-test-reactions-icon-type-LIKE data-test-reactions-icon-theme-dark" src="https://static-exp1.licdn.com/sc/h/emei2gdl9ikg7penkh9ij9llx" alt="like" data-test-reactions-icon-type="LIKE" data-test-reactions-icon-theme="dark">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--1 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-PRAISE data-test-reactions-icon-theme-dark" src="https://static-exp1.licdn.com/sc/h/9wt27hvi2lgll1v30u00n0p5p" alt="celebrate" data-test-reactions-icon-type="PRAISE" data-test-reactions-icon-theme="dark">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--2 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-EMPATHY data-test-reactions-icon-theme-dark" src="https://static-exp1.licdn.com/sc/h/esahr356vrv0vklww6hcjar1j" alt="love" data-test-reactions-icon-type="EMPATHY" data-test-reactions-icon-theme="dark">
+            <span aria-hidden="true" class="social-details-social-counts__reactions-count">576</span>
+      </button>
+    </li>
+
+    <li class="social-details-social-counts__item social-details-social-counts__comments
+        social-details-social-counts__item--with-social-proof
+        ">
+      <button aria-label="3 comments" class="t-black--light
+          t-12
+          hoverable-link-text
+          " role="link" type="button">
+        <span aria-hidden="true">
+          3 comments
+        </span>
+      </button>
+    </li>
+
+<!---->
+<!----></ul>
+  <div>
+  <div id="ember507" class="ember-view"><!----></div>
+</div>
+
+  </div>
+
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                  <div class="pvs-mini-update pvs-list__item--no-padding-when-nested display-flex flex-column
+      ">
+<!---->        <a class="app-aware-link feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. Swami Sivasubramanian posted this • 1w" href="https://www.linkedin.com/feed/update/urn:li:activity:6920432663484936192?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6920432663484936192%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">
+    
+  <div class="pt1 ph4 t-12 t-black--light">
+    <span class="feed-mini-update-contextual-description__text">
+      <span aria-hidden="true"><strong><!---->Swami Sivasubramanian<!----></strong><span class="white-space-pre"> </span>posted this • 1w<!----></span><span class="visually-hidden"><!---->1w<!----></span>
+    </span>
+  </div>
+
+  </a>
+
+    
+        <div class="display-flex flex-row">
+<!---->    <a class="app-aware-link pr4 pb2 flex-1
+      pl4
+      pt2 feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. Honored and humbled to be nominated to the National Artificial Intelligence Advisory Committee (NAIAC), which will advise the President and the National AI Initiative Office on a range of issues related to artificial intelligence (AI).&nbsp;
+
+Excited to collaborate with my industry colleagues, 26 of the best and brightest minds in their respective fields, to ensure the United States leads the world in the responsible development and adoption of AI, provides inclusive employment and education opportunities for the American public, and protects civil rights and liberties in our digital age. 
+
+I truly believe AI represents the most transformational technology of our generation that will enhance our economy and our way of life. But we are just scratching the surface of what is possible, and there is so much innovation yet to be done.&nbsp;It’s still Day One!
+
+#NAIAC #artificialintelligence #AI #UnitedStates #techinnovation #digitalage #ethicalAI #AWS" href="https://www.linkedin.com/feed/update/urn:li:activity:6920432663484936192?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6920432663484936192%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">
+    
+<!---->    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+     m0 break-words t-14 t-black" style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span dir="ltr"><!---->Honored and humbled to be nominated to the National Artificial Intelligence Advisory Committee (NAIAC), which will advise the President and the National AI Initiative Office on a range of issues related to artificial intelligence (AI).<span class="white-space-pre"> </span><br><br><!---->Excited to collaborate with my industry colleagues, 26 of the best and brightest minds in their respective fields, to ensure the United States leads the world in the responsible development and adoption of AI, provides inclusive employment and education opportunities for the American public, and protects civil rights and liberties in our digital age.<span class="white-space-pre"> </span><br><br><!---->I truly believe AI represents the most transformational technology of our generation that will enhance our economy and our way of life. But we are just scratching the surface of what is possible, and there is so much innovation yet to be done.&nbsp;It’s still Day One!<!----><br><br><a href="/feed/hashtag/naiac/" id="ember509" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>NAIAC</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/artificialintelligence/" id="ember510" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>artificialintelligence</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/ai/" id="ember511" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>AI</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/unitedstates/" id="ember512" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>UnitedStates</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/techinnovation/" id="ember513" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>techinnovation</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/digitalage/" id="ember514" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>digitalage</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/ethicalai/" id="ember515" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>ethicalAI</span>
+</a><span class="white-space-pre"> </span><!----><a href="/feed/hashtag/aws/" id="ember516" class="ember-view">      <span class="visually-hidden">hashtag</span>
+      <span><span aria-hidden="true">#</span>AWS</span>
+</a></span>
+
+      <span class="inline-show-more-text__link-container-collapsed">
+<!---->        <button class="inline-show-more-text__button
+            inline-show-more-text__button--light
+            link" aria-expanded="false" type="button">
+          …show more
+        </button>
+      </span>
+
+<!----></div>
+  
+  </a>
+
+</div>
+        <div class="feed-mini-update-content__card-wrapper">
+<!---->    <a class="app-aware-link display-flex flex-1 flex-column overflow-hidden feed-mini-update-optional-navigation-context-wrapper" aria-label="View full post. U.S. Department of Commerce Appoints 27 Members to National AI Advisory Committee" href="https://www.linkedin.com/feed/update/urn:li:activity:6920432663484936192?updateEntityUrn=urn%3Ali%3Afs_updateV2%3A%28urn%3Ali%3Aactivity%3A6920432663484936192%2CFEED_DETAIL%2CEMPTY%2CDEFAULT%2Cfalse%29">
+    
+<!---->    <div class="display-flex t-14 t-black t-bold pb1">
+      <span class="feed-mini-update-content__single-line-text">
+        <span dir="ltr"><strong><!---->U.S. Department of Commerce Appoints 27 Members to National AI Advisory Committee<!----></strong></span>
+      </span>
+    </div>
+      <div class="display-flex t-12 t-black--light">
+        <span class="feed-mini-update-content__single-line-text">
+          <!---->commerce.gov • 3 min read<!---->
+        </span>
+      </div>
+<!---->  
+  </a>
+
+</div>
+    
+        <ul class="social-details-social-counts
+    
+    
+    
+    
+     b0 m0 ph4 pv3">
+    <li class="social-details-social-counts__item social-details-social-counts__reactions
+        social-details-social-counts__reactions--with-social-proof
+        ">
+      <button aria-label="2,694 reactions" class="t-black--light
+          t-12
+          hoverable-link-text
+          display-flex
+          " type="button">
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--0 reactions-icon__consumption--small data-test-reactions-icon-type-LIKE data-test-reactions-icon-theme-dark" src="https://static-exp1.licdn.com/sc/h/emei2gdl9ikg7penkh9ij9llx" alt="like" data-test-reactions-icon-type="LIKE" data-test-reactions-icon-theme="dark">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--1 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-PRAISE data-test-reactions-icon-theme-dark" src="https://static-exp1.licdn.com/sc/h/9wt27hvi2lgll1v30u00n0p5p" alt="celebrate" data-test-reactions-icon-type="PRAISE" data-test-reactions-icon-theme="dark">
+  
+    <img class="reactions-icon social-detail-social-counts__count-icon social-detail-social-counts__count-icon--2 reactions-icon__consumption--small reactions-icon--stacked data-test-reactions-icon-type-EMPATHY data-test-reactions-icon-theme-dark" src="https://static-exp1.licdn.com/sc/h/esahr356vrv0vklww6hcjar1j" alt="love" data-test-reactions-icon-type="EMPATHY" data-test-reactions-icon-theme="dark">
+            <span aria-hidden="true" class="social-details-social-counts__reactions-count">2,694</span>
+      </button>
+    </li>
+
+    <li class="social-details-social-counts__item social-details-social-counts__comments
+        social-details-social-counts__item--with-social-proof
+        ">
+      <button aria-label="206 comments" class="t-black--light
+          t-12
+          hoverable-link-text
+          " role="link" type="button">
+        <span aria-hidden="true">
+          206 comments
+        </span>
+      </button>
+    </li>
+
+<!---->
+<!----></ul>
+  <div>
+  <div id="ember517" class="ember-view"><!----></div>
+</div>
+
+  </div>
+
+
+        </li>
+    </ul>
+    <div class="pvs-list__footer-wrapper">
+          <div class="">
+            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--3 artdeco-button--muted 
+      inline-flex justify-center full-width align-items-center artdeco-button--fluid
+      
+      " target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/recent-activity/">
+<!---->      <span class="pvs-navigation__text">
+        Show all activity
+      </span>
+      <div class="pvs-navigation__icon">
+        <li-icon aria-hidden="true" type="arrow-right-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="mercado-match" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
+  <path d="M11.45 3L15 8l-3.55 5H9l2.84-4H2V7h9.84L9 3z"></path>
+</svg></li-icon>
+      </div>
+  </a>
+
+
+    </div>
+
+    </div>
+</div>
+
+<!---->  </section>
+
+<!---->
+          <section id="ember401" class="artdeco-card ember-view break-words pb3
+      
+      mt2"><!---->
+
+    <div id="about" class="pv-profile-card-anchor"></div>
+            <!---->
+<div class="pvs-header__container">
+  <div class="pvs-header__top-container--no-stack">
+    <div class="pvs-header__left-container--stack">
+      <div class="pvs-header__title-container">
+          <h2 class="pvs-header__title text-heading-large">
+            <span aria-hidden="true"><!---->About<!----></span><span class="visually-hidden"><!---->About<!----></span>
+          </h2>
+<!----><!---->      </div>
+
+<!---->    </div>
+
+<!---->  </div>
+</div>
+
+            <div class="display-flex ph5 pv3">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:7.6rem;">
+
+    <span aria-hidden="true"><!---->I run AWS database, analytics and machine learning services in AWS.My team’s mission is “To make it easy for organizations and developers by providing the best set of capabilities to store and query data (to build scalable data driven apps), analyze and visualize their data (to do analytics) and put their data to work through machine learning.”   My organization works on all aspects of Databases (Relational databases - RDS, Aurora, non-relational - DynamoDB, QLDB, ElastiCache, Neptune, MemoryDB, DocumentDB), Analytics (Redshift, EMR, OpenSearch, Glue, LakeFormation, TimeStream) and machine learning (ML frameworks and infrastructure, Amazon SageMaker and AI services such as Transcribe, Translate, Personalize, Forecast, Rekognition etc). Previously, I ran AI and Machine learning initiatives.<!----><br><span class="white-space-pre"> </span><!----><br><!---->I have been awarded (or filed for) more than 250 patents, authored around 40 referred scientific papers and journals, and participate in several academic circles and conferences.  In addition to these, I was part of the team that built several AWS Services like CloudFront, Amazon RDS, Amazon S3, Amazon's Paxos based lock service, original Amazon Dynamo etc.  I was also one of the main authors for Amazon Dynamo paper (http://bit.ly/1mDs0Yh) along with Werner Vogels. Amazon Dynamo now is the foundation for many other NoSQL systems like Riak, Cassandra and Voldemort.<span class="white-space-pre"> </span><br><br><!---->Note about job openings: If you are looking to join a team that is constantly catering to scale to millions of developers, please reach out to me - swami@amazon.com with your resume and be a bit specific in what roles you are looking for in AWS Data and ML team or across AWS/Amazon - I will do my best to get it to the right teams. We are hiring at all levels (SDEs, product managers, applied scientists, Directors and VPs) for problems across data and machine learning.<!----></span><span class="visually-hidden"><!---->I run AWS database, analytics and machine learning services in AWS.My team’s mission is “To make it easy for organizations and developers by providing the best set of capabilities to store and query data (to build scalable data driven apps), analyze and visualize their data (to do analytics) and put their data to work through machine learning.”   My organization works on all aspects of Databases (Relational databases - RDS, Aurora, non-relational - DynamoDB, QLDB, ElastiCache, Neptune, MemoryDB, DocumentDB), Analytics (Redshift, EMR, OpenSearch, Glue, LakeFormation, TimeStream) and machine learning (ML frameworks and infrastructure, Amazon SageMaker and AI services such as Transcribe, Translate, Personalize, Forecast, Rekognition etc). Previously, I ran AI and Machine learning initiatives.
+ 
+I have been awarded (or filed for) more than 250 patents, authored around 40 referred scientific papers and journals, and participate in several academic circles and conferences.  In addition to these, I was part of the team that built several AWS Services like CloudFront, Amazon RDS, Amazon S3, Amazon's Paxos based lock service, original Amazon Dynamo etc.  I was also one of the main authors for Amazon Dynamo paper (http://bit.ly/1mDs0Yh) along with Werner Vogels. Amazon Dynamo now is the foundation for many other NoSQL systems like Riak, Cassandra and Voldemort. 
+
+Note about job openings: If you are looking to join a team that is constantly catering to scale to millions of developers, please reach out to me - swami@amazon.com with your resume and be a bit specific in what roles you are looking for in AWS Data and ML team or across AWS/Amazon - I will do my best to get it to the right teams. We are hiring at all levels (SDEs, product managers, applied scientists, Directors and VPs) for problems across data and machine learning.<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+<!---->  </section>
+
+<!---->
+          <section id="ember402" class="artdeco-card ember-view break-words pb3
+      
+      mt2"><!---->
+
+    <div id="experience" class="pv-profile-card-anchor"></div>
+            <!---->
+<div class="pvs-header__container">
+  <div class="pvs-header__top-container--no-stack">
+    <div class="pvs-header__left-container--stack">
+      <div class="pvs-header__title-container">
+          <h2 class="pvs-header__title text-heading-large">
+            <span aria-hidden="true"><!---->Experience<!----></span><span class="visually-hidden"><!---->Experience<!----></span>
+          </h2>
+<!----><!---->      </div>
+
+<!---->    </div>
+
+<!---->  </div>
+</div>
+
+            <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        ph5 display-flex flex-row flex-wrap
+        ">
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/company/2382910/">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C560BAQE_4UwvNNtNTQ/company-logo_100_100/0/1640205885683?e=2147483647&amp;v=beta&amp;t=Aqmvxbh9I3Uv6XnBvlWCAPw4AU3meh8EPznk1Nfv8NU" loading="lazy" height="48" alt="Amazon Web Services (AWS) logo" id="ember403" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+        <div class="
+          display-flex flex-column full-width">
+    
+        <div class="display-flex align-items-center">
+            <span class="mr1 t-bold">
+              <span aria-hidden="true"><!---->VP, Database, Analytics and Machine Learning<!----></span><span class="visually-hidden"><!---->VP, Database, Analytics and Machine Learning<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->Amazon Web Services (AWS) · Full-time<!----></span><span class="visually-hidden"><!---->Amazon Web Services (AWS) · Full-time<!----></span>
+          </span>
+          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->Jan 2022 - Present · 4 mos<!----></span><span class="visually-hidden"><!---->Jan 2022 - Present · 4 mos<!----></span>
+          </span>
+          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->Seattle, Washington, United States<!----></span><span class="visually-hidden"><!---->Seattle, Washington, United States<!----></span>
+          </span>
+      
+  </div>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->I manage our database, analytics and machine learning services in AWS.  I am excited about enabling developers, data scientists and businesses "to put their data to work" by bring state-of-the-art technologies in databases to handle transactional data, making it easy to analyze and visualize them, and then finally derive insights powered by machine learning.<!----><br><br><!---->Databases: https://aws.amazon.com/products/databases/,<span class="white-space-pre"> </span><br><!---->Analytics: https://aws.amazon.com/big-data/datalakes-and-analytics/<!----><br><!---->Machine learning: https://aws.amazon.com/machine-learning/.<!----><br><br><!---->I am hiring VPs, Directors, Product managers, Principal Engineers, and ML scientists for various roles. So, please send me an email to swami@amazon.com if you are interested.<!----></span><span class="visually-hidden"><!---->I manage our database, analytics and machine learning services in AWS.  I am excited about enabling developers, data scientists and businesses "to put their data to work" by bring state-of-the-art technologies in databases to handle transactional data, making it easy to analyze and visualize them, and then finally derive insights powered by machine learning.
+
+Databases: https://aws.amazon.com/products/databases/, 
+Analytics: https://aws.amazon.com/big-data/datalakes-and-analytics/
+Machine learning: https://aws.amazon.com/machine-learning/.
+
+I am hiring VPs, Directors, Product managers, Principal Engineers, and ML scientists for various roles. So, please send me an email to swami@amazon.com if you are interested.<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                    <a class="optional-action-target-wrapper" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/1635481876753/single-media-viewer?type=LINK&amp;profileId=ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0">
+  <div class="display-flex flex-row">
+      <div>
+          <div class="pvs-thumbnail__wrapper">
+    
+  <figure class="pvs-thumbnail">
+      <img src="https://media-exp1.licdn.com/dms/image/sync/C5627AQF7ZjyR1uVdRg/articleshare-shrink_160/0/1650033773182?e=2147483647&amp;v=beta&amp;t=0AWwOm8FOtvtiLUUcO-p3B2xXGYl8wJE-KZigyAQZDE" loading="lazy" alt="" id="thumbnail-image-ember404" class="pvs-thumbnail__image lazy-image ember-view">
+<!---->
+<!---->  </figure>
+
+  </div>
+
+      </div>
+
+    <div class="flex-column ml1 align-self-center">
+        <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+     t-14 t-bold break-words" style="line-height:2rem;max-height:4rem;-webkit-line-clamp:2;">
+
+    <span aria-hidden="true"><!---->AWS re:Invent 2021 - Database, Analytics, and Machine Learning Keynote with Swami Sivasubramanian<!----></span><span class="visually-hidden"><!---->AWS re:Invent 2021 - Database, Analytics, and Machine Learning Keynote with Swami Sivasubramanian<!----></span>
+
+<!----></div>
+
+        <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    inline-show-more-text--is-collapsed-with-line-clamp
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;-webkit-line-clamp:2;">
+
+    <span aria-hidden="true"><!---->Swami Sivasubramanian, VP Machine Learning, Amazon Web Services delivers the database, analytics, and machine learning keynote at re:Invent. Hear an exploration of what it takes to put data in action with an end to end data strategy. Including the...<!----></span><span class="visually-hidden"><!---->Swami Sivasubramanian, VP Machine Learning, Amazon Web Services delivers the database, analytics, and machine learning keynote at re:Invent. Hear an exploration of what it takes to put data in action with an end to end data strategy. Including the...<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+    </div>
+  </div>
+</a>
+
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+        display-flex" target="_self" tabindex="-1" aria-hidden="true" href="https://www.linkedin.com/search/results/all/?keywords=Amazon+Web+Services">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+    <div class="EntityPhoto-square-3-ghost-company ivm-view-attr__ghost-entity ">
+<!---->    </div>
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+        <div class="
+          display-flex flex-column full-width">
+    
+        <div class="display-flex align-items-center">
+            <span class="mr1 t-bold">
+              <span aria-hidden="true"><!---->VP, Amazon AI<!----></span><span class="visually-hidden"><!---->VP, Amazon AI<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->Amazon Web Services<!----></span><span class="visually-hidden"><!---->Amazon Web Services<!----></span>
+          </span>
+          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->Jan 2017 - Jan 2022 · 5 yrs 1 mo<!----></span><span class="visually-hidden"><!---->Jan 2017 - Jan 2022 · 5 yrs 1 mo<!----></span>
+          </span>
+          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->Seattle<!----></span><span class="visually-hidden"><!---->Seattle<!----></span>
+          </span>
+      
+  </div>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->My team’s mission is “To put machine learning capabilities in the hands on every developer and data scientist.” My organization works on all aspects of machine learning: right from ML frameworks and infrastructure, Amazon SageMaker (an end to end service for building, training and deploying ML models in the cloud and at the edge), and AI services (Transcribe, Translate, Personalize, Forecast, Rekognition etc) that make it easier for app developers to incorporate ML into their apps with no ML experience required.<span class="white-space-pre"> </span><br><br><!---->Also, see other coverage on reinvent ML launches: https://press.aboutamazon.com/news-releases/news-release-details/amazon-web-services-announces-13-new-machine-learning-services<!----></span><span class="visually-hidden"><!---->My team’s mission is “To put machine learning capabilities in the hands on every developer and data scientist.” My organization works on all aspects of machine learning: right from ML frameworks and infrastructure, Amazon SageMaker (an end to end service for building, training and deploying ML models in the cloud and at the edge), and AI services (Transcribe, Translate, Personalize, Forecast, Rekognition etc) that make it easier for app developers to incorporate ML into their apps with no ML experience required. 
+
+Also, see other coverage on reinvent ML launches: https://press.aboutamazon.com/news-releases/news-release-details/amazon-web-services-announces-13-new-machine-learning-services<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="overflow-hidden full-width">
+<!---->    <div class="display-flex flex-row flex-wrap">
+            <a data-field="experience_media" class="optional-action-target-wrapper pvs-thumbnail__wrapper" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/experience/930210153/multiple-media-viewer?profileId=ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;treasuryMediaId=1635476516345">
+  <figure class="pvs-thumbnail">
+      <img src="https://media-exp1.licdn.com/dms/image/sync/C5627AQF7ZjyR1uVdRg/articleshare-shrink_160/0/1650033773182?e=2147483647&amp;v=beta&amp;t=0AWwOm8FOtvtiLUUcO-p3B2xXGYl8wJE-KZigyAQZDE" loading="lazy" alt="" id="thumbnail-image-ember406" class="pvs-thumbnail__image lazy-image ember-view">
+<!---->
+<!---->  </figure>
+</a>
+
+            <a data-field="experience_media" class="optional-action-target-wrapper pvs-thumbnail__wrapper" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/experience/930210153/multiple-media-viewer?profileId=ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;treasuryMediaId=1545454478177">
+  <figure class="pvs-thumbnail">
+      <li-icon aria-hidden="true" type="image"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+  <path d="M19 4H5a3 3 0 00-3 3v10a3 3 0 003 3h14a3 3 0 003-3V7a3 3 0 00-3-3zm1 13a1 1 0 01-.29.71L16 14l-2 2-6-6-4 4V7a1 1 0 011-1h14a1 1 0 011 1zm-2-7a2 2 0 11-2-2 2 2 0 012 2z"></path>
+</svg></li-icon>
+<!---->
+<!---->  </figure>
+</a>
+
+            <a data-field="experience_media" class="optional-action-target-wrapper pvs-thumbnail__wrapper" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/experience/930210153/multiple-media-viewer?profileId=ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;treasuryMediaId=1545454477359">
+  <figure class="pvs-thumbnail">
+      <li-icon aria-hidden="true" type="image"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+  <path d="M19 4H5a3 3 0 00-3 3v10a3 3 0 003 3h14a3 3 0 003-3V7a3 3 0 00-3-3zm1 13a1 1 0 01-.29.71L16 14l-2 2-6-6-4 4V7a1 1 0 011-1h14a1 1 0 011 1zm-2-7a2 2 0 11-2-2 2 2 0 012 2z"></path>
+</svg></li-icon>
+<!---->
+<!---->  </figure>
+</a>
+
+            <a data-field="experience_media" class="optional-action-target-wrapper pvs-thumbnail__wrapper" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/experience/930210153/multiple-media-viewer?profileId=ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;treasuryMediaId=1513581673620">
+  <figure class="pvs-thumbnail">
+      <li-icon aria-hidden="true" type="image"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24" data-supported-dps="24x24" fill="currentColor" class="mercado-match" width="24" height="24" focusable="false">
+  <path d="M19 4H5a3 3 0 00-3 3v10a3 3 0 003 3h14a3 3 0 003-3V7a3 3 0 00-3-3zm1 13a1 1 0 01-.29.71L16 14l-2 2-6-6-4 4V7a1 1 0 011-1h14a1 1 0 011 1zm-2-7a2 2 0 11-2-2 2 2 0 012 2z"></path>
+</svg></li-icon>
+<!---->
+<!---->  </figure>
+</a>
+
+            <a data-field="experience_media" class="optional-action-target-wrapper pvs-thumbnail__wrapper" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/experience/930210153/multiple-media-viewer?profileId=ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;treasuryMediaId=1509679400376">
+  <figure class="pvs-thumbnail">
+      <img src="https://media-exp1.licdn.com/dms/image/sync/C4E27AQEdrbrpIq6eJQ/articleshare-shrink_160/0/1650498694665?e=2147483647&amp;v=beta&amp;t=R-0dyR0V__nPjH9eLN-wreNxnOzWui2z9nXA8O2CR-Q" loading="lazy" alt="" id="thumbnail-image-ember411" class="pvs-thumbnail__image lazy-image ember-view">
+<!---->
+<!---->  </figure>
+</a>
+
+<!---->    </div>
+  </div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/company/2382910/">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C560BAQE_4UwvNNtNTQ/company-logo_100_100/0/1640205885683?e=2147483647&amp;v=beta&amp;t=Aqmvxbh9I3Uv6XnBvlWCAPw4AU3meh8EPznk1Nfv8NU" loading="lazy" height="48" alt="Amazon Web Services (AWS) logo" id="ember413" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/2382910/">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Amazon Web Services<!----></span><span class="visually-hidden"><!---->Amazon Web Services<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->5 yrs 8 mos<!----></span><span class="visually-hidden"><!---->5 yrs 8 mos<!----></span>
+          </span>
+<!----><!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                  <span class="pvs-entity__path-node"></span>
+<div class="pvs-entity
+    
+    pvs-entity--with-path
+    ">
+  <div>
+      <div class="
+        display-flex" tabindex="-1" aria-hidden="true">
+    
+<!---->    
+  </div>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/2382910/">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->General Manager, NoSQL and Analytics<!----></span><span class="visually-hidden"><!---->General Manager, NoSQL and Analytics<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+<!---->          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->Apr 2012 - Dec 2015 · 3 yrs 9 mos<!----></span><span class="visually-hidden"><!---->Apr 2012 - Dec 2015 · 3 yrs 9 mos<!----></span>
+          </span>
+          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->Greater Seattle Area<!----></span><span class="visually-hidden"><!---->Greater Seattle Area<!----></span>
+          </span>
+      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->I was the GM for NoSQL(Dynamo, ElastiCache) and Analytics (QuickSight) in Amazon. I bootstrapped the NoSQL services team for Amazon from scratch and got DynamoDB and ElastiCache to be two of the key pillar services for AWS with broad success in adoption and revenue. I was responsible for the vision, execution and operations of these services.  I managed the engineering, product management and operations for core AWS database services that are the foundational building blocks for AWS: DynamoDB, AWS Transactional Services (Paxos based lock services, replication infrastructure), Elasticache (in-memory engines), SimpleDB, and a few other services that were in the works.<span class="white-space-pre"> </span><br><br><!---->I have built several large scale systems in the past. Some of the well known ones (that is externally visible) include Amazon Dynamo and DynamoDB, Amazon CloudFront, Amazon RDS, Amazon ElastiCache, Amazon's core Paxos infra and Amazon SNS Mobile Push. I has also built other large scale systems that is used for building Amazon service infrastructure including its core distributed lock service infrastructure. I am also one of the main authors of Amazon Dynamo paper (along with Werner Vogels) that was published in SOSP 2007 and became the foundation of several other NoSQL stores.<span class="white-space-pre"> </span><br><br><!---->For more information on DynamoDB, see:<span class="white-space-pre"> </span><br><!---->http://www.youtube.com/watch?v=oz-7wJJ9HZ0<!----><br><!---->and<!----><br><!---->http://www.youtube.com/watch?v=wjJ3Dkl6VS4<!----><br><br><!---->For Elasticache, see: http://aws.amazon.com/elasticache/<!----><br><br><!---->To build a 1TB cache in a matter of minutes, use Elasticache: http://www.youtube.com/watch?v=4FQAtbgXrdY<!----><br><br><!---->For QuickSight, see http://aws.amazon.com/quicksight<!----><br><br><br><!---->Product pages for services I managed:<span class="white-space-pre"> </span><br><br><!---->http://aws.amazon.com/dynamodb/<!----><br><!---->http://aws.amazon.com/simpledb/<!----><br><!---->http://aws.amazon.com/elasticache/<!----><br><!---->http://aws.amazon.com/quicksight<!----></span><span class="visually-hidden"><!---->I was the GM for NoSQL(Dynamo, ElastiCache) and Analytics (QuickSight) in Amazon. I bootstrapped the NoSQL services team for Amazon from scratch and got DynamoDB and ElastiCache to be two of the key pillar services for AWS with broad success in adoption and revenue. I was responsible for the vision, execution and operations of these services.  I managed the engineering, product management and operations for core AWS database services that are the foundational building blocks for AWS: DynamoDB, AWS Transactional Services (Paxos based lock services, replication infrastructure), Elasticache (in-memory engines), SimpleDB, and a few other services that were in the works. 
+
+I have built several large scale systems in the past. Some of the well known ones (that is externally visible) include Amazon Dynamo and DynamoDB, Amazon CloudFront, Amazon RDS, Amazon ElastiCache, Amazon's core Paxos infra and Amazon SNS Mobile Push. I has also built other large scale systems that is used for building Amazon service infrastructure including its core distributed lock service infrastructure. I am also one of the main authors of Amazon Dynamo paper (along with Werner Vogels) that was published in SOSP 2007 and became the foundation of several other NoSQL stores. 
+
+For more information on DynamoDB, see: 
+http://www.youtube.com/watch?v=oz-7wJJ9HZ0
+and
+http://www.youtube.com/watch?v=wjJ3Dkl6VS4
+
+For Elasticache, see: http://aws.amazon.com/elasticache/
+
+To build a 1TB cache in a matter of minutes, use Elasticache: http://www.youtube.com/watch?v=4FQAtbgXrdY
+
+For QuickSight, see http://aws.amazon.com/quicksight
+
+
+Product pages for services I managed: 
+
+http://aws.amazon.com/dynamodb/
+http://aws.amazon.com/simpledb/
+http://aws.amazon.com/elasticache/
+http://aws.amazon.com/quicksight<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class=" ">
+                  <span class="pvs-entity__path-node"></span>
+<div class="pvs-entity
+    
+    
+    ">
+  <div>
+      <div class="
+        display-flex" tabindex="-1" aria-hidden="true">
+    
+<!---->    
+  </div>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/2382910/">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Sr. Manager, NoSQL<!----></span><span class="visually-hidden"><!---->Sr. Manager, NoSQL<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+<!---->          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->May 2010 - Mar 2012 · 1 yr 11 mos<!----></span><span class="visually-hidden"><!---->May 2010 - Mar 2012 · 1 yr 11 mos<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->Switching from a Principal Engineer (who hands on built several AWS services) to engineering leadership, I bootstrapped NoSQL database services in AWS which started the whole DynamoDB, Core Paxos fabric layer and our ElastiCache layer.<span class="white-space-pre"> </span><br></span><span class="visually-hidden"><!---->Switching from a Principal Engineer (who hands on built several AWS services) to engineering leadership, I bootstrapped NoSQL database services in AWS which started the whole DynamoDB, Core Paxos fabric layer and our ElastiCache layer.<span class="white-space-pre"> </span></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/company/1586/">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_100_100/0/1612205615891?e=2147483647&amp;v=beta&amp;t=PG9v_TmuSDxc9nAjnwxAFTWfFwhri5iJcJ4bcODhtPA" loading="lazy" height="48" alt="Amazon logo" id="ember414" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/1586/">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Amazon.com<!----></span><span class="visually-hidden"><!---->Amazon.com<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->3 yrs 7 mos<!----></span><span class="visually-hidden"><!---->3 yrs 7 mos<!----></span>
+          </span>
+<!----><!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                  <span class="pvs-entity__path-node"></span>
+<div class="pvs-entity
+    
+    pvs-entity--with-path
+    ">
+  <div>
+      <div class="
+        display-flex" tabindex="-1" aria-hidden="true">
+    
+<!---->    
+  </div>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/1586/">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Principal Engineer in Cloud Computing Services<!----></span><span class="visually-hidden"><!---->Principal Engineer in Cloud Computing Services<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+<!---->          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->Apr 2008 - May 2010 · 2 yrs 2 mos<!----></span><span class="visually-hidden"><!---->Apr 2008 - May 2010 · 2 yrs 2 mos<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->Reporting to the CTO; Working on design, implementation and analysis of several distributed systems technology within my organization.<!----><br><br><!---->Launched multiple cloud services like AWS CloudFront, Amazon RDS and influenced launch of several other AWS services.<!----></span><span class="visually-hidden"><!---->Reporting to the CTO; Working on design, implementation and analysis of several distributed systems technology within my organization.
+
+Launched multiple cloud services like AWS CloudFront, Amazon RDS and influenced launch of several other AWS services.<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class=" ">
+                  <span class="pvs-entity__path-node"></span>
+<div class="pvs-entity
+    
+    
+    ">
+  <div>
+      <div class="
+        display-flex" tabindex="-1" aria-hidden="true">
+    
+<!---->    
+  </div>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/1586/">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Senior Research Engineer<!----></span><span class="visually-hidden"><!---->Senior Research Engineer<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+<!---->          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->Nov 2006 - Apr 2008 · 1 yr 6 mos<!----></span><span class="visually-hidden"><!---->Nov 2006 - Apr 2008 · 1 yr 6 mos<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->Reporting to the CTO; Working on design, implementation and analysis of several distributed systems technology within my organization.<!----></span><span class="visually-hidden"><!---->Reporting to the CTO; Working on design, implementation and analysis of several distributed systems technology within my organization.<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/company/1586/">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C560BAQHTvZwCx4p2Qg/company-logo_100_100/0/1612205615891?e=2147483647&amp;v=beta&amp;t=PG9v_TmuSDxc9nAjnwxAFTWfFwhri5iJcJ4bcODhtPA" loading="lazy" height="48" alt="Amazon logo" id="ember415" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+        <div class="
+          display-flex flex-column full-width">
+    
+        <div class="display-flex align-items-center">
+            <span class="mr1 t-bold">
+              <span aria-hidden="true"><!---->Research Engineer Intern<!----></span><span class="visually-hidden"><!---->Research Engineer Intern<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->Amazon.com, Distributed Systems Group<!----></span><span class="visually-hidden"><!---->Amazon.com, Distributed Systems Group<!----></span>
+          </span>
+          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->Jun 2005 - Sep 2005 · 4 mos<!----></span><span class="visually-hidden"><!---->Jun 2005 - Sep 2005 · 4 mos<!----></span>
+          </span>
+<!---->      
+  </div>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->Worked on design and implementation of some scalable distributed systems. The work has led to couple of patent applications and the real systems will go to  production environment pretty soon.<!----></span><span class="visually-hidden"><!---->Worked on design and implementation of some scalable distributed systems. The work has led to couple of patent applications and the real systems will go to  production environment pretty soon.<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+    </ul>
+    <div class="pvs-list__footer-wrapper">
+          <div class="">
+            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--3 artdeco-button--muted 
+      inline-flex justify-center full-width align-items-center artdeco-button--fluid
+      
+      " target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/details/experience?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0">
+<!---->      <span class="pvs-navigation__text">
+        Show all 10 experiences
+      </span>
+      <div class="pvs-navigation__icon">
+        <li-icon aria-hidden="true" type="arrow-right-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="mercado-match" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
+  <path d="M11.45 3L15 8l-3.55 5H9l2.84-4H2V7h9.84L9 3z"></path>
+</svg></li-icon>
+      </div>
+  </a>
+
+
+    </div>
+
+    </div>
+</div>
+
+<!---->  </section>
+
+<!---->
+          <section id="ember416" class="artdeco-card ember-view break-words pb3
+      
+      mt2"><!---->
+
+    <div id="education" class="pv-profile-card-anchor"></div>
+            <!---->
+<div class="pvs-header__container">
+  <div class="pvs-header__top-container--no-stack">
+    <div class="pvs-header__left-container--stack">
+      <div class="pvs-header__title-container">
+          <h2 class="pvs-header__title text-heading-large">
+            <span aria-hidden="true"><!---->Education<!----></span><span class="visually-hidden"><!---->Education<!----></span>
+          </h2>
+<!----><!---->      </div>
+
+<!---->    </div>
+
+<!---->  </div>
+</div>
+
+            <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        ph5 display-flex flex-row flex-wrap
+        ">
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/company/5570/">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGFPhqXMAKaTQ/company-logo_100_100/0/1639385003948?e=2147483647&amp;v=beta&amp;t=trxZmTbiRvn_eHS0NQMp25KdfV1XO30xCz44xBlbYxM" loading="lazy" height="48" alt="Vrije Universiteit Amsterdam (VU Amsterdam) logo" id="ember417" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/5570/">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Vrije Universiteit Amsterdam (VU Amsterdam)<!----></span><span class="visually-hidden"><!---->Vrije Universiteit Amsterdam (VU Amsterdam)<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->Ph.D., Computer Science<!----></span><span class="visually-hidden"><!---->Ph.D., Computer Science<!----></span>
+          </span>
+          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->2002 - 2006<!----></span><span class="visually-hidden"><!---->2002 - 2006<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->- Published around 30 research papers in ACM/IEEE journals and conferences.<!----><br><!---->- Won a best research paper award from IEEE Service Computing Technical committee.<!----></span><span class="visually-hidden"><!---->- Published around 30 research papers in ACM/IEEE journals and conferences.
+- Won a best research paper award from IEEE Service Computing Technical committee.<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/company/164452/">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFRN0d0TDgLNA/company-logo_100_100/0/1519912824418?e=2147483647&amp;v=beta&amp;t=hnPJPoxeqYU0yf4phTrUANwFhMSz1abx6Q6Py8hTQ98" loading="lazy" height="48" alt="Iowa State University logo" id="ember418" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/164452/">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Iowa State University<!----></span><span class="visually-hidden"><!---->Iowa State University<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->M.S, Computer Engineering<!----></span><span class="visually-hidden"><!---->M.S, Computer Engineering<!----></span>
+          </span>
+          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->2000 - 2002<!----></span><span class="visually-hidden"><!---->2000 - 2002<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                  <div class="display-flex mv1 link-without-hover-visited">
+    
+<!---->    <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->Activities and societies: Teaching Assistant for Real-time systems, Research Assistant - worked on design and implementation of new RTOS scheduling algorithms, SITAR - Society for Indian Tradition and ARts<!----></span><span class="visually-hidden"><!---->Activities and societies: Teaching Assistant for Real-time systems, Research Assistant - worked on design and implementation of new RTOS scheduling algorithms, SITAR - Society for Indian Tradition and ARts<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+  </div>
+
+
+        </li>
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->- Passed with dual honors (research excellence and teaching excellence awards). GPA: 4.0/4.0<!----><br><br><!---->- Involved in research of real-time scheduling for dynamic real-time systems. Areas focussed: Value-based Scheduling and Feedback-controlled real-time scheduling.<!----><br><!---->- Published 2 journals and seven conference/workshop papers.<!----><br><!---->-  Awarded Research Excellence Award.<!----><br><br><!---->-  Taught "Digital Systems Design" and "Real-Time Systems" for undergraduate courses.<!----><br><span class="white-space-pre"> </span>-  Awarded Teaching Excellence Award by President of ISU.<!----><br><span class="white-space-pre"> </span>-  Was involved in building the practical lab exercises for Real-Time  Systems Course (CprE 558 ) from scratch<!----></span><span class="visually-hidden"><!---->- Passed with dual honors (research excellence and teaching excellence awards). GPA: 4.0/4.0
+
+- Involved in research of real-time scheduling for dynamic real-time systems. Areas focussed: Value-based Scheduling and Feedback-controlled real-time scheduling.
+- Published 2 journals and seven conference/workshop papers.
+-  Awarded Research Excellence Award.
+
+-  Taught "Digital Systems Design" and "Real-Time Systems" for undergraduate courses.
+ -  Awarded Teaching Excellence Award by President of ISU.
+ -  Was involved in building the practical lab exercises for Real-Time  Systems Course (CprE 558 ) from scratch<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+      <div class="
+        display-flex" tabindex="-1" aria-hidden="true">
+    
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+    <div class="EntityPhoto-square-3-ghost-school ivm-view-attr__ghost-entity ">
+<!---->    </div>
+</div>
+  </div>
+    
+  </div>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/search/results/all/?keywords=College+of+Engineering+Guindy%2C+Chennai">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->College of Engineering Guindy, Chennai<!----></span><span class="visually-hidden"><!---->College of Engineering Guindy, Chennai<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->B.E., Computer Science &amp; Engineering<!----></span><span class="visually-hidden"><!---->B.E., Computer Science &amp; Engineering<!----></span>
+          </span>
+          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->1996 - 2000<!----></span><span class="visually-hidden"><!---->1996 - 2000<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+<!---->  </div>
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+<!---->  </section>
+
+<!---->
+        <!---->
+<!---->
+        <!---->
+<!---->
+          <section id="ember518" class="artdeco-card ember-view break-words pb3
+      
+      mt2"><!---->
+
+    <div id="skills" class="pv-profile-card-anchor"></div>
+            <!---->
+<div class="pvs-header__container">
+  <div class="pvs-header__top-container--no-stack">
+    <div class="pvs-header__left-container--stack">
+      <div class="pvs-header__title-container">
+          <h2 class="pvs-header__title text-heading-large">
+            <span aria-hidden="true"><!---->Skills<!----></span><span class="visually-hidden"><!---->Skills<!----></span>
+          </h2>
+<!----><!---->      </div>
+
+<!---->    </div>
+
+<!---->  </div>
+</div>
+
+            <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        ph5 display-flex flex-row flex-wrap
+        ">
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+      <div class="
+        display-flex" tabindex="-1" aria-hidden="true">
+    
+<!---->    
+  </div>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/urn:li:fsd_skill:(ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0,2)/endorsers?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;tabIndex=0&amp;modalTabIndex=0">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Distributed Systems<!----></span><span class="visually-hidden"><!---->Distributed Systems<!----></span>
+            </span>
+<!----><!---->            <span class="pvs-entity__supplementary-info t-14 t-black--light t-normal mr1">
+              <span aria-hidden="true"><!---->· 99+<!----></span><span class="visually-hidden"><!---->· 99+<!----></span>
+            </span>
+        </div>
+<!----><!----><!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                    <a class="optional-action-target-wrapper display-flex mv1 link-without-hover-visited" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/urn:li:fsd_skill:(ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0,2)/endorsers?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;tabIndex=1&amp;modalTabIndex=1">
+    <div class="mr2 mv1">
+      <ul class="ivm-entity-pile
+    display-flex align-items-center t-black">
+    <li class="ivm-entity-pile__img-item--stacked">
+      <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="24" src="https://media-exp1.licdn.com/dms/image/C5603AQHFOk4rcRQ_KA/profile-displayphoto-shrink_100_100/0/1572562725520?e=1655942400&amp;v=beta&amp;t=B4Ats06h54ysQiCnRg-2yMUnqHV5WBuBtNuj7Ap4Ld0" loading="lazy" height="24" alt="" id="ember519" class="ivm-view-attr__img--centered ivm-view-attr__img--stacked ivm-view-attr__img--stacked-circle-size-0 EntityPhoto-circle-0-stackedFacepile  lazy-image ember-view">
+</div>
+    </li>
+</ul>
+    </div>
+    <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black hoverable-link-text display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->Endorsed by<span class="white-space-pre"> </span><!---->Jacob Gabrielson<!----><span class="white-space-pre"> </span>and 33 others who are highly skilled at this<!----></span><span class="visually-hidden"><!---->Endorsed by<span class="white-space-pre"> </span><!---->Jacob Gabrielson<!----><span class="white-space-pre"> </span>and 33 others who are highly skilled at this<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+</a>
+
+
+        </li>
+        <li class=" ">
+                    <a class="optional-action-target-wrapper display-flex mv1 link-without-hover-visited" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/urn:li:fsd_skill:(ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0,2)/endorsers?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;tabIndex=2&amp;modalTabIndex=2">
+    <div class="mr2 mv1">
+      <ul class="ivm-entity-pile
+    display-flex align-items-center t-black">
+    <li class="ivm-entity-pile__img-item--stacked">
+      <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="24" src="https://media-exp1.licdn.com/dms/image/C560BAQE_4UwvNNtNTQ/company-logo_100_100/0/1640205885683?e=2147483647&amp;v=beta&amp;t=Aqmvxbh9I3Uv6XnBvlWCAPw4AU3meh8EPznk1Nfv8NU" loading="lazy" height="24" alt="" id="ember520" class="ivm-view-attr__img--centered ivm-view-attr__img--stacked ivm-view-attr__img--stacked-square-size-0 EntityPhoto-square-0-stackedFacepile  lazy-image ember-view">
+</div>
+    </li>
+</ul>
+    </div>
+    <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black hoverable-link-text display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->Endorsed by 39 colleagues at<span class="white-space-pre"> </span><!---->Amazon Web Services (AWS)<!----></span><span class="visually-hidden"><!---->Endorsed by 39 colleagues at<span class="white-space-pre"> </span><!---->Amazon Web Services (AWS)<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+</a>
+
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+      <div class="
+        display-flex" tabindex="-1" aria-hidden="true">
+    
+<!---->    
+  </div>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/urn:li:fsd_skill:(ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0,4)/endorsers?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;tabIndex=0&amp;modalTabIndex=0">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Cloud Computing<!----></span><span class="visually-hidden"><!---->Cloud Computing<!----></span>
+            </span>
+<!----><!---->            <span class="pvs-entity__supplementary-info t-14 t-black--light t-normal mr1">
+              <span aria-hidden="true"><!---->· 99+<!----></span><span class="visually-hidden"><!---->· 99+<!----></span>
+            </span>
+        </div>
+<!----><!----><!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                    <a class="optional-action-target-wrapper display-flex mv1 link-without-hover-visited" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/urn:li:fsd_skill:(ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0,4)/endorsers?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;tabIndex=1&amp;modalTabIndex=1">
+    <div class="mr2 mv1">
+      <ul class="ivm-entity-pile
+    display-flex align-items-center t-black">
+    <li class="ivm-entity-pile__img-item--stacked">
+      <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="24" src="https://media-exp1.licdn.com/dms/image/C4E03AQFMshxR3uc1ow/profile-displayphoto-shrink_100_100/0/1517746780015?e=1655942400&amp;v=beta&amp;t=ozpBj_Nt4Pt7CRybbM69wluZZX-i7faCb_jrrF5V32k" loading="lazy" height="24" alt="" id="ember521" class="ivm-view-attr__img--centered ivm-view-attr__img--stacked ivm-view-attr__img--stacked-circle-size-0 EntityPhoto-circle-0-stackedFacepile  lazy-image ember-view">
+</div>
+    </li>
+</ul>
+    </div>
+    <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black hoverable-link-text display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->Endorsed by<span class="white-space-pre"> </span><!---->CJ Moses<!----><span class="white-space-pre"> </span>and 25 others who are highly skilled at this<!----></span><span class="visually-hidden"><!---->Endorsed by<span class="white-space-pre"> </span><!---->CJ Moses<!----><span class="white-space-pre"> </span>and 25 others who are highly skilled at this<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+</a>
+
+
+        </li>
+        <li class=" ">
+                    <a class="optional-action-target-wrapper display-flex mv1 link-without-hover-visited" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/urn:li:fsd_skill:(ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0,4)/endorsers?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;tabIndex=2&amp;modalTabIndex=2">
+    <div class="mr2 mv1">
+      <ul class="ivm-entity-pile
+    display-flex align-items-center t-black">
+    <li class="ivm-entity-pile__img-item--stacked">
+      <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="24" src="https://media-exp1.licdn.com/dms/image/C560BAQE_4UwvNNtNTQ/company-logo_100_100/0/1640205885683?e=2147483647&amp;v=beta&amp;t=Aqmvxbh9I3Uv6XnBvlWCAPw4AU3meh8EPznk1Nfv8NU" loading="lazy" height="24" alt="" id="ember522" class="ivm-view-attr__img--centered ivm-view-attr__img--stacked ivm-view-attr__img--stacked-square-size-0 EntityPhoto-square-0-stackedFacepile  lazy-image ember-view">
+</div>
+    </li>
+</ul>
+    </div>
+    <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black hoverable-link-text display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->Endorsed by 32 colleagues at<span class="white-space-pre"> </span><!---->Amazon Web Services (AWS)<!----></span><span class="visually-hidden"><!---->Endorsed by 32 colleagues at<span class="white-space-pre"> </span><!---->Amazon Web Services (AWS)<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+</a>
+
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+      <div class="
+        display-flex" tabindex="-1" aria-hidden="true">
+    
+<!---->    
+  </div>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/urn:li:fsd_skill:(ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0,9)/endorsers?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;tabIndex=0&amp;modalTabIndex=0">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Scalability<!----></span><span class="visually-hidden"><!---->Scalability<!----></span>
+            </span>
+<!----><!---->            <span class="pvs-entity__supplementary-info t-14 t-black--light t-normal mr1">
+              <span aria-hidden="true"><!---->· 98<!----></span><span class="visually-hidden"><!---->· 98<!----></span>
+            </span>
+        </div>
+<!----><!----><!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                    <a class="optional-action-target-wrapper display-flex mv1 link-without-hover-visited" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/urn:li:fsd_skill:(ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0,9)/endorsers?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;tabIndex=1&amp;modalTabIndex=1">
+    <div class="mr2 mv1">
+      <ul class="ivm-entity-pile
+    display-flex align-items-center t-black">
+    <li class="ivm-entity-pile__img-item--stacked">
+      <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="24" src="https://media-exp1.licdn.com/dms/image/C5603AQEGsaraSpdTMg/profile-displayphoto-shrink_100_100/0/1641187020833?e=1655942400&amp;v=beta&amp;t=JI1rGKqNLYZnD9Y_aL1jaId6fRgOlzTWnJDbPqEGlJE" loading="lazy" height="24" alt="" id="ember523" class="ivm-view-attr__img--centered ivm-view-attr__img--stacked ivm-view-attr__img--stacked-circle-size-0 EntityPhoto-circle-0-stackedFacepile  lazy-image ember-view">
+</div>
+    </li>
+</ul>
+    </div>
+    <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black hoverable-link-text display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->Endorsed by<span class="white-space-pre"> </span><!---->Mark Porter<!----><span class="white-space-pre"> </span>and 6 others who are highly skilled at this<!----></span><span class="visually-hidden"><!---->Endorsed by<span class="white-space-pre"> </span><!---->Mark Porter<!----><span class="white-space-pre"> </span>and 6 others who are highly skilled at this<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+</a>
+
+
+        </li>
+        <li class=" ">
+                    <a class="optional-action-target-wrapper display-flex mv1 link-without-hover-visited" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/urn:li:fsd_skill:(ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0,9)/endorsers?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;tabIndex=2&amp;modalTabIndex=2">
+    <div class="mr2 mv1">
+      <ul class="ivm-entity-pile
+    display-flex align-items-center t-black">
+    <li class="ivm-entity-pile__img-item--stacked">
+      <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="24" src="https://media-exp1.licdn.com/dms/image/C560BAQE_4UwvNNtNTQ/company-logo_100_100/0/1640205885683?e=2147483647&amp;v=beta&amp;t=Aqmvxbh9I3Uv6XnBvlWCAPw4AU3meh8EPznk1Nfv8NU" loading="lazy" height="24" alt="" id="ember524" class="ivm-view-attr__img--centered ivm-view-attr__img--stacked ivm-view-attr__img--stacked-square-size-0 EntityPhoto-square-0-stackedFacepile  lazy-image ember-view">
+</div>
+    </li>
+</ul>
+    </div>
+    <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black hoverable-link-text display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->Endorsed by 22 colleagues at<span class="white-space-pre"> </span><!---->Amazon Web Services (AWS)<!----></span><span class="visually-hidden"><!---->Endorsed by 22 colleagues at<span class="white-space-pre"> </span><!---->Amazon Web Services (AWS)<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+</a>
+
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+    </ul>
+    <div class="pvs-list__footer-wrapper">
+          <div class="">
+            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--3 artdeco-button--muted 
+      inline-flex justify-center full-width align-items-center artdeco-button--fluid
+      
+      " target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/details/skills?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0">
+<!---->      <span class="pvs-navigation__text">
+        Show all 41 skills
+      </span>
+      <div class="pvs-navigation__icon">
+        <li-icon aria-hidden="true" type="arrow-right-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="mercado-match" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
+  <path d="M11.45 3L15 8l-3.55 5H9l2.84-4H2V7h9.84L9 3z"></path>
+</svg></li-icon>
+      </div>
+  </a>
+
+
+    </div>
+
+    </div>
+</div>
+
+<!---->  </section>
+
+<!---->
+          <section id="ember525" class="artdeco-card ember-view break-words pb3
+      
+      mt2"><!---->
+
+    <div id="recommendations" class="pv-profile-card-anchor"></div>
+            <!---->
+<div class="pvs-header__container">
+  <div class="pvs-header__top-container--no-stack">
+    <div class="pvs-header__left-container--stack">
+      <div class="pvs-header__title-container">
+          <h2 class="pvs-header__title text-heading-large">
+            <span aria-hidden="true"><!---->Recommendations<!----></span><span class="visually-hidden"><!---->Recommendations<!----></span>
+          </h2>
+<!----><!---->      </div>
+
+<!---->    </div>
+
+<!---->  </div>
+</div>
+
+              <div id="ember526" class="artdeco-tabs artdeco-tabs--size-t-48 ember-view">
+      <div aria-multiselectable="false" id="ember527" class="artdeco-tablist artdeco-tablist--no-wrap ember-view" role="tablist">
+          <button tabindex="0" aria-selected="true" id="ember528" class="artdeco-tab active artdeco-tab--selected ember-view" role="tab" aria-controls="ember530">
+            <span aria-hidden="true"><!---->Received<!----></span><span class="visually-hidden"><!---->Received<!----></span>
+          </button>
+
+          <button tabindex="-1" aria-selected="false" id="ember529" class="artdeco-tab ember-view" role="tab" aria-controls="ember531">
+            <span aria-hidden="true"><!---->Given<!----></span><span class="visually-hidden"><!---->Given<!----></span>
+          </button>
+
+      
+</div>
+      <div tabindex="0" id="ember530" class="artdeco-tabpanel active ember-view" role="tabpanel" aria-labelledby="ember528">
+              <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+      <div class="
+        display-flex" tabindex="-1" aria-hidden="true">
+    
+<!---->    
+  </div>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+        <div class="
+          display-flex flex-column full-width">
+    
+        <div class="display-flex align-items-center">
+            <span class="mr1 t-bold">
+              <span aria-hidden="true"><!---->Nothing to see for now<!----></span><span class="visually-hidden"><!---->Nothing to see for now<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->Recommendations that<span class="white-space-pre"> </span><!---->Swami<!----><span class="white-space-pre"> </span>receives will appear here.<!----></span><span class="visually-hidden"><!---->Recommendations that<span class="white-space-pre"> </span><!---->Swami<!----><span class="white-space-pre"> </span>receives will appear here.<!----></span>
+          </span>
+<!----><!---->      
+  </div>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+<!---->  </div>
+</div>
+
+      </div>
+      <div tabindex="0" hidden="" id="ember531" class="artdeco-tabpanel artdeco-tabpanel--hidden ember-view" role="tabpanel" aria-labelledby="ember529">
+              <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        ph5 display-flex flex-row flex-wrap
+        ">
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/in/mlee95070">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+    <div class="EntityPhoto-circle-3-ghost-person ivm-view-attr__ghost-entity ">
+        <div class="visually-hidden">Michelle Lee profile picture</div>
+    </div>
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/in/mlee95070">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Michelle Lee<!----></span><span class="visually-hidden"><!---->Michelle Lee<!----></span>
+            </span>
+<!----><!---->            <span class="pvs-entity__supplementary-info t-14 t-black--light t-normal mr1">
+              <span aria-hidden="true"><!---->· 3rd<!----></span><span class="visually-hidden"><!---->Third degree connection<!----></span>
+            </span>
+        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->AI tech executive, Board Member, Under Secretary of Commerce and Director of the U.S. Patent &amp; Trademark Office, Member of the MIT Corporation<!----></span><span class="visually-hidden"><!---->AI tech executive, Board Member, Under Secretary of Commerce and Director of the U.S. Patent &amp; Trademark Office, Member of the MIT Corporation<!----></span>
+          </span>
+<!----><!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:7.6rem;">
+
+    <span aria-hidden="true"><!---->Michelle is an amazing leader who has a rare combination of business acumen, leadership, technology insights, and legal/policy issues as well. She is a thought leader (and a thoughtful one!) and widely respected by her team.  I am glad to have had the opportunity to work with her, and looking forward to seeing all the amazing things she leads in the future.<!----></span><span class="visually-hidden"><!---->Michelle is an amazing leader who has a rare combination of business acumen, leadership, technology insights, and legal/policy issues as well. She is a thought leader (and a thoughtful one!) and widely respected by her team.  I am glad to have had the opportunity to work with her, and looking forward to seeing all the amazing things she leads in the future.<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+      </div>
+  </div>
+
+
+<!---->  </section>
+
+<!---->
+          <section id="ember423" class="artdeco-card ember-view break-words pb3
+      
+      mt2"><!---->
+
+    <div id="publications" class="pv-profile-card-anchor"></div>
+            <!---->
+<div class="pvs-header__container">
+  <div class="pvs-header__top-container--no-stack">
+    <div class="pvs-header__left-container--stack">
+      <div class="pvs-header__title-container">
+          <h2 class="pvs-header__title text-heading-large">
+            <span aria-hidden="true"><!---->Publications<!----></span><span class="visually-hidden"><!---->Publications<!----></span>
+          </h2>
+<!----><!---->      </div>
 
 <!---->    </div>
 
@@ -308,11 +3247,11 @@ profile_7 = """
     
         <div class="display-flex align-items-center">
             <span class="mr1 t-bold">
-              <span aria-hidden="true"><!---->Aileen<!----><span class="white-space-pre"> </span>hasn't posted lately<!----></span><span class="visually-hidden"><!---->Aileen<!----><span class="white-space-pre"> </span>hasn't posted lately<!----></span>
+              <span aria-hidden="true"><!---->Feedback control for real-time scheduling<!----></span><span class="visually-hidden"><!---->Feedback control for real-time scheduling<!----></span>
             </span>
 <!----><!----><!---->        </div>
           <span class="t-14 t-normal">
-            <span aria-hidden="true"><!---->Aileen’s recent posts and comments will be displayed here.<!----></span><span class="visually-hidden"><!---->Aileen’s recent posts and comments will be displayed here.<!----></span>
+            <span aria-hidden="true"><!---->American Control Conference · Jan 1, 2002<!----></span><span class="visually-hidden"><!---->American Control Conference · Jan 1, 2002<!----></span>
           </span>
 <!----><!---->      
   </div>
@@ -323,7 +3262,500 @@ profile_7 = """
 <!---->      </div>
     </div>
 
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                    <div class="pv2">
+            <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--2 artdeco-button--muted 
+      inline-flex justify-center align-self-flex-start
+      
+      " target="_blank" href="http://dx.doi.org/10.1109/ACC.2002.1023192">
+<!---->      <span class="pvs-navigation__text">
+        Show publication
+      </span>
+      <div class="pvs-navigation__icon">
+        <li-icon aria-hidden="true" type="link-external-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M15 1v6h-2V4.41L7.41 10 6 8.59 11.59 3H9V1zm-4 10a1 1 0 01-1 1H5a1 1 0 01-1-1V6a1 1 0 011-1h2V3H5a3 3 0 00-3 3v5a3 3 0 003 3h5a3 3 0 003-3V9h-2z"></path>
+</svg></li-icon>
+      </div>
+  </a>
+
+
+    </div>
+
+
+        </li>
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->Most real-time scheduling algorithms are open-loop algorithms as the scheduling decisions are based on the worst-case estimates of task parameters. In recent years, the "closed-loop" scheduling has gained importance due to its applicability to many real-world problems wherein the feedback information can be exploited efficiently to adjust task and/or scheduler parameters, thereby improving the system's performance. In this paper, we discuss an open-loop dynamic scheduling algorithm that employs a notion of task overlap in the scheduler in order to provide some flexibility in task execution time. Then we present a novel closed-loop approach for dynamically estimating the execution time of tasks based on both deadline miss ratio and task rejection ratio in the system. This approach is highly preferable for firm/soft real-time systems since it provides a firm performance guarantee in terms of deadline misses while achieving a high guarantee ratio. We design the proportional-integral controller and H∞ controller for closed loop scheduling. We evaluate the performance of the open-loop and the closed-loop approaches using simulation studies. We show that the closed-loop dynamic scheduling offers a better performance over the open-loop scheduling under all practical conditions.<!----></span><span class="visually-hidden"><!---->Most real-time scheduling algorithms are open-loop algorithms as the scheduling decisions are based on the worst-case estimates of task parameters. In recent years, the "closed-loop" scheduling has gained importance due to its applicability to many real-world problems wherein the feedback information can be exploited efficiently to adjust task and/or scheduler parameters, thereby improving the system's performance. In this paper, we discuss an open-loop dynamic scheduling algorithm that employs a notion of task overlap in the scheduler in order to provide some flexibility in task execution time. Then we present a novel closed-loop approach for dynamically estimating the execution time of tasks based on both deadline miss ratio and task rejection ratio in the system. This approach is highly preferable for firm/soft real-time systems since it provides a firm performance guarantee in terms of deadline misses while achieving a high guarantee ratio. We design the proportional-integral controller and H∞ controller for closed loop scheduling. We evaluate the performance of the open-loop and the closed-loop approaches using simulation studies. We show that the closed-loop dynamic scheduling offers a better performance over the open-loop scheduling under all practical conditions.<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="overflow-hidden full-width">
+    <div class="text-heading-small mb3">
+      <span aria-hidden="true"><!---->Other authors<!----></span><span class="visually-hidden"><!---->Other authors<!----></span>
+    </div>
+        <a class="optional-action-target-wrapper" target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/overlay/urn:li:fsd_profilePublication:(ACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0,47)/authors?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0">
+      <ul class="ivm-entity-pile
+    display-flex align-items-center">
+    <li class="ivm-entity-pile__img-item--stacked">
+      <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C5603AQGj0H7d2e1NJw/profile-displayphoto-shrink_100_100/0/1586701132928?e=1655942400&amp;v=beta&amp;t=ei2i2HcjDNIRkvYyGjLaVrSouevG8zPTCkcyLr9-N1A" loading="lazy" height="48" alt="" id="ember424" class="ivm-view-attr__img--centered ivm-view-attr__img--stacked ivm-view-attr__img--stacked-circle-size-3 EntityPhoto-circle-3-stackedFacepile  lazy-image ember-view">
+</div>
+    </li>
+    <li class="ivm-entity-pile__img-item--stacked">
+      <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+    <div class="ivm-view-attr__img--stacked ivm-view-attr__img--stacked-circle-size-3 EntityPhoto-circle-3-ghost-person-stackedFacepile ">
+<!---->    </div>
+</div>
+    </li>
+    <li class="ivm-entity-pile__img-item--stacked">
+      <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+    <div class="ivm-view-attr__img--stacked ivm-view-attr__img--stacked-circle-size-3 EntityPhoto-circle-3-ghost-person-stackedFacepile ">
+<!---->    </div>
+</div>
+    </li>
+</ul>
+    </a>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+      <div class="
+        display-flex" tabindex="-1" aria-hidden="true">
+    
+<!---->    
+  </div>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+        <div class="
+          display-flex flex-column full-width">
+    
+        <div class="display-flex align-items-center">
+            <span class="mr1 t-bold">
+              <span aria-hidden="true"><!---->Amazon Dynamo<!----></span><span class="visually-hidden"><!---->Amazon Dynamo<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+<!----><!----><!---->      
+  </div>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                    <div class="pv2">
+            <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--2 artdeco-button--muted 
+      inline-flex justify-center align-self-flex-start
+      
+      " target="_blank" href="http://www.allthingsdistributed.com/2007/10/amazons_dynamo.html">
+<!---->      <span class="pvs-navigation__text">
+        Show publication
+      </span>
+      <div class="pvs-navigation__icon">
+        <li-icon aria-hidden="true" type="link-external-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M15 1v6h-2V4.41L7.41 10 6 8.59 11.59 3H9V1zm-4 10a1 1 0 01-1 1H5a1 1 0 01-1-1V6a1 1 0 011-1h2V3H5a3 3 0 00-3 3v5a3 3 0 003 3h5a3 3 0 003-3V9h-2z"></path>
+</svg></li-icon>
+      </div>
+  </a>
+
+
+    </div>
+
+
+        </li>
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->Reliability at massive scale is one of the biggest challenges we face at Amazon.com, one of the largest e-commerce operations in the world; even the slightest outage has significant financial consequences and impacts customer trust. The Amazon.com platform, which provides services for many web sites worldwide, is implemented on top of an infrastructure of tens of thousands of servers and network components located in many datacenters around the world. At this scale, small and large components fail continuously and the way persistent state is managed in the face of these failures drives the reliability and scalability of the software systems.<!----><br><br><!---->This paper presents the design and implementation of Dynamo, a highly available key-value storage system that some of Amazon’s core services use to provide an “always-on” experience.  To achieve this level of availability, Dynamo sacrifices consistency under certain failure scenarios. It makes extensive use of object versioning and application-assisted conflict resolution in a manner that provides a novel interface for developers to use.<!----></span><span class="visually-hidden"><!---->Reliability at massive scale is one of the biggest challenges we face at Amazon.com, one of the largest e-commerce operations in the world; even the slightest outage has significant financial consequences and impacts customer trust. The Amazon.com platform, which provides services for many web sites worldwide, is implemented on top of an infrastructure of tens of thousands of servers and network components located in many datacenters around the world. At this scale, small and large components fail continuously and the way persistent state is managed in the face of these failures drives the reliability and scalability of the software systems.
+
+This paper presents the design and implementation of Dynamo, a highly available key-value storage system that some of Amazon’s core services use to provide an “always-on” experience.  To achieve this level of availability, Dynamo sacrifices consistency under certain failure scenarios. It makes extensive use of object versioning and application-assisted conflict resolution in a manner that provides a novel interface for developers to use.<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+<!---->  </section>
+
+<!---->
+          <section id="ember425" class="artdeco-card ember-view break-words pb3
+      
+      mt2"><!---->
+
+    <div id="patents" class="pv-profile-card-anchor"></div>
+            <!---->
+<div class="pvs-header__container">
+  <div class="pvs-header__top-container--no-stack">
+    <div class="pvs-header__left-container--stack">
+      <div class="pvs-header__title-container">
+          <h2 class="pvs-header__title text-heading-large">
+            <span aria-hidden="true"><!---->Patents<!----></span><span class="visually-hidden"><!---->Patents<!----></span>
+          </h2>
+<!----><!---->      </div>
+
+<!---->    </div>
+
 <!---->  </div>
+</div>
+
+            <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        ph5 display-flex flex-row flex-wrap
+        ">
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+      <div class="
+        display-flex" tabindex="-1" aria-hidden="true">
+    
+<!---->    
+  </div>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+        <div class="
+          display-flex flex-column full-width">
+    
+        <div class="display-flex align-items-center">
+            <span class="mr1 t-bold">
+              <span aria-hidden="true"><!---->Dynamic Resource Commitment Management.<!----></span><span class="visually-hidden"><!---->Dynamic Resource Commitment Management.<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->US 8,479,211 · Issued Jul 3, 2013<!----></span><span class="visually-hidden"><!---->US 8,479,211 · Issued Jul 3, 2013<!----></span>
+          </span>
+<!----><!---->      
+  </div>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->This Elastic Block Storage (EBS) patent describes the management of the block storage to ensure that resources requested by clients are properly provisioned and available.  For example, a client can request a resource.  The EBS control module can create a volume, specifying the number of partitions and/or the way in which data is stored across partitions to guarantee the requested resource to the client.  In addition, partitions and data storage can be updated dynamically without significantly impacting the customer using the volume.  The management and update of resources are optimized using various techniques, including striping data, splitting mapping data, and balancing the data in partitions.<!----></span><span class="visually-hidden"><!---->This Elastic Block Storage (EBS) patent describes the management of the block storage to ensure that resources requested by clients are properly provisioned and available.  For example, a client can request a resource.  The EBS control module can create a volume, specifying the number of partitions and/or the way in which data is stored across partitions to guarantee the requested resource to the client.  In addition, partitions and data storage can be updated dynamically without significantly impacting the customer using the volume.  The management and update of resources are optimized using various techniques, including striping data, splitting mapping data, and balancing the data in partitions.<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+      <div class="
+        display-flex" tabindex="-1" aria-hidden="true">
+    
+<!---->    
+  </div>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+        <div class="
+          display-flex flex-column full-width">
+    
+        <div class="display-flex align-items-center">
+            <span class="mr1 t-bold">
+              <span aria-hidden="true"><!---->Managing Route Selection in a Communication Network<!----></span><span class="visually-hidden"><!---->Managing Route Selection in a Communication Network<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->US 8,472,324 · Issued Jun 25, 2013<!----></span><span class="visually-hidden"><!---->US 8,472,324 · Issued Jun 25, 2013<!----></span>
+          </span>
+<!----><!---->      
+  </div>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->This patent relates to a way to reduce processing load on network routers in our AWS data centers.  In particular, the described technology can offload pre-determined route calculations and storage from edge routers to a central processing system in order to increase edge router performance.  In some cases, this facilitates the use of lower-capability, cheap commodity-based routers.<!----><br></span><span class="visually-hidden"><!---->This patent relates to a way to reduce processing load on network routers in our AWS data centers.  In particular, the described technology can offload pre-determined route calculations and storage from edge routers to a central processing system in order to increase edge router performance.  In some cases, this facilitates the use of lower-capability, cheap commodity-based routers.<span class="white-space-pre"> </span></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+      <div class="
+        display-flex" tabindex="-1" aria-hidden="true">
+    
+<!---->    
+  </div>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+        <div class="
+          display-flex flex-column full-width">
+    
+        <div class="display-flex align-items-center">
+            <span class="mr1 t-bold">
+              <span aria-hidden="true"><!---->RESOURCE ISOLATION THROUGH REINFORCEMENT LEARNING<!----></span><span class="visually-hidden"><!---->RESOURCE ISOLATION THROUGH REINFORCEMENT LEARNING<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->US US 8429096 B1 · Issued Apr 23, 2013<!----></span><span class="visually-hidden"><!---->US US 8429096 B1 · Issued Apr 23, 2013<!----></span>
+          </span>
+<!----><!---->      
+  </div>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                    <div class="pv2">
+            <a class="optional-action-target-wrapper artdeco-button artdeco-button--secondary artdeco-button--2 artdeco-button--muted 
+      inline-flex justify-center align-self-flex-start
+      
+      " target="_blank" href="http://www.google.com/patents/US8429096">
+<!---->      <span class="pvs-navigation__text">
+        See patent
+      </span>
+<!---->  </a>
+
+
+    </div>
+
+
+        </li>
+        <li class=" ">
+                <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class="pvs-list__item--with-top-padding ">
+                <div class="display-flex ">
+    <div class="
+      display-flex full-width">
+    
+      
+  <div class="pv-shared-text-with-see-more t-14 t-normal t-black display-flex align-items-center">
+    <div class="inline-show-more-text
+    inline-show-more-text--is-collapsed
+    
+    
+    
+    " style="line-height:1.9rem;max-height:3.8rem;">
+
+    <span aria-hidden="true"><!---->Systems and methods for providing resource isolation in a shared computing environment using reinforcement learning (RL) techniques are disclosed. A resource isolation mechanism may be applied in a shared storage system, or database service, that limits the resource utilization of each namespace to its specified allocation. For example, the resource isolation mechanism may be used to limit the I/O utilization of database applications in a shared computing system (e.g., a system supporting a database service) to a specified limit. In such embodiments, RL techniques may be applied to the system to automatically control the rate of queries made by an application. RL techniques, such as those based on the State-Action-Reward-State-Action (SARSA) method may be effective in controlling the I/O utilization of database applications for different workloads. RL techniques may be applied globally by the service, or may be applied to particular subscribers, applications, shared resources, namespaces, or query types.<!----></span><span class="visually-hidden"><!---->Systems and methods for providing resource isolation in a shared computing environment using reinforcement learning (RL) techniques are disclosed. A resource isolation mechanism may be applied in a shared storage system, or database service, that limits the resource utilization of each namespace to its specified allocation. For example, the resource isolation mechanism may be used to limit the I/O utilization of database applications in a shared computing system (e.g., a system supporting a database service) to a specified limit. In such embodiments, RL techniques may be applied to the system to automatically control the rate of queries made by an application. RL techniques, such as those based on the State-Action-Reward-State-Action (SARSA) method may be effective in controlling the I/O utilization of database applications for different workloads. RL techniques may be applied globally by the service, or may be applied to particular subscribers, applications, shared resources, namespaces, or query types.<!----></span>
+
+<!----></div>
+  </div>
+
+  
+  </div>
+
+</div>
+
+        </li>
+    </ul>
+<!----></div>
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
 </div>
 
         </li>
@@ -333,9 +3765,9 @@ profile_7 = """
             <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--3 artdeco-button--muted 
       inline-flex justify-center full-width align-items-center artdeco-button--fluid
       
-      " target="_self" href="https://www.linkedin.com/in/aileen-gribbin-02928210/recent-activity/">
+      " target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/details/patents?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0">
 <!---->      <span class="pvs-navigation__text">
-        Show all activity
+        Show all 5 patents
       </span>
       <div class="pvs-navigation__icon">
         <li-icon aria-hidden="true" type="arrow-right-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="mercado-match" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
@@ -353,206 +3785,6 @@ profile_7 = """
 <!---->  </section>
 
 <!---->
-          <section id="ember72" class="artdeco-card ember-view break-words pb3
-      
-      mt2"><!---->
-
-    <div id="experience" class="pv-profile-card-anchor"></div>
-            <!---->
-<div class="pvs-header__container">
-  <div class="pvs-header__top-container--no-stack">
-    <div class="pvs-header__left-container--stack">
-      <div class="pvs-header__title-container">
-          <h2 class="pvs-header__title text-heading-large">
-            <span aria-hidden="true"><!---->Experience<!----></span><span class="visually-hidden"><!---->Experience<!----></span>
-          </h2>
-<!----><!---->      </div>
-
-<!---->    </div>
-
-<!---->  </div>
-</div>
-
-            <div class="pvs-list__outer-container">
-<!---->    <ul class="pvs-list
-        ph5 display-flex flex-row flex-wrap
-        ">
-        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
-                <!----><div class="pvs-entity
-    pvs-entity--padded pvs-list__item--no-padding-when-nested
-    
-    ">
-  <div>
-        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
-        display-flex" target="_self" href="https://www.linkedin.com/company/11255245/">
-        <div class="ivm-image-view-model  pvs-entity__image ">
-    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
-    
-    ">
-<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C4D0BAQG8VC4qIl6F7A/company-logo_100_100/0/1623698065975?e=2147483647&amp;v=beta&amp;t=v-r8f09czpceivvl__CNq8LbC4P3ItfhGNuO-eknwTE" loading="lazy" height="48" alt="Forsyth Street Advisors logo" id="ember73" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
-</div>
-  </div>
-    </a>
-
-  </div>
-
-  <div class="display-flex flex-column full-width align-self-center">
-    <div class="display-flex flex-row justify-space-between">
-        <div class="
-          display-flex flex-column full-width">
-    
-        <div class="display-flex align-items-center">
-            <span class="mr1 t-bold">
-              <span aria-hidden="true"><!---->Partner<!----></span><span class="visually-hidden"><!---->Partner<!----></span>
-            </span>
-<!----><!----><!---->        </div>
-          <span class="t-14 t-normal">
-            <span aria-hidden="true"><!---->Forsyth Street Advisors<!----></span><span class="visually-hidden"><!---->Forsyth Street Advisors<!----></span>
-          </span>
-<!----><!---->      
-  </div>
-
-
-<!---->
-      <div class="pvs-entity__action-container">
-<!---->      </div>
-    </div>
-
-<!---->  </div>
-</div>
-
-        </li>
-        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
-                <!----><div class="pvs-entity
-    pvs-entity--padded pvs-list__item--no-padding-when-nested
-    
-    ">
-  <div>
-        <a data-field="experience_company_logo" class="optional-action-target-wrapper 
-        display-flex" target="_self" tabindex="-1" aria-hidden="true" href="https://www.linkedin.com/search/results/all/?keywords=NYC+HPD">
-        <div class="ivm-image-view-model  pvs-entity__image ">
-    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
-    
-    ">
-    <div class="EntityPhoto-square-3-ghost-company ivm-view-attr__ghost-entity ">
-<!---->    </div>
-</div>
-  </div>
-    </a>
-
-  </div>
-
-  <div class="display-flex flex-column full-width align-self-center">
-    <div class="display-flex flex-row justify-space-between">
-        <div class="
-          display-flex flex-column full-width">
-    
-        <div class="display-flex align-items-center">
-            <span class="mr1 t-bold">
-              <span aria-hidden="true"><!---->Associate/Assistant Commissioner<!----></span><span class="visually-hidden"><!---->Associate/Assistant Commissioner<!----></span>
-            </span>
-<!----><!----><!---->        </div>
-          <span class="t-14 t-normal">
-            <span aria-hidden="true"><!---->NYC HPD<!----></span><span class="visually-hidden"><!---->NYC HPD<!----></span>
-          </span>
-          <span class="t-14 t-normal t-black--light">
-            <span aria-hidden="true"><!---->2002 - 2005 · 3 yrs<!----></span><span class="visually-hidden"><!---->2002 - 2005 · 3 yrs<!----></span>
-          </span>
-<!---->      
-  </div>
-
-
-<!---->
-      <div class="pvs-entity__action-container">
-<!---->      </div>
-    </div>
-
-<!---->  </div>
-</div>
-
-        </li>
-    </ul>
-<!----></div>
-
-<!---->  </section>
-
-<!---->
-          <section id="ember74" class="artdeco-card ember-view break-words pb3
-      
-      mt2"><!---->
-
-    <div id="education" class="pv-profile-card-anchor"></div>
-            <!---->
-<div class="pvs-header__container">
-  <div class="pvs-header__top-container--no-stack">
-    <div class="pvs-header__left-container--stack">
-      <div class="pvs-header__title-container">
-          <h2 class="pvs-header__title text-heading-large">
-            <span aria-hidden="true"><!---->Education<!----></span><span class="visually-hidden"><!---->Education<!----></span>
-          </h2>
-<!----><!---->      </div>
-
-<!---->    </div>
-
-<!---->  </div>
-</div>
-
-            <div class="pvs-list__outer-container">
-<!---->    <ul class="pvs-list
-        ph5 display-flex flex-row flex-wrap
-        ">
-        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--one-column">
-                <!----><div class="pvs-entity
-    pvs-entity--padded pvs-list__item--no-padding-when-nested
-    
-    ">
-  <div>
-        <a class="optional-action-target-wrapper 
-        display-flex" target="_self" href="https://www.linkedin.com/company/3523/">
-        <div class="ivm-image-view-model  pvs-entity__image ">
-    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
-    
-    ">
-<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C560BAQE8SOXGRyv7LA/company-logo_100_100/0/1519856401039?e=2147483647&amp;v=beta&amp;t=ku-uWxfUjoUtqvcrk5YtWSOsoMELKRJWd7DKPf9svsY" loading="lazy" height="48" alt="Cornell University logo" id="ember75" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
-</div>
-  </div>
-    </a>
-
-  </div>
-
-  <div class="display-flex flex-column full-width align-self-center">
-    <div class="display-flex flex-row justify-space-between">
-          <a class="optional-action-target-wrapper 
-          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/3523/">
-        <div class="display-flex align-items-center">
-            <span class="mr1 hoverable-link-text t-bold">
-              <span aria-hidden="true"><!---->Cornell University<!----></span><span class="visually-hidden"><!---->Cornell University<!----></span>
-            </span>
-<!----><!----><!---->        </div>
-          <span class="t-14 t-normal">
-            <span aria-hidden="true"><!---->Bachelor of Science (BS), Resource Economics<!----></span><span class="visually-hidden"><!---->Bachelor of Science (BS), Resource Economics<!----></span>
-          </span>
-          <span class="t-14 t-normal t-black--light">
-            <span aria-hidden="true"><!---->1978 - 1982<!----></span><span class="visually-hidden"><!---->1978 - 1982<!----></span>
-          </span>
-<!---->      </a>
-
-
-<!---->
-      <div class="pvs-entity__action-container">
-<!---->      </div>
-    </div>
-
-<!---->  </div>
-</div>
-
-        </li>
-    </ul>
-<!----></div>
-
-<!---->  </section>
-
-<!---->
         <!---->
 <!---->
         <!---->
@@ -567,17 +3799,7 @@ profile_7 = """
 <!---->
         <!---->
 <!---->
-        <!---->
-<!---->
-        <!---->
-<!---->
-        <!---->
-<!---->
-        <!---->
-<!---->
-        <!---->
-<!---->
-          <section id="ember91" class="artdeco-card ember-view break-words pb3
+          <section id="ember532" class="artdeco-card ember-view break-words pb3
       
       mt2"><!---->
 
@@ -597,23 +3819,27 @@ profile_7 = """
 <!---->  </div>
 </div>
 
-              <div id="ember92" class="artdeco-tabs artdeco-tabs--size-t-48 ember-view">
-      <div aria-multiselectable="false" id="ember93" class="artdeco-tablist artdeco-tablist--no-wrap ember-view" role="tablist">
-          <button tabindex="0" aria-selected="true" id="ember94" class="artdeco-tab active artdeco-tab--selected ember-view" role="tab" aria-controls="ember97">
+              <div id="ember533" class="artdeco-tabs artdeco-tabs--size-t-48 ember-view">
+      <div aria-multiselectable="false" id="ember534" class="artdeco-tablist artdeco-tablist--no-wrap ember-view" role="tablist">
+          <button tabindex="0" aria-selected="true" id="ember535" class="artdeco-tab active artdeco-tab--selected ember-view" role="tab" aria-controls="ember539">
+            <span aria-hidden="true"><!---->Influencers<!----></span><span class="visually-hidden"><!---->Influencers<!----></span>
+          </button>
+
+          <button tabindex="-1" aria-selected="false" id="ember536" class="artdeco-tab ember-view" role="tab" aria-controls="ember544">
             <span aria-hidden="true"><!---->Companies<!----></span><span class="visually-hidden"><!---->Companies<!----></span>
           </button>
 
-          <button tabindex="-1" aria-selected="false" id="ember95" class="artdeco-tab ember-view" role="tab" aria-controls="ember102">
+          <button tabindex="-1" aria-selected="false" id="ember537" class="artdeco-tab ember-view" role="tab" aria-controls="ember549">
             <span aria-hidden="true"><!---->Groups<!----></span><span class="visually-hidden"><!---->Groups<!----></span>
           </button>
 
-          <button tabindex="-1" aria-selected="false" id="ember96" class="artdeco-tab ember-view" role="tab" aria-controls="ember105">
+          <button tabindex="-1" aria-selected="false" id="ember538" class="artdeco-tab ember-view" role="tab" aria-controls="ember552">
             <span aria-hidden="true"><!---->Schools<!----></span><span class="visually-hidden"><!---->Schools<!----></span>
           </button>
 
       
 </div>
-      <div tabindex="0" id="ember97" class="artdeco-tabpanel active ember-view" role="tabpanel" aria-labelledby="ember94">
+      <div tabindex="0" id="ember539" class="artdeco-tabpanel active ember-view" role="tabpanel" aria-labelledby="ember535">
               <div class="pvs-list__outer-container">
 <!---->    <ul class="pvs-list
         ph5 display-flex flex-row flex-wrap
@@ -624,13 +3850,13 @@ profile_7 = """
     
     ">
   <div>
-        <a data-field="active_tab_companies_interests" class="optional-action-target-wrapper 
-        display-flex" target="_self" href="https://www.linkedin.com/company/1352905/">
+        <a data-field="active_tab_influencers_interests" class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/in/beth-galetti-60b1106">
         <div class="ivm-image-view-model  pvs-entity__image ">
     <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
     
     ">
-<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C4D0BAQEBzmiFDMcXkw/company-logo_100_100/0/1519910277327?e=2147483647&amp;v=beta&amp;t=kmP0CMY6EVjlSt8QZOr8HzIjxO84KdipGEBsbaX9mns" loading="lazy" height="48" alt="Hudson Valley Property Group logo" id="ember98" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C4E03AQG1UL7JYBrw2Q/profile-displayphoto-shrink_100_100/0/1517669539069?e=1655942400&amp;v=beta&amp;t=m482sG-difPHplWjBnTjtsAwgQRXrYX_Q7y1q9moUc8" loading="lazy" height="48" alt="Beth Galetti profile picture" id="ember540" class="ivm-view-attr__img--centered EntityPhoto-circle-3  lazy-image ember-view">
 </div>
   </div>
     </a>
@@ -639,15 +3865,30 @@ profile_7 = """
 
   <div class="display-flex flex-column full-width align-self-center">
     <div class="display-flex flex-row justify-space-between">
-          <a data-field="active_tab_companies_interests" class="optional-action-target-wrapper 
-          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/1352905/">
+          <a data-field="active_tab_influencers_interests" class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/in/beth-galetti-60b1106">
         <div class="display-flex align-items-center">
             <span class="mr1 hoverable-link-text t-bold">
-              <span aria-hidden="true"><!---->Hudson Valley Property Group<!----></span><span class="visually-hidden"><!---->Hudson Valley Property Group<!----></span>
+              <span aria-hidden="true"><!---->Beth Galetti<!----></span><span class="visually-hidden"><!---->Beth Galetti<!----></span>
             </span>
-<!----><!----><!---->        </div>
-<!---->          <span class="t-14 t-normal t-black--light">
-            <span aria-hidden="true"><!---->866 followers<!----></span><span class="visually-hidden"><!---->866 followers<!----></span>
+<!---->            <div class="ivm-image-view-model  mr1 ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+    <li-icon aria-hidden="true" type="linkedin-influencer-color-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M14 0H2a1 1 0 00-1 1v15l3-2h10a1 1 0 001-1V1a1 1 0 00-1-1zM5 12H3V5h2zM4 4.2A1.27 1.27 0 012.75 3a1.25 1.25 0 012.5 0A1.27 1.27 0 014 4.2zm9 7.8h-2V8.73c0-.79-.18-1.93-1.34-1.93A1.74 1.74 0 008 8.61V12H6V5h1.85v1a2.72 2.72 0 012.29-1.2C12.27 4.8 13 6.09 13 8.29z" fill="#0a66c2"></path>
+</svg></li-icon>
+</div>
+  </div>
+            <span class="pvs-entity__supplementary-info t-14 t-black--light t-normal mr1">
+              <span aria-hidden="true"><!---->· 3rd<!----></span><span class="visually-hidden"><!---->Third degree connection<!----></span>
+            </span>
+        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->SVP, People eXperience and Technology at Amazon<!----></span><span class="visually-hidden"><!---->SVP, People eXperience and Technology at Amazon<!----></span>
+          </span>
+          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->66,006 followers<!----></span><span class="visually-hidden"><!---->66,006 followers<!----></span>
           </span>
 <!---->      </a>
 
@@ -663,7 +3904,175 @@ profile_7 = """
         ">
         <li class=" ">
                     <div class="pv2">
-      <button id="ember99" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">  <li-icon aria-hidden="true" type="plus-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <button id="ember541" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">  <li-icon aria-hidden="true" type="plus-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M14 9H9v5H7V9H2V7h5V2h2v5h5z"></path>
+</svg></li-icon>
+
+<span class="artdeco-button__text">
+    Follow
+</span></button>
+    </div>
+
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--two-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="active_tab_influencers_interests" class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/in/williamhgates">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C4D03AQHqRRhVsnaziA/profile-displayphoto-shrink_100_100/0/1626063510328?e=1655942400&amp;v=beta&amp;t=yyFhj1cgrC6PZSGJeGp9Otu9d4Eqe5Zwa_tmNc3iVSc" loading="lazy" height="48" alt="Bill Gates profile picture" id="ember542" class="ivm-view-attr__img--centered EntityPhoto-circle-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a data-field="active_tab_influencers_interests" class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/in/williamhgates">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Bill Gates<!----></span><span class="visually-hidden"><!---->Bill Gates<!----></span>
+            </span>
+<!---->            <div class="ivm-image-view-model  mr1 ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+    <li-icon aria-hidden="true" type="linkedin-influencer-color-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M14 0H2a1 1 0 00-1 1v15l3-2h10a1 1 0 001-1V1a1 1 0 00-1-1zM5 12H3V5h2zM4 4.2A1.27 1.27 0 012.75 3a1.25 1.25 0 012.5 0A1.27 1.27 0 014 4.2zm9 7.8h-2V8.73c0-.79-.18-1.93-1.34-1.93A1.74 1.74 0 008 8.61V12H6V5h1.85v1a2.72 2.72 0 012.29-1.2C12.27 4.8 13 6.09 13 8.29z" fill="#0a66c2"></path>
+</svg></li-icon>
+</div>
+  </div>
+            <span class="pvs-entity__supplementary-info t-14 t-black--light t-normal mr1">
+              <span aria-hidden="true"><!---->· 3rd<!----></span><span class="visually-hidden"><!---->Third degree connection<!----></span>
+            </span>
+        </div>
+          <span class="t-14 t-normal">
+            <span aria-hidden="true"><!---->Co-chair, Bill &amp; Melinda Gates Foundation<!----></span><span class="visually-hidden"><!---->Co-chair, Bill &amp; Melinda Gates Foundation<!----></span>
+          </span>
+          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->35,551,198 followers<!----></span><span class="visually-hidden"><!---->35,551,198 followers<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                    <div class="pv2">
+      <button id="ember543" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">  <li-icon aria-hidden="true" type="plus-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M14 9H9v5H7V9H2V7h5V2h2v5h5z"></path>
+</svg></li-icon>
+
+<span class="artdeco-button__text">
+    Follow
+</span></button>
+    </div>
+
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+    </ul>
+    <div class="pvs-list__footer-wrapper">
+          <div class="">
+            <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--3 artdeco-button--muted 
+      inline-flex justify-center full-width align-items-center artdeco-button--fluid
+      
+      " target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/details/interests?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;tabIndex=0&amp;detailScreenTabIndex=0">
+<!---->      <span class="pvs-navigation__text">
+        Show all 4 influencers
+      </span>
+      <div class="pvs-navigation__icon">
+        <li-icon aria-hidden="true" type="arrow-right-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="mercado-match" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
+  <path d="M11.45 3L15 8l-3.55 5H9l2.84-4H2V7h9.84L9 3z"></path>
+</svg></li-icon>
+      </div>
+  </a>
+
+
+    </div>
+
+    </div>
+</div>
+
+      </div>
+      <div tabindex="0" hidden="" id="ember544" class="artdeco-tabpanel artdeco-tabpanel--hidden ember-view" role="tabpanel" aria-labelledby="ember536">
+              <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        ph5 display-flex flex-row flex-wrap
+        ">
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--two-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="active_tab_companies_interests" class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/company/5570/">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGFPhqXMAKaTQ/company-logo_100_100/0/1639385003948?e=2147483647&amp;v=beta&amp;t=trxZmTbiRvn_eHS0NQMp25KdfV1XO30xCz44xBlbYxM" loading="lazy" height="48" alt="Vrije Universiteit Amsterdam (VU Amsterdam) logo" id="ember545" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a data-field="active_tab_companies_interests" class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/5570/">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Vrije Universiteit Amsterdam (VU Amsterdam)<!----></span><span class="visually-hidden"><!---->Vrije Universiteit Amsterdam (VU Amsterdam)<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+<!---->          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->216,967 followers<!----></span><span class="visually-hidden"><!---->216,967 followers<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                    <div class="pv2">
+      <button id="ember546" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">  <li-icon aria-hidden="true" type="plus-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
   <path d="M14 9H9v5H7V9H2V7h5V2h2v5h5z"></path>
 </svg></li-icon>
 
@@ -687,12 +4096,12 @@ profile_7 = """
     ">
   <div>
         <a data-field="active_tab_companies_interests" class="optional-action-target-wrapper 
-        display-flex" target="_self" href="https://www.linkedin.com/company/3523/">
+        display-flex" target="_self" href="https://www.linkedin.com/company/64558211/">
         <div class="ivm-image-view-model  pvs-entity__image ">
     <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
     
     ">
-<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C560BAQE8SOXGRyv7LA/company-logo_100_100/0/1519856401039?e=2147483647&amp;v=beta&amp;t=ku-uWxfUjoUtqvcrk5YtWSOsoMELKRJWd7DKPf9svsY" loading="lazy" height="48" alt="Cornell University logo" id="ember100" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C4E0BAQH5ZTUMjFXhyg/company-logo_100_100/0/1578691780720?e=2147483647&amp;v=beta&amp;t=-mHVkxq_OMDYIMOetzrxwT8S5HFE83GYjfMDLpONlw8" loading="lazy" height="48" alt="Amazon Science logo" id="ember547" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
 </div>
   </div>
     </a>
@@ -702,14 +4111,14 @@ profile_7 = """
   <div class="display-flex flex-column full-width align-self-center">
     <div class="display-flex flex-row justify-space-between">
           <a data-field="active_tab_companies_interests" class="optional-action-target-wrapper 
-          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/3523/">
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/company/64558211/">
         <div class="display-flex align-items-center">
             <span class="mr1 hoverable-link-text t-bold">
-              <span aria-hidden="true"><!---->Cornell University<!----></span><span class="visually-hidden"><!---->Cornell University<!----></span>
+              <span aria-hidden="true"><!---->Amazon Science<!----></span><span class="visually-hidden"><!---->Amazon Science<!----></span>
             </span>
 <!----><!----><!---->        </div>
 <!---->          <span class="t-14 t-normal t-black--light">
-            <span aria-hidden="true"><!---->526,663 followers<!----></span><span class="visually-hidden"><!---->526,663 followers<!----></span>
+            <span aria-hidden="true"><!---->228,422 followers<!----></span><span class="visually-hidden"><!---->228,422 followers<!----></span>
           </span>
 <!---->      </a>
 
@@ -725,7 +4134,7 @@ profile_7 = """
         ">
         <li class=" ">
                     <div class="pv2">
-      <button id="ember101" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">  <li-icon aria-hidden="true" type="plus-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <button id="ember548" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">  <li-icon aria-hidden="true" type="plus-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
   <path d="M14 9H9v5H7V9H2V7h5V2h2v5h5z"></path>
 </svg></li-icon>
 
@@ -748,9 +4157,9 @@ profile_7 = """
             <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--3 artdeco-button--muted 
       inline-flex justify-center full-width align-items-center artdeco-button--fluid
       
-      " target="_self" href="https://www.linkedin.com/in/aileen-gribbin-02928210/details/interests?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAIs7aEBmz0fJG_vwLN_DQ-4Mo8pgnAMnN4&amp;tabIndex=0&amp;detailScreenTabIndex=0">
+      " target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/details/interests?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;tabIndex=1&amp;detailScreenTabIndex=1">
 <!---->      <span class="pvs-navigation__text">
-        Show all 8 companies
+        Show all 15 companies
       </span>
       <div class="pvs-navigation__icon">
         <li-icon aria-hidden="true" type="arrow-right-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="mercado-match" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
@@ -766,7 +4175,7 @@ profile_7 = """
 </div>
 
       </div>
-      <div tabindex="0" hidden="" id="ember102" class="artdeco-tabpanel artdeco-tabpanel--hidden ember-view" role="tabpanel" aria-labelledby="ember95">
+      <div tabindex="0" hidden="" id="ember549" class="artdeco-tabpanel artdeco-tabpanel--hidden ember-view" role="tabpanel" aria-labelledby="ember537">
               <div class="pvs-list__outer-container">
 <!---->    <ul class="pvs-list
         ph5 display-flex flex-row flex-wrap
@@ -778,12 +4187,12 @@ profile_7 = """
     ">
   <div>
         <a data-field="active_tab_groups_interests" class="optional-action-target-wrapper 
-        display-flex" target="_self" href="https://www.linkedin.com/groups/4221659">
+        display-flex" target="_self" href="https://www.linkedin.com/groups/67877">
         <div class="ivm-image-view-model  pvs-entity__image ">
     <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
     
     ">
-<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C5607AQGoZ_wDWBsOsg/group-logo_image-shrink_92x92/0/1521158771606?e=2147483647&amp;v=beta&amp;t=hATwiyErdZ0dsxAAPZXMS7BKe7aKQeZerC27NhU0uqc" loading="lazy" height="48" alt="Women in Housing and Finance (NYC) logo" id="ember103" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C4D07AQH9JA343-nqAw/group-logo_image-shrink_48x48/0/1631362667865?e=2147483647&amp;v=beta&amp;t=2n-wKATmN3ETo6jRD4ECVuh4ud0fSGD0P4o36pnI7wE" loading="lazy" height="48" alt="Amazing Amazonians - Network of / for Current &amp; Former Employees of Amazon.com &amp; its subsidiaries logo" id="ember550" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
 </div>
   </div>
     </a>
@@ -793,14 +4202,14 @@ profile_7 = """
   <div class="display-flex flex-column full-width align-self-center">
     <div class="display-flex flex-row justify-space-between">
           <a data-field="active_tab_groups_interests" class="optional-action-target-wrapper 
-          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/groups/4221659">
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/groups/67877">
         <div class="display-flex align-items-center">
             <span class="mr1 hoverable-link-text t-bold">
-              <span aria-hidden="true"><!---->Women in Housing and Finance (NYC)<!----></span><span class="visually-hidden"><!---->Women in Housing and Finance (NYC)<!----></span>
+              <span aria-hidden="true"><!---->Amazing Amazonians - Network of / for Current &amp; Former Employees of Amazon.com &amp; its subsidiaries<!----></span><span class="visually-hidden"><!---->Amazing Amazonians - Network of / for Current &amp; Former Employees of Amazon.com &amp; its subsidiaries<!----></span>
             </span>
 <!----><!----><!---->        </div>
 <!---->          <span class="t-14 t-normal t-black--light">
-            <span aria-hidden="true"><!---->255 members<!----></span><span class="visually-hidden"><!---->255 members<!----></span>
+            <span aria-hidden="true"><!---->11,740 members<!----></span><span class="visually-hidden"><!---->11,740 members<!----></span>
           </span>
 <!---->      </a>
 
@@ -821,12 +4230,12 @@ profile_7 = """
     ">
   <div>
         <a data-field="active_tab_groups_interests" class="optional-action-target-wrapper 
-        display-flex" target="_self" href="https://www.linkedin.com/groups/2708">
+        display-flex" target="_self" href="https://www.linkedin.com/groups/2085042">
         <div class="ivm-image-view-model  pvs-entity__image ">
     <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
     
     ">
-<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C5607AQGSzpL9X4WkBA/group-logo_image-shrink_48x48/0/1631434417479?e=2147483647&amp;v=beta&amp;t=4VGT8CggfEKtpbWLS1lEJLIo607aGXXW_1hpCSd_NGg" loading="lazy" height="48" alt="Commongood Careers logo" id="ember104" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C5607AQEgA_-l5mpAtQ/group-logo_image-shrink_48x48/0/1631002262562?e=2147483647&amp;v=beta&amp;t=f74vl7TV6XQcGI9jes7NP4_aFPY8NM9O3yv7qVwoiWU" loading="lazy" height="48" alt="NoSQL logo" id="ember551" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
 </div>
   </div>
     </a>
@@ -836,14 +4245,14 @@ profile_7 = """
   <div class="display-flex flex-column full-width align-self-center">
     <div class="display-flex flex-row justify-space-between">
           <a data-field="active_tab_groups_interests" class="optional-action-target-wrapper 
-          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/groups/2708">
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/groups/2085042">
         <div class="display-flex align-items-center">
             <span class="mr1 hoverable-link-text t-bold">
-              <span aria-hidden="true"><!---->Commongood Careers<!----></span><span class="visually-hidden"><!---->Commongood Careers<!----></span>
+              <span aria-hidden="true"><!---->NoSQL<!----></span><span class="visually-hidden"><!---->NoSQL<!----></span>
             </span>
 <!----><!----><!---->        </div>
 <!---->          <span class="t-14 t-normal t-black--light">
-            <span aria-hidden="true"><!---->2,797 members<!----></span><span class="visually-hidden"><!---->2,797 members<!----></span>
+            <span aria-hidden="true"><!---->18,858 members<!----></span><span class="visually-hidden"><!---->18,858 members<!----></span>
           </span>
 <!---->      </a>
 
@@ -863,9 +4272,9 @@ profile_7 = """
             <a class="optional-action-target-wrapper artdeco-button artdeco-button--tertiary artdeco-button--3 artdeco-button--muted 
       inline-flex justify-center full-width align-items-center artdeco-button--fluid
       
-      " target="_self" href="https://www.linkedin.com/in/aileen-gribbin-02928210/details/interests?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAAIs7aEBmz0fJG_vwLN_DQ-4Mo8pgnAMnN4&amp;tabIndex=1&amp;detailScreenTabIndex=1">
+      " target="_self" href="https://www.linkedin.com/in/swaminathansivasubramanian/details/interests?profileUrn=urn%3Ali%3Afsd_profile%3AACoAAABk5ssBEUmZmcoXx94l0_mCtRraFvx_Rb0&amp;tabIndex=2&amp;detailScreenTabIndex=2">
 <!---->      <span class="pvs-navigation__text">
-        Show all 6 groups
+        Show all 12 groups
       </span>
       <div class="pvs-navigation__icon">
         <li-icon aria-hidden="true" type="arrow-right-icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" class="mercado-match" data-supported-dps="16x16" fill="currentColor" width="16" height="16" focusable="false">
@@ -881,7 +4290,7 @@ profile_7 = """
 </div>
 
       </div>
-      <div tabindex="0" hidden="" id="ember105" class="artdeco-tabpanel artdeco-tabpanel--hidden ember-view" role="tabpanel" aria-labelledby="ember96">
+      <div tabindex="0" hidden="" id="ember552" class="artdeco-tabpanel artdeco-tabpanel--hidden ember-view" role="tabpanel" aria-labelledby="ember538">
               <div class="pvs-list__outer-container">
 <!---->    <ul class="pvs-list
         ph5 display-flex flex-row flex-wrap
@@ -893,12 +4302,12 @@ profile_7 = """
     ">
   <div>
         <a data-field="active_tab_schools_interests" class="optional-action-target-wrapper 
-        display-flex" target="_self" href="https://www.linkedin.com/school/18946/?legacySchoolId=18946">
+        display-flex" target="_self" href="https://www.linkedin.com/school/18220/?legacySchoolId=18220">
         <div class="ivm-image-view-model  pvs-entity__image ">
     <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
     
     ">
-<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C560BAQE8SOXGRyv7LA/company-logo_100_100/0/1519856401039?e=2147483647&amp;v=beta&amp;t=ku-uWxfUjoUtqvcrk5YtWSOsoMELKRJWd7DKPf9svsY" loading="lazy" height="48" alt="Cornell University logo" id="ember106" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C4E0BAQFRN0d0TDgLNA/company-logo_100_100/0/1519912824418?e=2147483647&amp;v=beta&amp;t=hnPJPoxeqYU0yf4phTrUANwFhMSz1abx6Q6Py8hTQ98" loading="lazy" height="48" alt="Iowa State University logo" id="ember553" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
 </div>
   </div>
     </a>
@@ -908,14 +4317,14 @@ profile_7 = """
   <div class="display-flex flex-column full-width align-self-center">
     <div class="display-flex flex-row justify-space-between">
           <a data-field="active_tab_schools_interests" class="optional-action-target-wrapper 
-          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/school/3523/">
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/school/164452/">
         <div class="display-flex align-items-center">
             <span class="mr1 hoverable-link-text t-bold">
-              <span aria-hidden="true"><!---->Cornell University<!----></span><span class="visually-hidden"><!---->Cornell University<!----></span>
+              <span aria-hidden="true"><!---->Iowa State University<!----></span><span class="visually-hidden"><!---->Iowa State University<!----></span>
             </span>
 <!----><!----><!---->        </div>
 <!---->          <span class="t-14 t-normal t-black--light">
-            <span aria-hidden="true"><!---->526,663 followers<!----></span><span class="visually-hidden"><!---->526,663 followers<!----></span>
+            <span aria-hidden="true"><!---->217,191 followers<!----></span><span class="visually-hidden"><!---->217,191 followers<!----></span>
           </span>
 <!---->      </a>
 
@@ -931,7 +4340,69 @@ profile_7 = """
         ">
         <li class=" ">
                     <div class="pv2">
-      <button id="ember107" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">  <li-icon aria-hidden="true" type="plus-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+      <button id="ember554" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">  <li-icon aria-hidden="true" type="plus-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
+  <path d="M14 9H9v5H7V9H2V7h5V2h2v5h5z"></path>
+</svg></li-icon>
+
+<span class="artdeco-button__text">
+    Follow
+</span></button>
+    </div>
+
+
+        </li>
+    </ul>
+<!----></div>
+  </div>
+</div>
+
+        </li>
+        <li class="artdeco-list__item pvs-list__item--line-separated pvs-list__item--two-column">
+                <!----><div class="pvs-entity
+    pvs-entity--padded pvs-list__item--no-padding-when-nested
+    
+    ">
+  <div>
+        <a data-field="active_tab_schools_interests" class="optional-action-target-wrapper 
+        display-flex" target="_self" href="https://www.linkedin.com/school/15453/?legacySchoolId=15453">
+        <div class="ivm-image-view-model  pvs-entity__image ">
+    <div class="ivm-view-attr__img-wrapper ivm-view-attr__img-wrapper--use-img-tag display-flex
+    
+    ">
+<!---->      <img width="48" src="https://media-exp1.licdn.com/dms/image/C4D0BAQGFPhqXMAKaTQ/company-logo_100_100/0/1639385003948?e=2147483647&amp;v=beta&amp;t=trxZmTbiRvn_eHS0NQMp25KdfV1XO30xCz44xBlbYxM" loading="lazy" height="48" alt="Vrije Universiteit Amsterdam (VU Amsterdam) logo" id="ember555" class="ivm-view-attr__img--centered EntityPhoto-square-3  lazy-image ember-view">
+</div>
+  </div>
+    </a>
+
+  </div>
+
+  <div class="display-flex flex-column full-width align-self-center">
+    <div class="display-flex flex-row justify-space-between">
+          <a data-field="active_tab_schools_interests" class="optional-action-target-wrapper 
+          display-flex flex-column full-width" target="_self" href="https://www.linkedin.com/school/5570/">
+        <div class="display-flex align-items-center">
+            <span class="mr1 hoverable-link-text t-bold">
+              <span aria-hidden="true"><!---->Vrije Universiteit Amsterdam (VU Amsterdam)<!----></span><span class="visually-hidden"><!---->Vrije Universiteit Amsterdam (VU Amsterdam)<!----></span>
+            </span>
+<!----><!----><!---->        </div>
+<!---->          <span class="t-14 t-normal t-black--light">
+            <span aria-hidden="true"><!---->216,967 followers<!----></span><span class="visually-hidden"><!---->216,967 followers<!----></span>
+          </span>
+<!---->      </a>
+
+
+<!---->
+      <div class="pvs-entity__action-container">
+<!---->      </div>
+    </div>
+
+      <div class="pvs-list__outer-container">
+<!---->    <ul class="pvs-list
+        
+        ">
+        <li class=" ">
+                    <div class="pv2">
+      <button id="ember556" class="artdeco-button artdeco-button--muted artdeco-button--2 artdeco-button--secondary ember-view" type="button">  <li-icon aria-hidden="true" type="plus-icon" class="artdeco-button__icon" size="small"><svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" data-supported-dps="16x16" fill="currentColor" class="mercado-match" width="16" height="16" focusable="false">
   <path d="M14 9H9v5H7V9H2V7h5V2h2v5h5z"></path>
 </svg></li-icon>
 
@@ -957,8 +4428,6 @@ profile_7 = """
 
 <!---->  </section>
 
-<!---->
-        <!---->
 <!---->
   
         </main>

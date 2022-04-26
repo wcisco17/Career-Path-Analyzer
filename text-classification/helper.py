@@ -86,7 +86,7 @@ def preprocess_text(text, flg_stemm=False, flg_lemm=True, lst_stopwords=None):
 
 
 def transform_text():
-    data = pd.read_csv('../excel-data/1_update-linkedin.csv')
+    data = pd.read_csv('../excel-data/f-linkedin-profile.csv')
     data_top = remove_unused_columns(data)[0:13]
     all_profiles = [['' for i in range(0, 13)] for i in range(len(data))]
     profiles_intro_text = list()
