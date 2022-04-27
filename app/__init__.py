@@ -6,7 +6,8 @@ from pandas import DataFrame
 
 from bag_of_words import clean_data_set, apply_prediction_linear_svc
 from careers_helpers import load_data, get_freq_industry, spacing
-from predictions import filter_members_by_industry, get_average_length_industry
+from predictions import filter_members_by_industry, get_average_length_industry, filter_members_by_job_title, \
+    get_type_of_college_percentage
 
 RAW_DATA = load_data(185)
 
@@ -57,27 +58,31 @@ def showcase_input_data_set():
     col1.subheader('I want to work in: ')
 
     # job_title = col2.text_input('Exp: Cloud Engineer, Sales Associate, Business Analysis')
-    job_title = 'Software Engineer at Meta Infrastructure'
+    job_title = 'Product Manager'
 
     dtf = clean_data_set(RAW_DATA)
     prediction, accuracy_score = apply_prediction_linear_svc(dtf, job_title)
 
     if len(job_title) > 0:
         filtered_data = filter_members_by_industry(prediction, RAW_DATA)
+        job_titles_industry = filter_members_by_job_title(dtf, filtered_data, prediction)
 
         spacing(st, 3)
-        st.subheader(f"{prediction} Industry with {accuracy_score.__round__(2)}% rate")
+        st.subheader(f"{prediction} Industry with {round(accuracy_score, 2)}% rate")
         spacing(st, 1)
 
-        showcase_metric(filtered_data)
+        showcase_metric(filtered_data, job_titles_industry)
 
 
-def showcase_metric(data: DataFrame):
+def showcase_metric(data: DataFrame, job_titles_industry: [[List]]):
     col1, col2, col3 = st.columns(3)
-    average_length = get_average_length_industry(data)
+    average_length = get_average_length_industry(data, job_titles_industry)
 
     col1.metric("Members Count", f"{len(data)} members")
-    col2.metric("Average length in the industry", f"{average_length} years")
+    col2.metric("Average duration in the industry", f"{round(average_length, 1)} years")
+    spacing(st, 3)
+
+    get_type_of_college_percentage(data)
 
 
 def main_page():

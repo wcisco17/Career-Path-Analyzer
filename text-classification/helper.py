@@ -27,7 +27,7 @@ def is_fine(st: str) -> str:
 
 
 def transform_profession(data_top, data):
-    profiles = [['' for i in range(0, 13)] for i in range(len(data))]
+    profiles = [['' for _ in range(0, 13)] for _ in range(len(data))]
     profiles_profession = list()
 
     for top in range(len(data_top)):
