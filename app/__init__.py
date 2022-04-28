@@ -3,11 +3,11 @@ from typing import List
 import streamlit as st
 import pandas as pd
 from pandas import DataFrame
-
 from bag_of_words import clean_data_set, apply_prediction_linear_svc
-from careers_helpers import load_data, get_freq_industry, spacing
+from careers_helpers import load_data, get_freq_industry, spacing, plot_graph_horizontal
 from predictions import filter_members_by_industry, get_average_length_industry, filter_members_by_job_title, \
-    get_type_of_college_percentage
+    get_type_of_college_percentage, get_most_attended_schools, get_popular_companies, get_first_role_length, \
+    get_popular_field_of_study, get_popular_skills
 
 RAW_DATA = load_data(185)
 
@@ -57,8 +57,7 @@ def showcase_input_data_set():
 
     col1.subheader('I want to work in: ')
 
-    # job_title = col2.text_input('Exp: Cloud Engineer, Sales Associate, Business Analysis')
-    job_title = 'Product Manager'
+    job_title = col2.text_input('Exp: Cloud Engineer, Sales Associate, Business Analysis')
 
     dtf = clean_data_set(RAW_DATA)
     prediction, accuracy_score = apply_prediction_linear_svc(dtf, job_title)
@@ -77,12 +76,81 @@ def showcase_input_data_set():
 def showcase_metric(data: DataFrame, job_titles_industry: [[List]]):
     col1, col2, col3 = st.columns(3)
     average_length = get_average_length_industry(data, job_titles_industry)
+    college_count = get_type_of_college_percentage(data)
+    frequent_schools = get_most_attended_schools(data)
+    length_of_first_role = get_first_role_length(data)
+    popular_field_of_study = get_popular_field_of_study(data)
+
+    bachelor_percentage = (round(college_count.get('Bachelor') / len(data), 2))
 
     col1.metric("Members Count", f"{len(data)} members")
     col2.metric("Average duration in the industry", f"{round(average_length, 1)} years")
+    col3.metric("% with a Bachelor", f"{bachelor_percentage}%")
+    st.metric('Length of stay in their first job', f"{length_of_first_role} years")
     spacing(st, 3)
 
-    get_type_of_college_percentage(data)
+    education_section(college_count, frequent_schools, popular_field_of_study)
+    industry_section(data)
+
+
+def industry_section(data: DataFrame):
+    st.subheader('Industry Stats')
+    with st.expander("Popular Companies"):
+        popular_companies = get_popular_companies(data)
+        graph_popular_companies = plot_graph_horizontal(
+            popular_companies.keys(),
+            popular_companies.values(),
+            '# of people',
+            'Popular Companies',
+            10
+        )
+        st.pyplot(graph_popular_companies)
+    with st.expander('Sought after after skills'):
+        st.text('Skills')
+        skills = get_popular_skills(data)
+        for items in skills:
+            st.markdown(f"""
+                <li>{items}</li>    
+            """, unsafe_allow_html=True)
+
+
+def education_section(college_count: dict, frequent_schools: dict, popular_field_of_study: dict):
+    st.subheader('Education Stats')
+    spacing(st, 2)
+    education, education_count = college_count.keys(), college_count.values()
+    schools, schools_count = frequent_schools.keys(), frequent_schools.values()
+    field_study, field_study_count = popular_field_of_study.keys(), popular_field_of_study.values()
+
+    graph_college_count = plot_graph_horizontal(
+        education,
+        education_count,
+        '# of people',
+        'Showcasing the education level in the current market',
+        25
+    )
+
+    graph_frequent_schools = plot_graph_horizontal(
+        schools,
+        schools_count,
+        '# of people',
+        'School attended in corpus',
+        10
+    )
+
+    graph_frequent_study = plot_graph_horizontal(
+        field_study,
+        field_study_count,
+        '# of people',
+        'School attended in corpus',
+        10
+    )
+
+    with st.expander("Highest Education level Chart"):
+        st.pyplot(graph_college_count)
+    with st.expander("Most attended School"):
+        st.pyplot(graph_frequent_schools)
+    with st.expander('Popular Field of study'):
+        st.pyplot(graph_frequent_study)
 
 
 def main_page():
@@ -94,7 +162,7 @@ def main_page():
         for the current market.
     ''')
 
-    if st.checkbox('Toggle to view the full introduction about the project'):
+    with st.expander('Toggle to view the full introduction about the project'):
         showcase_data_set()
 
     # showcasing input data for prediction

@@ -1,4 +1,3 @@
-from nltk.corpus import stopwords
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from sklearn.feature_extraction.text import TfidfTransformer
@@ -32,9 +31,8 @@ def clean_data_set(data_csv):
     dtf['profession'] = profession
 
     # Clean your data set first remove unwanted words like: "I", "me", "you"
-    list_stop_of_words = stopwords.words('english')
     dtf['clean_text_profession'] = dtf['profession'].apply(
-        lambda x: preprocess_text(x, flg_stemm=False, flg_lemm=True, lst_stopwords=list_stop_of_words)
+        lambda x: preprocess_text(x, flg_stemm=False, flg_lemm=True)
     )
 
     return dtf

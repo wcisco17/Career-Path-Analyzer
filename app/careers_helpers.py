@@ -1,6 +1,12 @@
 import pandas as pd
 import nltk
 import re
+from nltk.corpus import stopwords
+
+import numpy as np
+from matplotlib import pyplot as plt
+
+list_stop_of_words = stopwords.words('english')
 
 nltk.download('stopwords')
 nltk.download('wordnet')
@@ -80,7 +86,8 @@ def remove_unused_columns(data_columns):
 
 
 # This function will preprocess our professions into one single list.
-def preprocess_text(text, flg_stemm=False, flg_lemm=True, lst_stopwords=None):
+def preprocess_text(text, flg_stemm=False, flg_lemm=True):
+    lst_stopwords = stopwords.words('english')
     # remove all punctuations and mark as lowercase
     text = re.sub(r'[^\w\s]', '', str(text).lower().strip())
     # convert our strings into a list.
@@ -104,3 +111,18 @@ def preprocess_text(text, flg_stemm=False, flg_lemm=True, lst_stopwords=None):
 def spacing(st, num_of_spacing):
     for i in range(0, num_of_spacing):
         st.text('\n')
+
+
+def plot_graph_horizontal(keys, values, x_label: str, title: str, right: int):
+    y_pos = np.arange(len(keys))
+    fig, ax = plt.subplots()
+
+    hbars = ax.barh(y_pos, values, align='center')
+    ax.set_yticks(y_pos)
+    ax.set_yticklabels(keys)
+    ax.invert_yaxis()  # labels read top-to-bottom
+    ax.set_xlabel(x_label)
+    ax.set_title(title)
+    # ax.bar_label(hbars, labels=[item for item in values], padding=8, color='b', fontsize=14)
+    ax.set_xlim(right=right)
+    return fig
