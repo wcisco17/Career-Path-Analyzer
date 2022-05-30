@@ -2,6 +2,26 @@
 
 *Final Undergrad Research - the following is a short version of my final paper*
 
+## Table of Contents  
+[Introduction](#introduction)  
+
+[Final App / Website](#final-app)
+
+[Final Paper](#paper)
+
+<a name="introduction"/>
+
+## Introduction
+This work aims to predict a professional's industry based on a subset of publicly available profiles
+from LinkedIn. We utilize certain features from each profile in our data set, for example, the Headline
+column, and assess several machine learning models for our prediction task. Furthermore, we explore
+pre-built models commonly used for text classification, Bag Of Words, Doc2Vec, and predict the
+accuracy of these models by using classic machine learning algorithms such as K-Nearest Neighbor,
+Naive base classifier, Linear Support Vector Classification, and Decision Tree. This research aims
+to provide a soon-to-be graduate with a breakdown analysis of how professionals went about their
+career path after graduation and which skills they've acquired to lead a successful career.
+
+<a name="final-app"/>
 
 ## Final App
 We built the final software artifact using streamlit, a data visualization tool that gave us a lot of
@@ -31,18 +51,9 @@ specific industry.
 
 <img width="1052" alt="Screen Shot 2022-05-30 at 6 19 40 PM" src="https://user-images.githubusercontent.com/35783824/171064142-99a7f5f2-bcbb-43fa-ac2a-8cc6a6c91808.png">
 
+<a name="paper"/>
 
-## Introduction
-
-This work aims to predict a professional's industry based on a subset of publicly available profiles
-from LinkedIn. We utilize certain features from each profile in our data set, for example, the Headline
-column, and assess several machine learning models for our prediction task. Furthermore, we explore
-pre-built models commonly used for text classification, Bag Of Words, Doc2Vec, and predict the
-accuracy of these models by using classic machine learning algorithms such as K-Nearest Neighbor,
-Naive base classifier, Linear Support Vector Classification, and Decision Tree. This research aims
-to provide a soon-to-be graduate with a breakdown analysis of how professionals went about their
-career path after graduation and which skills they've acquired to lead a successful career.
-
+# Paper
 
 ## Data Preparation
 The dataset used for this paper is not publicly available online and requires a member to log in.
